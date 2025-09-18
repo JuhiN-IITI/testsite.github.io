@@ -1,0 +1,9 @@
+# Can I use any display arm with the Wacom VESA Mount?
+
+Make sure your mount or display arm is strong enough to hold the Cintiq Pro! You must use an arm rated as follows:
+
+Wacom Cintiq Pro 24: up to 30 lbs
+Wacom Cintiq Pro 32: up to 40 lbs
+
+---
+Source: [https://support.wacom.com/hc/en-us/articles/1500006329822-Can-I-use-any-display-arm-with-the-Wacom-VESA-Mount](https://support.wacom.com/hc/en-us/articles/1500006329822-Can-I-use-any-display-arm-with-the-Wacom-VESA-Mount)
