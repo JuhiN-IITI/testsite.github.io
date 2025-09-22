@@ -1,3 +1,7 @@
+layout: page
+title: "What is an Extended Warranty and how to do I get service?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Warranty_Claims__Non-Warranty_RepairsRead_More/What_is_an_Extended_Warranty_and_how_to_do_I_get_service
+
 # What is an Extended Warranty and how to do I get service?
 
 Wacom offers an extended warranty through a third party company called Extend (United States only at this time). The extended warranty offers hardware service past Wacom’s original manufacturer warranty.  

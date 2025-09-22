@@ -1,3 +1,7 @@
+layout: page
+title: "Which pen tablet can I use with Android?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/Previous/Which_pen_tablet_can_I_use_with_Android
+
 # Which pen tablet can I use with Android?
 
 The Wacom One Pen Tablets (CTC4110WL & CTC6110WL) are supported on Android 8 & later devices with USB-C connector and Bluetooth connectivity. On Android 8-13 devices, you must install the Wacom Center app for distortion free pen input.

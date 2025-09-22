@@ -1,3 +1,7 @@
+layout: page
+title: "What are the preset Pen Switch settings on the Wacom Movink Pad 11?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MovinkPad_11/What_are_the_preset_Pen_Switch_settings_on_the_Wacom_Movink_Pad_11
+
 # What are the preset Pen Switch settings on the Wacom Movink Pad 11?
 
 By using the switches on supported pens, you can switch to frequently used functions in drawing apps for a smoother creative process. The switch assignments may vary depending on the type of pen.

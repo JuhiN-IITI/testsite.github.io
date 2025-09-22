@@ -1,3 +1,7 @@
+layout: page
+title: "Tumble and Pan/Zoom do not work in my 2D application. What should I do?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/3rd_Party_SoftwareRead_More/Next/Tumble_and_PanZoom_do_not_work_in_my_2D_application_What_should_I_do
+
 # Tumble and Pan/Zoom do not work in my 2D application. What should I do?
 
 Tumble is a 3D function that does not exist in 2D applications. The button will emulate a middle mouse button in 2D applications (which supports scrolling in many applications).

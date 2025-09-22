@@ -1,3 +1,7 @@
+layout: page
+title: "Getting Started with the Wacom ExpressKey Remote"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Pen_nibs_and_Accessories/Getting_Started_with_the_Wacom_ExpressKey_Remote
+
 # Getting Started with the Wacom ExpressKey Remote
 
 Getting Started with the Wacom ExpressKey Remote

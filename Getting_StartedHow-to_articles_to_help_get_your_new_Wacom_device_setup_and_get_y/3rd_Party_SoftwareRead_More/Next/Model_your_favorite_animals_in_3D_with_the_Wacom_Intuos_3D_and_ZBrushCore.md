@@ -1,3 +1,7 @@
+layout: page
+title: "Model your favorite animals in 3D with the Wacom Intuos 3D and ZBrushCore"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/3rd_Party_SoftwareRead_More/Next/Model_your_favorite_animals_in_3D_with_the_Wacom_Intuos_3D_and_ZBrushCore
+
 # Model your favorite animals in 3D with the Wacom Intuos 3D and ZBrushCore
 
 Explore all of your creativity in 3D! With the Intuos 3D and ZBrushCore by Pixologic, you can model, sculpt and print just about anything that you can think of. Intuos 3d is the combination of a pressure sensitive Intuos pen tablet and z-brush core software with online training.

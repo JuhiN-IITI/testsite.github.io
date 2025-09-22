@@ -1,3 +1,7 @@
+layout: page
+title: "Why is my tablet not pairing over Bluetooth or not showing up under Bluetooth settings when in pairing mode?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_Intuos_Pro_2017/Why_is_my_tablet_not_pairing_over_Bluetooth_or_not_showing_up_under_Bluetooth_se
+
 # Why is my tablet not pairing over Bluetooth or not showing up under Bluetooth settings when in pairing mode?
 
 The Bluetooth settings may have been become corrupt.

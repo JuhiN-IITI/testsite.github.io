@@ -1,3 +1,7 @@
+layout: page
+title: "How do I become a Professional Repairer? (EU Only)"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/New_OrdersRead_More/How_do_I_become_a_Professional_Repairer_EU_Only
+
 # How do I become a Professional Repairer? (EU Only)
 
 Within the EU Directive 2009/125/EC, Annex II D 5, Wacom Europe GmbH is required to sell certain repair parts and make repair manuals available to professional repairers.

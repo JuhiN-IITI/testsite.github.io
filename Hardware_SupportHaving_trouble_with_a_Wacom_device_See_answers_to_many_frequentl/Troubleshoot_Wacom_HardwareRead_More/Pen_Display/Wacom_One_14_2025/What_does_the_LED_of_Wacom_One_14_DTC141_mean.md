@@ -1,3 +1,7 @@
+layout: page
+title: "What does the LED of Wacom One 14 (DTC141) mean?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_14_2025/What_does_the_LED_of_Wacom_One_14_DTC141_mean
+
 # What does the LED of Wacom One 14 (DTC141) mean?
 
 When your Wacom One 14 is on, the power LED stays dim white; the LED turns off when your device is off. The LED blinks slowly while your device is standby or is in power saving mode.

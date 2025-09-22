@@ -1,3 +1,7 @@
+layout: page
+title: "Is the Wacom One 12 compatible with Windows 7 and 8.1?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_2023/Wacom_One_12_2023/Is_the_Wacom_One_12_compatible_with_Windows_7_and_81
+
 # Is the Wacom One 12 compatible with Windows 7 and 8.1?
 
 Not supported.

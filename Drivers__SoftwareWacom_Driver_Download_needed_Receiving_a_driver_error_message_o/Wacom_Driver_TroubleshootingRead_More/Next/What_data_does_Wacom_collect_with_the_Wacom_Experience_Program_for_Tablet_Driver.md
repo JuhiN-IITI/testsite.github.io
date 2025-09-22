@@ -1,3 +1,7 @@
+layout: page
+title: "What data does Wacom collect with the Wacom Experience Program for Tablet Driver?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Next/What_data_does_Wacom_collect_with_the_Wacom_Experience_Program_for_Tablet_Driver
+
 # What data does Wacom collect with the Wacom Experience Program for Tablet Driver?
 
 If you choose to participate in the new Wacom Experience Program for Tablet Driver, the Tablet Driver will collect and aggregate the following Tablet Driver Data over certain time intervals:

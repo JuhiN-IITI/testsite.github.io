@@ -1,3 +1,7 @@
+layout: page
+title: "Right of withdrawal for consumers"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/Next/First/Right_of_withdrawal_for_consumers
+
 # Right of withdrawal for consumers
 
 Full Wacom Estore (Europe) Terms of Sale

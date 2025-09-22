@@ -1,3 +1,7 @@
+layout: page
+title: "How do I pair the Wacom Intuos (CTL-4100WLx, CTL-6100WLx) to my computer via Bluetooth?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Tablet/Wacom_Intuos_2018/How_do_I_pair_the_Wacom_Intuos_CTL-4100WLx_CTL-6100WLx_to_my_computer_via_Blueto
+
 # How do I pair the Wacom Intuos (CTL-4100WLx, CTL-6100WLx) to my computer via Bluetooth?
 
 The WL-versions of Intuos have Bluetooth capabilities: CTL-4100WLK, CTL-4100WLP, CTL-4100WLE, CTL-6100WLK, CTL-6100WLP, CTL-6100WLE

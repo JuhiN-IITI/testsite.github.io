@@ -1,3 +1,7 @@
+layout: page
+title: "What are the System Requirements for my computer to use a Wacom Cintiq Pro 16 (2021)?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_Pro_16_2021/What_are_the_System_Requirements_for_my_computer_to_use_a_Wacom_Cintiq_Pro_16_20
+
 # What are the System Requirements for my computer to use a Wacom Cintiq Pro 16 (2021)?
 
 For PC: Windows® 7 or later

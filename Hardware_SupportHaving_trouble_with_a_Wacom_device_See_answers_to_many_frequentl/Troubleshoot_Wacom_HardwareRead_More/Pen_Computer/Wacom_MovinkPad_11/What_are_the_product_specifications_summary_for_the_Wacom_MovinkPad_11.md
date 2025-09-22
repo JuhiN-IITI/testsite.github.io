@@ -1,3 +1,7 @@
+layout: page
+title: "What are the product specifications summary for the Wacom MovinkPad 11?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MovinkPad_11/What_are_the_product_specifications_summary_for_the_Wacom_MovinkPad_11
+
 # What are the product specifications summary for the Wacom MovinkPad 11?
 
 Display size: 11.45" (29.1cm)

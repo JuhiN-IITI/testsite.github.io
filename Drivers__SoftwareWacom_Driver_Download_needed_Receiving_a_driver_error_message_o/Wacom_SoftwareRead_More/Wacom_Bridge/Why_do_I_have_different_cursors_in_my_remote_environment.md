@@ -1,3 +1,7 @@
+layout: page
+title: "Why do I have different cursors in my remote environment?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Bridge/Why_do_I_have_different_cursors_in_my_remote_environment
+
 # Why do I have different cursors in my remote environment?
 
 Wacom Bridge optionally draws a local screen cursor on the local system, independent of the screen cursor on the remote system. The Local screen cursor and Wacom Inkline are not affected by the connection speed to the remote system, and give users with low speed connections confidence that the stroke was recorded and sent to the remote Windows system. Wacom Bridge defaults to “Show local screen cursor” thus resulting in two cursors.

@@ -1,3 +1,7 @@
+layout: page
+title: "Why is it important to have a precise and linear pressure curve?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Wacom_for_Business/Signature_Devices/Next/First/Why_is_it_important_to_have_a_precise_and_linear_pressure_curve
+
 # Why is it important to have a precise and linear pressure curve?
 
 Forensic experts require precise information on the relation of force applied and pressure levels. Only with a linear pressure curve can signature devices (can) differentiate between various pressure levels and provide an appropriate resolution rate.

@@ -1,3 +1,7 @@
+layout: page
+title: "Is the Cintiq 27 QHD supported by the Wacom Color Manager software version 1.6.0 (or above) in Mac OSX 10.15 Catalina?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Color_Manager/Is_the_Cintiq_27_QHD_supported_by_the_Wacom_Color_Manager_software_version_160_o
+
 # Is the Cintiq 27 QHD supported by the Wacom Color Manager software version 1.6.0 (or above) in Mac OSX 10.15 Catalina?
 
 Wacom is sorry to inform our Cintiq 27QHD users that we will not be able to continue supporting Wacom Color manager beyond version 1.5.1. In order to use this software with Mac OSX 10.15 Catalina, X-Rite (the developers behind the Wacom Color Manager) had to change the architecture to 64-bit. Due to this, and unexpected events independent from Wacom forced us to end the support of Cintiq 27QHD within the Wacom Color Manager version 1.6.0. The Cintiq 27QHD will still work with version 1.5.1 to ensure a smooth workflow. We apologize for the inconvenience. Please contact our team with any questions.

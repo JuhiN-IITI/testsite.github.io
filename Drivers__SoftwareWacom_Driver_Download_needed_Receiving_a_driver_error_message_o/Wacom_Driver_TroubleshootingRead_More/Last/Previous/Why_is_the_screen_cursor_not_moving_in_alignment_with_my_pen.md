@@ -1,3 +1,7 @@
+layout: page
+title: "Why is the screen cursor not moving in alignment with my pen?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Why_is_the_screen_cursor_not_moving_in_alignment_with_my_pen
+
 # Why is the screen cursor not moving in alignment with my pen?
 
 To adjust the alignment of your screen cursor to you pen tip for a pen display (except DTH/DTK-2200), follow the instructions in How can I adjust the screen cursor location relative to the pen tip on my pen display?

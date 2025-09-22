@@ -1,3 +1,7 @@
+layout: page
+title: "Why is Google Chrome not accepting clicks or is lagging?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Why_is_Google_Chrome_not_accepting_clicks_or_is_lagging
+
 # Why is Google Chrome not accepting clicks or is lagging?
 
 Recent changes in the Google Chrome web browser application with the m60 update, has caused some reported issues by Wacom customers on both Windows and Mac. Some customers have reported the pen will not select some menus or the application will act as if the pen is not clicking in the window. Other customers have also reported that the application will lag when moving the cursor in the window, or moving the window itself.

@@ -1,3 +1,7 @@
+layout: page
+title: "What is included with Wacom One (DTC133)?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_is_included_with_Wacom_One_DTC133
+
 # What is included with Wacom One (DTC133)?
 
 In the Wacom One box, you will find:

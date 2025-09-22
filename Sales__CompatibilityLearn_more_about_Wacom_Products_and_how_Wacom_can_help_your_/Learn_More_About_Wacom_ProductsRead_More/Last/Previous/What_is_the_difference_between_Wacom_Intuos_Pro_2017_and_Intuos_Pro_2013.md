@@ -1,3 +1,7 @@
+layout: page
+title: "What is the difference between Wacom Intuos Pro (2017) and Intuos Pro (2013)?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_is_the_difference_between_Wacom_Intuos_Pro_2017_and_Intuos_Pro_2013
+
 # What is the difference between Wacom Intuos Pro (2017) and Intuos Pro (2013)?
 
 Wacom Intuos Pro is a technical evolution of Intuos 5 combined with innovative on-paper capture features.

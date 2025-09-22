@@ -1,3 +1,7 @@
+layout: page
+title: "How do I connect my computer to a Wacom Cintiq Pro 13/16?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_Pro_16/How_do_I_connect_my_computer_to_a_Wacom_Cintiq_Pro_1316
+
 # How do I connect my computer to a Wacom Cintiq Pro 13/16?
 
 For computers with USB-C port:

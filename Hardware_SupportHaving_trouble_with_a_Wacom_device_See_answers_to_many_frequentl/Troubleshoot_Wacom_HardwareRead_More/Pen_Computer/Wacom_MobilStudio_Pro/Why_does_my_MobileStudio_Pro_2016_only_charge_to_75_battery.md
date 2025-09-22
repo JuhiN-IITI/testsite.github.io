@@ -1,3 +1,7 @@
+layout: page
+title: "Why does my MobileStudio Pro 2016 only charge to 75% battery?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MobilStudio_Pro/Why_does_my_MobileStudio_Pro_2016_only_charge_to_75_battery
+
 # Why does my MobileStudio Pro 2016 only charge to 75% battery?
 
 Wacom has updated the BIOS of the MobileStudio Pro 2016 via a Windows update to help make the most of your device’s battery health. With the update installed, the MobileStudio Pro 2016 will automatically lower the maximum charge level of the tablet to 75% if the tablet has been plugged into a power source and maintained a charge of greater than 90% for charge for more than 14 days. 

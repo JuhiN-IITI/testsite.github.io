@@ -1,3 +1,7 @@
+layout: page
+title: "How do the side buttons on the Bamboo Ink work?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Stylus/Bamboo_Ink_2019/How_do_the_side_buttons_on_the_Bamboo_Ink_work
+
 # How do the side buttons on the Bamboo Ink work?
 
 The Bamboo Ink has two side buttons on the body of the stylus that will change your compatibility setting mode. By pressing and holding both side buttons at same time for 2 seconds you can change the compatibility mode of your pen. In the process of changing this setting, the LED underneath the side buttons will blink.  A single LED blink stand for Wacom AES mode and two blinks changes to Microsoft Pen Protocol. 

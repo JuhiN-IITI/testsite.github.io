@@ -1,3 +1,7 @@
+layout: page
+title: "I’m left-handed. How do I change my MobileStudio Pro so I can use the ExpressKeys on the right side of the display when connected to a PC or Mac?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Computer/Wacom_MobilStudio_Pro/Im_left-handed_How_do_I_change_my_MobileStudio_Pro_so_I_can_use_the_ExpressKeys_
+
 # I’m left-handed. How do I change my MobileStudio Pro so I can use the ExpressKeys on the right side of the display when connected to a PC or Mac?
 
 On Windows:

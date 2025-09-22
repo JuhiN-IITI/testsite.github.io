@@ -1,3 +1,7 @@
+layout: page
+title: "Is there a protection film on the Wacom Cintiq Pro 27 (2022) surface?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_Pro_17_22__27/Next/First/Is_there_a_protection_film_on_the_Wacom_Cintiq_Pro_27_2022_surface
+
 # Is there a protection film on the Wacom Cintiq Pro 27 (2022) surface?
 
 No. Instead of film that may wear off over time, and to provide the best in class writing feeling, anti-reflection against surrounding light condition and surface quality, Wacom have designed and manufactured the new Wacom Cintiq Pro with durable etched glass for long term use in your professional creative workflow.

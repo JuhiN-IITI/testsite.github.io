@@ -1,3 +1,7 @@
+layout: page
+title: "Which model of the Wacom One 13 Touch or Wacom One 12 should you purchase?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_2023/Which_model_of_the_Wacom_One_13_Touch_or_Wacom_One_12_should_you_purchase
+
 # Which model of the Wacom One 13 Touch or Wacom One 12 should you purchase?
 
 To learn more about which connections your computer or smart deivce have, visit our guide here.

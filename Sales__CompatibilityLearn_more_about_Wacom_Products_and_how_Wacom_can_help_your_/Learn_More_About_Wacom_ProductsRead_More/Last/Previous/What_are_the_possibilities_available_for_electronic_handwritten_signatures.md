@@ -1,3 +1,7 @@
+layout: page
+title: "What are the possibilities available for electronic handwritten signatures?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_are_the_possibilities_available_for_electronic_handwritten_signatures
+
 # What are the possibilities available for electronic handwritten signatures?
 
 Document scanners use CCD sensors to read the image of a handwritten signature as colour and brightness information of individual pixels. The signature is recorded as static image information only. The appearance of a signature alone is not a secure criterion, because the individual dynamic parameters of the signature are missing. Signature pads take security to the next level by analysing the signature as it is handwritten on a sensor panel using a special pen.

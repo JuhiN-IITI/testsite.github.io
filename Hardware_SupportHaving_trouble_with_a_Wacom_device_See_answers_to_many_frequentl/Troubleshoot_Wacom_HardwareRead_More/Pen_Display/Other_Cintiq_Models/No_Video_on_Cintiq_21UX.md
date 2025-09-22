@@ -1,3 +1,7 @@
+layout: page
+title: "No Video on Cintiq 21UX"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Other_Cintiq_Models/No_Video_on_Cintiq_21UX
+
 # No Video on Cintiq 21UX
 
 On a PC

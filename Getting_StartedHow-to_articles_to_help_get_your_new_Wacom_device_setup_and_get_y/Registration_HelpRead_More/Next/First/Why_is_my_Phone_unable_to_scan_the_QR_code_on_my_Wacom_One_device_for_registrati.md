@@ -1,3 +1,7 @@
+layout: page
+title: "Why is my Phone unable to scan the QR code on my Wacom One device for registration?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/Next/First/Why_is_my_Phone_unable_to_scan_the_QR_code_on_my_Wacom_One_device_for_registrati
+
 # Why is my Phone unable to scan the QR code on my Wacom One device for registration?
 
 In some cases, a phone may have trouble scanning the QR code on the back of the Wacom One, when following the Wacom ID (browser-based) registration process. We have found that some phones will default to a wide-angle lens making it difficult to read the QR code. If your phone has more than 1 camera, look for and choose a different camera selection button below the scanning window and try again.

@@ -1,3 +1,7 @@
+layout: page
+title: "What are the differences of the various Wacom One 13 Touch models and how do I connect them to my PC or smartphone?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_2023/Wacom_One_13_Touch_2023/What_are_the_differences_of_the_various_Wacom_One_13_Touch_models_and_how_do_I_c
+
 # What are the differences of the various Wacom One 13 Touch models and how do I connect them to my PC or smartphone?
 
 USB-C model

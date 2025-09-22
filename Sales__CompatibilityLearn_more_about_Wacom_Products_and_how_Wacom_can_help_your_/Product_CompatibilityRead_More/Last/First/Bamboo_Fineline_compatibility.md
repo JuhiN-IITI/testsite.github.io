@@ -1,3 +1,7 @@
+layout: page
+title: "Bamboo Fineline compatibility"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/First/Bamboo_Fineline_compatibility
+
 # Bamboo Fineline compatibility
 
 Made for Apple iOS touchscreen devices

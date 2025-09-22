@@ -1,3 +1,7 @@
+layout: page
+title: "Intuos Creative Stylus 2 Compatibility"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Next/Intuos_Creative_Stylus_2_Compatibility
+
 # Intuos Creative Stylus 2 Compatibility
 
 For iPads featuring Bluetooth® Smart technology and iOS8 or later:

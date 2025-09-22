@@ -1,3 +1,7 @@
+layout: page
+title: "Why is my pen LED red, even though the battery is new and properly charged?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Stylus/Other_Stylus/Why_is_my_pen_LED_red_even_though_the_battery_is_new_and_properly_charged
+
 # Why is my pen LED red, even though the battery is new and properly charged?
 
 Loading the pen battery can take several hours. When fully loaded, the pen LED, as well as the LED on the receiver unit, should turn from red to green when the pen is taken out of the compartment and pressed to paper for drawing. This indicates that the Inkling is active and communicating with the receiver. For additional information, please consult the Inkling User Manual. If you’ve recently received a replacement Inkling battery, and the pen isn’t being charged by the holding unit, or, if the unit has charged your Inkling, but the light indicator for the pen remains red, it is likely defective, and will need to be replaced. If you believe this to be the case, please click Contact Us below.

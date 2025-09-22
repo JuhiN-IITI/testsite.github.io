@@ -1,3 +1,7 @@
+layout: page
+title: "Hyland OnBase/Wacom for Business integration"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/3rd-party_Wacom_for_Business_Integrations/Hyland_OnBaseWacom_for_Business_integration
+
 # Hyland OnBase/Wacom for Business integration
 
 There is an active integration with Hyland’s OnBase and the Wacom for Business STU (i.e., STU-540) and DTx (i.e., DTU-1141B) devices:

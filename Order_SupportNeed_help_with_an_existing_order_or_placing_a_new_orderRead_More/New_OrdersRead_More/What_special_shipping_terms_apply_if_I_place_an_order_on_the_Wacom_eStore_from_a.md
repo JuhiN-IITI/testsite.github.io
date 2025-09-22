@@ -1,3 +1,7 @@
+layout: page
+title: "What special shipping terms apply if I place an order on the Wacom eStore from a country outside the EU?"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/New_OrdersRead_More/What_special_shipping_terms_apply_if_I_place_an_order_on_the_Wacom_eStore_from_a
+
 # What special shipping terms apply if I place an order on the Wacom eStore from a country outside the EU?
 
 Deliveries to non-European countries incur additional customs duties, taxes and charges. These are not included in the shipping costs and are invoiced separately from the parcel service.

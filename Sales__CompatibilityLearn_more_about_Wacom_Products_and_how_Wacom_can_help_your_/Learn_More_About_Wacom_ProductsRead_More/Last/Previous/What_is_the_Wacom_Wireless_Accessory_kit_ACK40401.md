@@ -1,3 +1,7 @@
+layout: page
+title: "What is the Wacom Wireless Accessory kit (ACK40401)?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_is_the_Wacom_Wireless_Accessory_kit_ACK40401
+
 # What is the Wacom Wireless Accessory kit (ACK40401)?
 
 With a Wacom Wireless Accessory kit you can conveniently work wirelessly without the clutter of cables. It consists of three parts: the wireless module, a rechargeable battery and a wireless USB receiver.

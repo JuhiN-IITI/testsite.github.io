@@ -1,3 +1,7 @@
+layout: page
+title: "Why is my pen pressure not working?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/First/Why_is_my_pen_pressure_not_working
+
 # Why is my pen pressure not working?
 
 Many applications have built-in support for pressure sensitivity that require you to turn on pressure capabilities within the application before the pen will respond as a pressure-sensitive tool. 

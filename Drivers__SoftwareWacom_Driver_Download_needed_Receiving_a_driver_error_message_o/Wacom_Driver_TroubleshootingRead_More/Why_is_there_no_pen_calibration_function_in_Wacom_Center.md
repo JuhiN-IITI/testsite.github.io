@@ -1,3 +1,7 @@
+layout: page
+title: "Why is there no pen calibration function in Wacom Center?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Why_is_there_no_pen_calibration_function_in_Wacom_Center
+
 # Why is there no pen calibration function in Wacom Center?
 
 The purpose of the pen calibration feature was three-fold: 1. To allow for manual adjustment if the pen sensor is not properly aligned with the display, 2. To compensate for perceived misalignment of the pen tip and screen cursor due to parallax (gap between pen tip and screen surface), 3. To adjust the screen cursor position relative to the pen tip according to a user’s preference.

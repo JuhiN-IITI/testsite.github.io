@@ -1,3 +1,7 @@
+layout: page
+title: "Can I use Windows Ink and Wintab applications with Wacom Bridge?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Bridge/Can_I_use_Windows_Ink_and_Wintab_applications_with_Wacom_Bridge
+
 # Can I use Windows Ink and Wintab applications with Wacom Bridge?
 
 Wacom Bridge supports both Wintab and Windows Ink, remotely and locally with Windows Client.

@@ -1,3 +1,7 @@
+layout: page
+title: "Is there a driver for macOS 12, Monterey?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Next/Is_there_a_driver_for_macOS_12_Monterey
+
 # Is there a driver for macOS 12, Monterey?
 
 Yes, the current driver supports macOS 12.

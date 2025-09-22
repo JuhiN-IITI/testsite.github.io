@@ -1,3 +1,7 @@
+layout: page
+title: "Why is my pen not scrolling or panning correctly after the Windows Fall 2018 Creators update?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Why_is_my_pen_not_scrolling_or_panning_correctly_after_the_Windows_Fall_2018_Cre
+
 # Why is my pen not scrolling or panning correctly after the Windows Fall 2018 Creators update?
 
 Microsoft Windows updates (KB4093112 & KB4089848) have made large changes in the settings for Windows Ink. These changes affect all Pen and Touch devices, not just Wacom Tablets. Users have reported issues with these updates causing their pen not to act as expected in the application they are using. Some examples include, scrolling instead of drawing in Photoshop and not releasing a selection with the pen in Outlook or a web browser like Firefox and Chrome.

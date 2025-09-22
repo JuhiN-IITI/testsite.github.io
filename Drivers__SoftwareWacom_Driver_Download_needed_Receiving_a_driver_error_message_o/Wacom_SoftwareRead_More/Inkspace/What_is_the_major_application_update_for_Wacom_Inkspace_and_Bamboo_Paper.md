@@ -1,3 +1,7 @@
+layout: page
+title: "What is the major application update for Wacom Inkspace and Bamboo Paper?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Inkspace/What_is_the_major_application_update_for_Wacom_Inkspace_and_Bamboo_Paper
+
 # What is the major application update for Wacom Inkspace and Bamboo Paper?
 
 In order to provide better and more reliable services, Wacom has performed many improvements and performance optimization to the cloud infrastructure. User content will be optimized to work with the new improvements on our infrastructure.

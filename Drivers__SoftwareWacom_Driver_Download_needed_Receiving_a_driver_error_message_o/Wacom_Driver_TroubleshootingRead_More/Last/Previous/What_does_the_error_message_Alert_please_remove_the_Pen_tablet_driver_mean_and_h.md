@@ -1,3 +1,7 @@
+layout: page
+title: "What does the error message “Alert, please remove the Pen tablet driver…” mean and how do I fix it?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_does_the_error_message_Alert_please_remove_the_Pen_tablet_driver_mean_and_h
+
 # What does the error message “Alert, please remove the Pen tablet driver…” mean and how do I fix it?
 
 This message indicates that an older Bamboo or Graphire pen tablet driver is installed. The older driver cannot be installed on the computer at the same time as the current Wacom driver. To resolve the issue, please remove the older driver from the computer by following the steps below.

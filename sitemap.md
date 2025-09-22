@@ -1,3 +1,7 @@
+layout: page
+title: "Wacom Support Site Map"
+permalink: /sitemap
+
 # Wacom Support Site Map
 
 - [https://support.wacom.com/hc/en-us/articles/34849924621975-Does-Wacom-have-a-driver-for-macOS-26-Tahoe](/Users/jnaik/workspace/wacom.github.io/Does_Wacom_have_a_driver_for_macOS_26_Tahoe.md)

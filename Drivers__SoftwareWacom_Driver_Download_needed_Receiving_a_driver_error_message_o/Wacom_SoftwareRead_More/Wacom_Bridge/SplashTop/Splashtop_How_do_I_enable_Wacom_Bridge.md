@@ -1,3 +1,7 @@
+layout: page
+title: "Splashtop: How do I enable Wacom Bridge?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Bridge/SplashTop/Splashtop_How_do_I_enable_Wacom_Bridge
+
 # Splashtop: How do I enable Wacom Bridge?
 
 To enable Wacom Bridge:

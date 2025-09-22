@@ -1,3 +1,7 @@
+layout: page
+title: "What does the error message “Your device is not responding” mean and how do I fix it?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_does_the_error_message_Your_device_is_not_responding_mean_and_how_do_I_fix_
+
 # What does the error message “Your device is not responding” mean and how do I fix it?
 
 This message will only appear with a tablet that has the touch feature. The message is caused by the touch driver not starting or a service crash.

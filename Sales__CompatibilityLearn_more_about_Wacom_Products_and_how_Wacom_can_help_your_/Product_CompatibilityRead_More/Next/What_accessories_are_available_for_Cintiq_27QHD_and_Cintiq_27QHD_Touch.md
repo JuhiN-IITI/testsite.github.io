@@ -1,3 +1,7 @@
+layout: page
+title: "What accessories are available for Cintiq 27QHD and Cintiq 27QHD Touch?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Next/What_accessories_are_available_for_Cintiq_27QHD_and_Cintiq_27QHD_Touch
+
 # What accessories are available for Cintiq 27QHD and Cintiq 27QHD Touch?
 
 The Cintiq Ergo Stand. This specially designed stand provides multiple angles and positions for comfortable working. To avoid aches and pains associated with drawing for extended periods you should change your working position regularly.

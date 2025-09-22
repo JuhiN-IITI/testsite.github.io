@@ -1,3 +1,7 @@
+layout: page
+title: "How to delete Wacom User Preferences?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/How_to_delete_Wacom_User_Preferences
+
 # How to delete Wacom User Preferences?
 
 Anytime a setting is changed to the Wacom Tablet Properties, the setting is auto saved as a user preference. Sometimes it may be needed to delete user preferences when troubleshooting an issue. To remove all user preferences, follow the instructions below for your operating system.

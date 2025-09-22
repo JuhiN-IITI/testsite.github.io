@@ -1,3 +1,7 @@
+layout: page
+title: "Can the Pen buttons be customized with the Wacom MovinkPad 11?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MovinkPad_11/Can_the_Pen_buttons_be_customized_with_the_Wacom_MovinkPad_11
+
 # Can the Pen buttons be customized with the Wacom MovinkPad 11?
 
 No, the side switch buttons cannot be customized, however the buttons have preset functions built in. Function is dependent on application and the location of the switch may vary depending on the type of pen.

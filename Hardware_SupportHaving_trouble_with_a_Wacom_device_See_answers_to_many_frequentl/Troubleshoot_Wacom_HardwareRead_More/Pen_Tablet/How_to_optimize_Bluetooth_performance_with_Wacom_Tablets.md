@@ -1,3 +1,7 @@
+layout: page
+title: "How to optimize Bluetooth performance with Wacom Tablets"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/How_to_optimize_Bluetooth_performance_with_Wacom_Tablets
+
 # How to optimize Bluetooth performance with Wacom Tablets
 
 The Wacom Intuos Pro (PTH-460, PTH-660x, PTH860x) and Wacom Intuos (CTL-4100x, CTL-6100x) use a Bluetooth connection to pair with a computer. Bluetooth is a wireless technology standard for exchanging data over short distances. Bluetooth and USB connections each have individual pros, cons and the best choice depends on your individual needs. Bluetooth by nature is slower than a USB connection and a user may see lag and/or connections issues depending on interference, connection type and environmental factors.

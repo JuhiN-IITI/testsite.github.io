@@ -1,3 +1,7 @@
+layout: page
+title: "I experience a gap or offset between the tip of my Bamboo Fineline (3rd gen), Bamboo Fineline 2, or original Bamboo Stylus Fineline and the line on the screen. How can I avoid this?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Stylus/Bamboo_Fineline_3rd_Gen/I_experience_a_gap_or_offset_between_the_tip_of_my_Bamboo_Fineline_3rd_gen_Bambo
+
 # I experience a gap or offset between the tip of my Bamboo Fineline (3rd gen), Bamboo Fineline 2, or original Bamboo Stylus Fineline and the line on the screen. How can I avoid this?
 
 Only Wacom stylus-compatible apps can properly correct this offset, so first ensure that you are using a compatible app and the stylus is paired with it. Check for the blue light to verify that it’s paired. For a list of supporting apps, pairing videos and other information visit www.wacom.com/finelinego.

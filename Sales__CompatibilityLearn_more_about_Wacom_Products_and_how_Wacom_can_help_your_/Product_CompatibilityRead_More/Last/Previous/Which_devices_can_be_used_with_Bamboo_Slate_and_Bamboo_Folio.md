@@ -1,3 +1,7 @@
+layout: page
+title: "Which devices can be used with Bamboo Slate and Bamboo Folio?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/Previous/Which_devices_can_be_used_with_Bamboo_Slate_and_Bamboo_Folio
+
 # Which devices can be used with Bamboo Slate and Bamboo Folio?
 
 For a complete list of tested devices go to wacom.com/comp.

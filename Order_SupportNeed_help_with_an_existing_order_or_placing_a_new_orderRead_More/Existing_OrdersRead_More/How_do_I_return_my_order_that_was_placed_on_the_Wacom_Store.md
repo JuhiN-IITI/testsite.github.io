@@ -1,3 +1,7 @@
+layout: page
+title: "How do I return my order that was placed on the Wacom Store?"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/Existing_OrdersRead_More/How_do_I_return_my_order_that_was_placed_on_the_Wacom_Store
+
 # How do I return my order that was placed on the Wacom Store?
 
 Only products purchased from the Wacom Estore can be returned for a refund.

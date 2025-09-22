@@ -1,3 +1,7 @@
+layout: page
+title: "Why is there no power light on my pen tablet?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_Intuos_Pro_2017/Why_is_there_no_power_light_on_my_pen_tablet
+
 # Why is there no power light on my pen tablet?
 
 Pen tablets like the Intuos or Wacom Intuos Pro are connected to a computer over a USB cable and will show a power light on the tablet once connected.  

@@ -1,3 +1,7 @@
+layout: page
+title: "What accessories are available for the Wacom Cintiq Pro 24/32?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_Pro_24__32/What_accessories_are_available_for_the_Wacom_Cintiq_Pro_2432
+
 # What accessories are available for the Wacom Cintiq Pro 24/32?
 
 Optional accessories for the Wacom Cintiq Pro 24 and Wacom Cintiq Pro 32 include:

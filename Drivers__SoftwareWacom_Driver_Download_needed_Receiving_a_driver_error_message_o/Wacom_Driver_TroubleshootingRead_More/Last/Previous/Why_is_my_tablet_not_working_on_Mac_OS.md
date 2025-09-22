@@ -1,3 +1,7 @@
+layout: page
+title: "Why is my tablet not working on Mac OS?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Why_is_my_tablet_not_working_on_Mac_OS
+
 # Why is my tablet not working on Mac OS?
 
 Your tablet may not be working on recent a Mac OS computer due to security settings. Recent Mac OS versions added many security features to keep the computer safe from applications not downloaded directly from the App store. If an app is downloaded from the internet or directly from a developer, i.e. the Wacom Driver, the OS continues to protect the Mac. These added protections require additional security settings to be adjusted.

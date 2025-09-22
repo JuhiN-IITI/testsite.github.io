@@ -1,3 +1,7 @@
+layout: page
+title: "What are the supported screen resolution sizes of the Wacom Cintiq Pro 27 (2022)?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_Pro_17_22__27/Next/First/What_are_the_supported_screen_resolution_sizes_of_the_Wacom_Cintiq_Pro_27_2022
+
 # What are the supported screen resolution sizes of the Wacom Cintiq Pro 27 (2022)?
 
 The following resolutions are supported by the Wacom Cintiq Pro 27. These resolutions and refresh rate are also dependent on the graphic card being used also.

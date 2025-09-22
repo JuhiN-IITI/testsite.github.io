@@ -1,3 +1,7 @@
+layout: page
+title: "Why does my pen computer not turn on?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MobilStudio_Pro/Why_does_my_pen_computer_not_turn_on
+
 # Why does my pen computer not turn on?
 
 Pen computers like the Wacom MobileStudio Pro or Cintiq Companion, are battery powered and charged using a power adapter.

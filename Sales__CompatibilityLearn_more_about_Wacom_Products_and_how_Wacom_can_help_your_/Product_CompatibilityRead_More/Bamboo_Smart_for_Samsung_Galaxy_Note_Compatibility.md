@@ -1,3 +1,7 @@
+layout: page
+title: "Bamboo Smart for Samsung Galaxy Note Compatibility"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Bamboo_Smart_for_Samsung_Galaxy_Note_Compatibility
+
 # Bamboo Smart for Samsung Galaxy Note Compatibility
 
 The Bamboo Smart is designed for select Samsung Galaxy Note and Tab A with S Pen tablets:

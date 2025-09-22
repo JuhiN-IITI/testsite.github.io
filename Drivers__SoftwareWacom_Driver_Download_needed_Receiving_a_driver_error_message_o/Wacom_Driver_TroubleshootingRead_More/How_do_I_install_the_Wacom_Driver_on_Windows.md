@@ -1,3 +1,7 @@
+layout: page
+title: "How do I install the Wacom Driver on Windows?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/How_do_I_install_the_Wacom_Driver_on_Windows
+
 # How do I install the Wacom Driver on Windows?
 
 For a video version of this guide, please see: https://www.youtube.com/watch?v=lj4t8sWACVk

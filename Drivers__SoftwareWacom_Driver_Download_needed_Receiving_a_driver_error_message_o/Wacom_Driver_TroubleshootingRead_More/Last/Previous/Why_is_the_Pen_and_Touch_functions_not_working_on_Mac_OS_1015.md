@@ -1,3 +1,7 @@
+layout: page
+title: "Why is the Pen and Touch functions not working on Mac OS 10.15?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Why_is_the_Pen_and_Touch_functions_not_working_on_Mac_OS_1015
+
 # Why is the Pen and Touch functions not working on Mac OS 10.15?
 
 Apple updated Mac OS 10.15. Customers have reported an issue with Wacom tablets not working correctly after that update.

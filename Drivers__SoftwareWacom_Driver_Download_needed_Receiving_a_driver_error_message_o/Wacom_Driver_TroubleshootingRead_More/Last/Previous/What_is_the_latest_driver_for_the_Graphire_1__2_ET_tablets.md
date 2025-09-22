@@ -1,3 +1,7 @@
+layout: page
+title: "What is the latest driver for the Graphire 1 & 2 (ET) tablets?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_is_the_latest_driver_for_the_Graphire_1__2_ET_tablets
+
 # What is the latest driver for the Graphire 1 & 2 (ET) tablets?
 
 The Graphire 1 & 2 ET tablets made from 1999-2001 are no longer supported by Wacom and will not work with a current tablet driver. Below are links to the latest drivers available for these tablets.

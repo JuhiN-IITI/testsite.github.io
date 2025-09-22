@@ -1,3 +1,7 @@
+layout: page
+title: "There are clips, screws and a screwdriver in my Wacom Stand Cintiq Pro Stand box. What are they used for?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_Pro_13__16/There_are_clips_screws_and_a_screwdriver_in_my_Wacom_Stand_Cintiq_Pro_Stand_box_
+
 # There are clips, screws and a screwdriver in my Wacom Stand Cintiq Pro Stand box. What are they used for?
 
 For some Cintiq Pro 13/16 units, it may be difficult to attach the stand to the unit. You may need to replace the clips on your Cintiq Pro. Please use the clip kit provided in in the box, under the Quick Start Guide, which includes:

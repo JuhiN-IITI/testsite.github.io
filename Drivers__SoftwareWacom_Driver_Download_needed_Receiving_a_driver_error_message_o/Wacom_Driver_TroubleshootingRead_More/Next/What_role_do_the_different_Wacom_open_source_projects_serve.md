@@ -1,3 +1,7 @@
+layout: page
+title: "What role do the different Wacom open source projects serve?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Next/What_role_do_the_different_Wacom_open_source_projects_serve
+
 # What role do the different Wacom open source projects serve?
 
 The Linux Wacom Project consists of three major components:

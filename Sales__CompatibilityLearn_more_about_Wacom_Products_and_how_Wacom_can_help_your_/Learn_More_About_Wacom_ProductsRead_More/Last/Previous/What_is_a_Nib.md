@@ -1,3 +1,7 @@
+layout: page
+title: "What is a Nib?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_is_a_Nib
+
 # What is a Nib?
 
 The replaceable tip of the Wacom pens.

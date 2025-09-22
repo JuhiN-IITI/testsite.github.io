@@ -1,3 +1,7 @@
+layout: page
+title: "What is included with Wacom One 12(DTC121)?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_2023/Wacom_One_12_2023/What_is_included_with_Wacom_One_12DTC121
+
 # What is included with Wacom One 12(DTC121)?
 
 Global Version:

@@ -1,3 +1,7 @@
+layout: page
+title: "What are the recommended Versions for Bamboo Paper and Inkspace?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Bamboo_Paper/What_are_the_recommended_Versions_for_Bamboo_Paper_and_Inkspace
+
 # What are the recommended Versions for Bamboo Paper and Inkspace?
 
 For smooth use these are the recommended software versions:

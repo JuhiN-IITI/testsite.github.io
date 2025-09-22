@@ -1,3 +1,7 @@
+layout: page
+title: "The display response time on my STU signature pad are very slow. How can I improve it?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Wacom_for_Business/Signature_Devices/The_display_response_time_on_my_STU_signature_pad_are_very_slow_How_can_I_improv
+
 # The display response time on my STU signature pad are very slow. How can I improve it?
 
 The Wacom STU- 520, STU-530, STU-540 and STU-541 signature tablets have a high color display, which enables transfers of full screen color image data to the device. Since color images are much larger than the monochrome images used by other signature pad manufacturers, they may take considerably more time to transfer.

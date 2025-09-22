@@ -1,3 +1,7 @@
+layout: page
+title: "How to package a product to return to Wacom?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Warranty_Claims__Non-Warranty_RepairsRead_More/How_to_package_a_product_to_return_to_Wacom
+
 # How to package a product to return to Wacom?
 
 RMA number

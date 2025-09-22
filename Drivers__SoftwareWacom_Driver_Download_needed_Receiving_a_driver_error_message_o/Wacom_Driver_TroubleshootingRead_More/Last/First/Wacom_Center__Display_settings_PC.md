@@ -1,3 +1,7 @@
+layout: page
+title: "Wacom Center – Display settings (PC)"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/First/Wacom_Center__Display_settings_PC
+
 # Wacom Center – Display settings (PC)
 
 

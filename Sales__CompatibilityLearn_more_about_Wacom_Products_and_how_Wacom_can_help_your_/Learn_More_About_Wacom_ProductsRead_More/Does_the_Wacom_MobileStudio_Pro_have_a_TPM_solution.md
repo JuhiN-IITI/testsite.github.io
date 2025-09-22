@@ -1,3 +1,7 @@
+layout: page
+title: "Does the Wacom MobileStudio Pro have a TPM solution?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Does_the_Wacom_MobileStudio_Pro_have_a_TPM_solution
+
 # Does the Wacom MobileStudio Pro have a TPM solution?
 
 Yes. The Wacom MobileStudio Pro (enhanced) will come with a firmware-based TPM, instead of an IC TPM. This is not a physical TPM module, but is part of the CPU architecture. From a security standpoint, discrete and firmware TPM solutions share the same characteristics:

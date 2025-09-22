@@ -1,3 +1,7 @@
+layout: page
+title: "What do the LED lights mean on the Bamboo Slate and Bamboo Folio?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Smart_Pad/Bamboo_Folio/What_do_the_LED_lights_mean_on_the_Bamboo_Slate_and_Bamboo_Folio
+
 # What do the LED lights mean on the Bamboo Slate and Bamboo Folio?
 
 Bamboo Folio & Bamboo Slate

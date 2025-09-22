@@ -1,3 +1,7 @@
+layout: page
+title: "How do I backup or restore my settings with driver version 6.4.0?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/First/How_do_I_backup_or_restore_my_settings_with_driver_version_640
+
 # How do I backup or restore my settings with driver version 6.4.0?
 
 The backup and restore user settings were removed from the Wacom Center due to a bug in the UI in earlier versions. This has been restored within the 6.4.3-1 release.  

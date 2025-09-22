@@ -1,3 +1,7 @@
+layout: page
+title: "Are any other Wacom pens compatible with Wacom One 12(DTC121)?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_2023/Wacom_One_12_2023/Are_any_other_Wacom_pens_compatible_with_Wacom_One_12DTC121
+
 # Are any other Wacom pens compatible with Wacom One 12(DTC121)?
 
 The Wacom One 12 can use the following pens and pen accessories.

@@ -1,3 +1,7 @@
+layout: page
+title: "What is Wacom Shelf?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MovinkPad_11/What_is_Wacom_Shelf
+
 # What is Wacom Shelf?
 
 It’s an Android app that comes pre-installed on the Wacom MovinkPad 11. This app allows you to view a list of past works and reference images needed for your creations.

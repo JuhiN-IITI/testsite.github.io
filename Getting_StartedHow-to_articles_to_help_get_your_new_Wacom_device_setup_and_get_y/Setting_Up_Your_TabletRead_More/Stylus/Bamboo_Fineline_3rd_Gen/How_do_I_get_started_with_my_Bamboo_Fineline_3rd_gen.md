@@ -1,3 +1,7 @@
+layout: page
+title: "How do I get started with my Bamboo Fineline (3rd gen)?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Stylus/Bamboo_Fineline_3rd_Gen/How_do_I_get_started_with_my_Bamboo_Fineline_3rd_gen
+
 # How do I get started with my Bamboo Fineline (3rd gen)?
 
 First, prepare your smart stylus: Charge your Bamboo Fineline by connecting it to your computer or USB charger, using the cable provided. Your stylus is ready when the LED turns off. The battery charges in about 2 hours.

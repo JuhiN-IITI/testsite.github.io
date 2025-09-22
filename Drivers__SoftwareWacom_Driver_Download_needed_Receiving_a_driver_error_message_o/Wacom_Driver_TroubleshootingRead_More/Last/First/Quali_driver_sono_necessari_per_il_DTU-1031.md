@@ -1,3 +1,7 @@
+layout: page
+title: "Quali driver sono necessari per il DTU-1031?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/First/Quali_driver_sono_necessari_per_il_DTU-1031
+
 # Quali driver sono necessari per il DTU-1031?
 
 A seconda della versione di Windows, sono necessari due driver:

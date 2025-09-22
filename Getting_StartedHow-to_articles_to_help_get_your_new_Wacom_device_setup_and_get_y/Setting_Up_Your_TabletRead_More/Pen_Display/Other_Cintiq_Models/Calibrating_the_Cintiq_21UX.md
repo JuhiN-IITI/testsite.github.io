@@ -1,3 +1,7 @@
+layout: page
+title: "Calibrating the Cintiq 21UX"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Other_Cintiq_Models/Calibrating_the_Cintiq_21UX
+
 # Calibrating the Cintiq 21UX
 
 Follow these instructions of watch video below to learn how to reduce parallax by calibrating your Cintiq:

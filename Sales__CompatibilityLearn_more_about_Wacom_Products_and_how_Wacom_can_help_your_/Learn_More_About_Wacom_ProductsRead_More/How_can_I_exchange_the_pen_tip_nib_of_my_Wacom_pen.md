@@ -1,3 +1,7 @@
+layout: page
+title: "How can I exchange the pen tip (nib) of my Wacom pen?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/How_can_I_exchange_the_pen_tip_nib_of_my_Wacom_pen
+
 # How can I exchange the pen tip (nib) of my Wacom pen?
 
 Your pen tip (which we refer to as a "nib") will wear with normal use. Usage time varies depending on the amount of pressure you apply to apply to the pen. If your nib develops a flat point or sharp edges, we recommend that you change it. Replacement nibs are packaged with your tablet, with additional nibs available for purchase from the Wacom Store.

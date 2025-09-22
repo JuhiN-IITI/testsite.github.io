@@ -1,3 +1,7 @@
+layout: page
+title: "Digital White Boarding with Wacom"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/eLearningRead_More/Digital_White_Boarding_with_Wacom
+
 # Digital White Boarding with Wacom
 
 While working from home, brainstorming still needs to happen. It’s a break from the tedium of PowerPoint and it’s an opportunity to give our creativity a place to expand.

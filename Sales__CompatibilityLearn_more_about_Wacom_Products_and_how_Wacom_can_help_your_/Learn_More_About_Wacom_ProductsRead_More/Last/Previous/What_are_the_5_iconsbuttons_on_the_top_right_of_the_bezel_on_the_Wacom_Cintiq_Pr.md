@@ -1,3 +1,7 @@
+layout: page
+title: "What are the 5 icons/buttons on the top right of the bezel on the Wacom Cintiq Pro for?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_are_the_5_iconsbuttons_on_the_top_right_of_the_bezel_on_the_Wacom_Cintiq_Pr
+
 # What are the 5 icons/buttons on the top right of the bezel on the Wacom Cintiq Pro for?
 
 These are touch keys that offering instant access to Mode settings, the Wacom Desktop Center application, On screen keyboard, Display settings, and to turn Touch On/Off. You can press on the keys to trigger the function.

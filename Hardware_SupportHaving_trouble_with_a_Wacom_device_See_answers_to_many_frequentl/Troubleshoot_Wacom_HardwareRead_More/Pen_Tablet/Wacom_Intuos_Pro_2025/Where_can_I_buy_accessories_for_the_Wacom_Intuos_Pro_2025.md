@@ -1,3 +1,7 @@
+layout: page
+title: "Where can I buy accessories for the Wacom Intuos Pro (2025)"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_Intuos_Pro_2025/Where_can_I_buy_accessories_for_the_Wacom_Intuos_Pro_2025
+
 # Where can I buy accessories for the Wacom Intuos Pro (2025)
 
 Optional items are available at the Wacom Store in most regions.

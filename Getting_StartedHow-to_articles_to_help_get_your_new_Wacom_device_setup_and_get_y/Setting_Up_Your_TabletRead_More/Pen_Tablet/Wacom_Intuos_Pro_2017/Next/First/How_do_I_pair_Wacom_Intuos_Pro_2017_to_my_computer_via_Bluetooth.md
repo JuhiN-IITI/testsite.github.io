@@ -1,3 +1,7 @@
+layout: page
+title: "How do I pair Wacom Intuos Pro (2017) to my computer via Bluetooth?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Tablet/Wacom_Intuos_Pro_2017/Next/First/How_do_I_pair_Wacom_Intuos_Pro_2017_to_my_computer_via_Bluetooth
+
 # How do I pair Wacom Intuos Pro (2017) to my computer via Bluetooth?
 
 First, Install the Wacom Tablet driver and disconnect the USB cable before continuing with the next steps. You can find the driver from here.

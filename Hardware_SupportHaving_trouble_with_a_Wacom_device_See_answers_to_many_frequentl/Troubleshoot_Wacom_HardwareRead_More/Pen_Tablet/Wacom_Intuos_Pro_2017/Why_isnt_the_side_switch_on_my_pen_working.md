@@ -1,3 +1,7 @@
+layout: page
+title: "Why isn’t the side switch on my pen working?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_Intuos_Pro_2017/Why_isnt_the_side_switch_on_my_pen_working
+
 # Why isn’t the side switch on my pen working?
 
 You can check the functionality of your pen’s side switch through the following series of tests:

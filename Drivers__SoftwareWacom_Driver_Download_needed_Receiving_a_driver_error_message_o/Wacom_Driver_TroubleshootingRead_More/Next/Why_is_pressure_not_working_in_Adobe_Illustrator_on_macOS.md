@@ -1,3 +1,7 @@
+layout: page
+title: "Why is pressure not working in Adobe Illustrator on macOS?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Next/Why_is_pressure_not_working_in_Adobe_Illustrator_on_macOS
+
 # Why is pressure not working in Adobe Illustrator on macOS?
 
 There may be a few reasons why pressure is not working in Adobe Illustrator, from the brush not being setup to use pressure to macOS security settings. Please follow the steps below:

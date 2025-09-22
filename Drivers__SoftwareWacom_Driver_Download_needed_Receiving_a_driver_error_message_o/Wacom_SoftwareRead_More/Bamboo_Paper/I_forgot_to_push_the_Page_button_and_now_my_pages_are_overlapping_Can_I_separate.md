@@ -1,3 +1,7 @@
+layout: page
+title: "I forgot to push the ‘Page’ button and now my pages are overlapping. Can I separate the pages afterwards?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Bamboo_Paper/I_forgot_to_push_the_Page_button_and_now_my_pages_are_overlapping_Can_I_separate
+
 # I forgot to push the ‘Page’ button and now my pages are overlapping. Can I separate the pages afterwards?
 
 Yes, in the Wacom Inkspace app you can use the ‘split’ feature to separate your notes into different pages.

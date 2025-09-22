@@ -1,3 +1,7 @@
+layout: page
+title: "What drivers are necessary for the DTU-1031AX?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_drivers_are_necessary_for_the_DTU-1031AX
+
 # What drivers are necessary for the DTU-1031AX?
 
 There are two drivers for the DTU-1031AX. One is the Wacom tablet driver for the pen digitizer. The other is a video-over-USB (MCT) driver since the DTU-1031AX uses USB to transmit the video signal instead of using a separate video card and cable.

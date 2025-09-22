@@ -1,3 +1,7 @@
+layout: page
+title: "Placing an Order for Your Organization"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/New_OrdersRead_More/Placing_an_Order_for_Your_Organization
+
 # Placing an Order for Your Organization
 
 Bulk purchases of Wacom devices are available from a range of resellers as well as directly through our eStore* . Wacom is pleased to offer excellent volume and education discounts. 

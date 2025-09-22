@@ -1,3 +1,7 @@
+layout: page
+title: "Is there a driver for macOS 14, Sonoma?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Is_there_a_driver_for_macOS_14_Sonoma
+
 # Is there a driver for macOS 14, Sonoma?
 
 The current driver supports macOS 14 (Sonoma). 

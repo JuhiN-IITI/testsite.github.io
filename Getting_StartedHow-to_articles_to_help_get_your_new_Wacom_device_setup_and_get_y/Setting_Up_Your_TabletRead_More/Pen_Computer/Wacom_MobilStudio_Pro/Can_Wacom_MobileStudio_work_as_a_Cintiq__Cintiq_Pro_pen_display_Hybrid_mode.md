@@ -1,3 +1,7 @@
+layout: page
+title: "Can Wacom MobileStudio work as a Cintiq / Cintiq Pro pen display (Hybrid mode)?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Computer/Wacom_MobilStudio_Pro/Can_Wacom_MobileStudio_work_as_a_Cintiq__Cintiq_Pro_pen_display_Hybrid_mode
+
 # Can Wacom MobileStudio work as a Cintiq / Cintiq Pro pen display (Hybrid mode)?
 
 Yes, the MobileStudio can be used in Hybrid mode with a computer running Windows or OSX.

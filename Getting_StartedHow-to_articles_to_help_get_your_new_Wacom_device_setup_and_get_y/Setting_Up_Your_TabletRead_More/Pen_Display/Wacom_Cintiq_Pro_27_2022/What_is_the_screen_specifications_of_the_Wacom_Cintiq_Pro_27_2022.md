@@ -1,3 +1,7 @@
+layout: page
+title: "What is the screen specifications of the Wacom Cintiq Pro 27 (2022)?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_Pro_27_2022/What_is_the_screen_specifications_of_the_Wacom_Cintiq_Pro_27_2022
+
 # What is the screen specifications of the Wacom Cintiq Pro 27 (2022)?
 
 The Wacom Cintiq Pro 27 supports

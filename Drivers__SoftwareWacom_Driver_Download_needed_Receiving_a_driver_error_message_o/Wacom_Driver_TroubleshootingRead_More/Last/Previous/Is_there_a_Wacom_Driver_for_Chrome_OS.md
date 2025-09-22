@@ -1,3 +1,7 @@
+layout: page
+title: "Is there a Wacom Driver for Chrome OS?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Is_there_a_Wacom_Driver_for_Chrome_OS
+
 # Is there a Wacom Driver for Chrome OS?
 
 The One by Wacom, Wacom Intuos, and Wacom One is supported by certain Chrome OS versions natively and do not need a driver to be installed to work. For more information visit our guide here. 

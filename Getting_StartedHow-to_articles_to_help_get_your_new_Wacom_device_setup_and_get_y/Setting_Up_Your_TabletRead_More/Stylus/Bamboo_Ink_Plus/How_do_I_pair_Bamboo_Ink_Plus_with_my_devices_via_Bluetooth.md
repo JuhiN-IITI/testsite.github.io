@@ -1,3 +1,7 @@
+layout: page
+title: "How do I pair Bamboo Ink Plus with my devices via Bluetooth®?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Stylus/Bamboo_Ink_Plus/How_do_I_pair_Bamboo_Ink_Plus_with_my_devices_via_Bluetooth
+
 # How do I pair Bamboo Ink Plus with my devices via Bluetooth®?
 
 From the Windows Start menu, select Settings> Devices > Bluetooth® and make sure Bluetooth® is “On“. Hold the top button for 6 seconds then the Blue LED will start blinking. From the list of devices, select “Bamboo Ink Plus“ and click on “Pair“. Your pen is paired and ready to be used.

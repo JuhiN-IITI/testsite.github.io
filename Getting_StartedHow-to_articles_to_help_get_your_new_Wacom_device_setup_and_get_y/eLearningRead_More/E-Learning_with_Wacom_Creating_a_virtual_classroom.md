@@ -1,3 +1,7 @@
+layout: page
+title: "E-Learning with Wacom: Creating a virtual classroom"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/eLearningRead_More/E-Learning_with_Wacom_Creating_a_virtual_classroom
+
 # E-Learning with Wacom: Creating a virtual classroom
 
 Which platforms can be used for online classes?

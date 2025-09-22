@@ -1,3 +1,7 @@
+layout: page
+title: "What is the screen specifications of the Wacom Cintiq Pro 17, 22 & 27?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_Pro_17_22__27/Next/First/What_is_the_screen_specifications_of_the_Wacom_Cintiq_Pro_17_22__27
+
 # What is the screen specifications of the Wacom Cintiq Pro 17, 22 & 27?
 
 All Wacom Cintiq Pro tablets have Pantone Validated and Pantone SkinTone Validated certifications for color quality.

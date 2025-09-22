@@ -1,3 +1,7 @@
+layout: page
+title: "What are the license options for Wacom Bridge?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Bridge/What_are_the_license_options_for_Wacom_Bridge
+
 # What are the license options for Wacom Bridge?
 
 Commercial License:

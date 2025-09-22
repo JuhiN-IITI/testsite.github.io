@@ -1,3 +1,7 @@
+layout: page
+title: "What is Absolute Positioning?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_is_Absolute_Positioning
+
 # What is Absolute Positioning?
 
 Traditional input devices like a standard PC mouse offer only relative positioning:

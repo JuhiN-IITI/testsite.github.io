@@ -1,3 +1,7 @@
+layout: page
+title: "What is the encryption method used for your STU-430, STU-530, and DTU-1031 signature pads?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Wacom_for_Business/Signature_Devices/What_is_the_encryption_method_used_for_your_STU-430_STU-530_and_DTU-1031_signatu
+
 # What is the encryption method used for your STU-430, STU-530, and DTU-1031 signature pads?
 
 The asymmetric encryption system is state of the art and we use the highest level of AES with 256bit key exchange and a RSA key length of 2048bit.

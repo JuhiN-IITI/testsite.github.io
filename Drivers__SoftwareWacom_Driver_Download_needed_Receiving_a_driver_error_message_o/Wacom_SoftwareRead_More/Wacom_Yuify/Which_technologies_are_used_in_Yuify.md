@@ -1,3 +1,7 @@
+layout: page
+title: "Which technologies are used in Yuify?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Yuify/Which_technologies_are_used_in_Yuify
+
 # Which technologies are used in Yuify?
 
 Yuify utilises the following technologies:

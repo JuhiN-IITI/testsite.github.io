@@ -1,3 +1,7 @@
+layout: page
+title: "How do I change my email address on My Account?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/Next/First/How_do_I_change_my_email_address_on_My_Account
+
 # How do I change my email address on My Account?
 
 As of September 2025, for security reasons, email addresses can no longer be changed through "My Account". You will need to follow the instructions below to update the email address. Note: Product registration does not affect the operation of your pen tablet.

@@ -1,3 +1,7 @@
+layout: page
+title: "Wacom MovinkPad 11 Repair Service Guide"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MovinkPad_11/Wacom_MovinkPad_11_Repair_Service_Guide
+
 # Wacom MovinkPad 11 Repair Service Guide
 
 Disclaimer: This document and the instructions are intended for use by skilled technical and IT professionals only.

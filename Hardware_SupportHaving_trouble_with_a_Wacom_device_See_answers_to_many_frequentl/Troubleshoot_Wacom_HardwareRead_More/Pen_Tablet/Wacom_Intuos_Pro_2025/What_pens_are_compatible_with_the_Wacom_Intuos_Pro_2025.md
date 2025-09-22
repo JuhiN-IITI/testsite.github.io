@@ -1,3 +1,7 @@
+layout: page
+title: "What pens are compatible with the Wacom Intuos Pro (2025)?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_Intuos_Pro_2025/What_pens_are_compatible_with_the_Wacom_Intuos_Pro_2025
+
 # What pens are compatible with the Wacom Intuos Pro (2025)?
 
 Wacom Intuos Pro (PTK470, PTK670, PTK870) is compatible with the following optional pens

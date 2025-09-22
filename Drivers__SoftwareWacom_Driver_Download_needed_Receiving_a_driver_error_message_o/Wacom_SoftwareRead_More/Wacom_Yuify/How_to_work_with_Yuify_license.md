@@ -1,3 +1,7 @@
+layout: page
+title: "How to work with Yuify license?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Yuify/How_to_work_with_Yuify_license
+
 # How to work with Yuify license?
 
 How can I create a Yuify license?

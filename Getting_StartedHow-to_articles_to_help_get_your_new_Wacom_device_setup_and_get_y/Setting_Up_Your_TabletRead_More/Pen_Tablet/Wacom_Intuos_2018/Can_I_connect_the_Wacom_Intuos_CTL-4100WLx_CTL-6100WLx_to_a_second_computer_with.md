@@ -1,3 +1,7 @@
+layout: page
+title: "Can I connect the Wacom Intuos (CTL-4100WLx, CTL-6100WLx) to a second computer with Bluetooth?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Tablet/Wacom_Intuos_2018/Can_I_connect_the_Wacom_Intuos_CTL-4100WLx_CTL-6100WLx_to_a_second_computer_with
+
 # Can I connect the Wacom Intuos (CTL-4100WLx, CTL-6100WLx) to a second computer with Bluetooth?
 
 The Wacom Intuos tablets can only be connected to one computer. Connection to a second computer needs re-pairing:

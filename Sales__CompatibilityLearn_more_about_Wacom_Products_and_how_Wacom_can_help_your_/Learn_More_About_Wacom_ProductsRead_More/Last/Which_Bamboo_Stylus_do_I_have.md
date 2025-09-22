@@ -1,3 +1,7 @@
+layout: page
+title: "Which Bamboo Stylus do I have?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Which_Bamboo_Stylus_do_I_have
+
 # Which Bamboo Stylus do I have?
 
 Bamboo Ink 2nd Gen

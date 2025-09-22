@@ -1,3 +1,7 @@
+layout: page
+title: "What is Display Saving mode in the Wacom Movink menu?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/What_is_Display_Saving_mode_in_the_Wacom_Movink_menu
+
 # What is Display Saving mode in the Wacom Movink menu?
 
 When "Display Saving" is ON, the display brightness is set to a safe brightness level that helps to extend the life of your pen display and reduces the chance of burn-in.

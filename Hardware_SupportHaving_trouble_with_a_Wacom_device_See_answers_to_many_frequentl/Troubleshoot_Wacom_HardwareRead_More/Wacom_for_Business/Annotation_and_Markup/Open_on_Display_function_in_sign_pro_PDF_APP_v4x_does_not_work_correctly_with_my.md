@@ -1,3 +1,7 @@
+layout: page
+title: "Open on Display function in sign pro PDF APP (v4.x) does not work correctly with my Wacom for Business 10" device (DTU-1031, DTU-1031X, DTU-1031AX)."
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Wacom_for_Business/Annotation_and_Markup/Open_on_Display_function_in_sign_pro_PDF_APP_v4x_does_not_work_correctly_with_my
+
 # Open on Display function in sign pro PDF APP (v4.x) does not work correctly with my Wacom for Business 10" device (DTU-1031, DTU-1031X, DTU-1031AX).
 
 We have identified an incompatibility with the DTU-1031AX and the Open on Display function in our sign pro PDF application (v4.x).

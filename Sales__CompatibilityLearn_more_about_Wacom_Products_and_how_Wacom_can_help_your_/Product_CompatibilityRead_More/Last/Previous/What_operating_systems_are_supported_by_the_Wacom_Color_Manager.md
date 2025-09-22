@@ -1,3 +1,7 @@
+layout: page
+title: "What operating systems are supported by the Wacom Color Manager?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/Previous/What_operating_systems_are_supported_by_the_Wacom_Color_Manager
+
 # What operating systems are supported by the Wacom Color Manager?
 
 Wacom Color Manager is supported and fully tested on Windows 7, 8, and 10 Wacom Color Manager is supported and fully tested on Mac 10.8, 10.9, 10.10, and 10.11 (El Capitan).

@@ -1,3 +1,7 @@
+layout: page
+title: "Why is there no power on my One by Wacom(CTL-472, CTL-672)?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/One_by_Wacom/Why_is_there_no_power_on_my_One_by_WacomCTL-472_CTL-672
+
 # Why is there no power on my One by Wacom(CTL-472, CTL-672)?
 
 The tablet is connected to a computer over a USB cable and will show a power light on the tablet once connected.  

@@ -1,3 +1,7 @@
+layout: page
+title: "How do you use a Wacom Pen?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Next/How_do_you_use_a_Wacom_Pen
+
 # How do you use a Wacom Pen?
 
 Using the Pen.

@@ -1,3 +1,7 @@
+layout: page
+title: "What are the system Requirements for the Wacom One 13 Touch(DTH134)?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_2023/Wacom_One_13_Touch_2023/What_are_the_system_Requirements_for_the_Wacom_One_13_TouchDTH134
+
 # What are the system Requirements for the Wacom One 13 Touch(DTH134)?
 
 Wacom One 13 Touch is compatible with Windows® 10 or later, macOS 11 or later, Android™ OS version 8.0 and above*, works with devices capable of running the latest version of Chrome™ OS**.

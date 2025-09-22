@@ -1,3 +1,7 @@
+layout: page
+title: "What is the EMR (Electro - Magnetic Resonance) method incorporated in a pen tablet?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_is_the_EMR_Electro_-_Magnetic_Resonance_method_incorporated_in_a_pen_tablet
+
 # What is the EMR (Electro - Magnetic Resonance) method incorporated in a pen tablet?
 
 This method refers to the patented pen input and pen tablet technology, the only one of its kind in the world, which enables battery-less and cordless input operation.

@@ -1,3 +1,7 @@
+layout: page
+title: "What do the lights on the Wacom Intuos Pro (2017) mean?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Tablet/Wacom_Intuos_Pro_2017/What_do_the_lights_on_the_Wacom_Intuos_Pro_2017_mean
+
 # What do the lights on the Wacom Intuos Pro (2017) mean?
 
 For the Intuos Pro Medium and the Intuos Pro Large, the lights on the tablet will change depending on whether you are operating the device as a pen tablet or paper sketching. For Intuos Pro Small on the other hand, the lights will only refer to pen mode as paper mode is not included in this version.

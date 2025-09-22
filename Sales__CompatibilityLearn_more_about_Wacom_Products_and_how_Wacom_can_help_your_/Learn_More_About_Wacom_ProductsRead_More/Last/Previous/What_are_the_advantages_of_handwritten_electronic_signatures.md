@@ -1,3 +1,7 @@
+layout: page
+title: "What are the advantages of handwritten electronic signatures?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_are_the_advantages_of_handwritten_electronic_signatures
+
 # What are the advantages of handwritten electronic signatures?
 
 Handwritten electronic signatures can help businesses deliver seamless paperless workflows for in-person transactions. They can also help deliver:

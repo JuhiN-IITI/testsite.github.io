@@ -1,3 +1,7 @@
+layout: page
+title: "Press the Button: Using SketchBook with Wacom's Intuos Pro ExpressKeys"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/3rd_Party_SoftwareRead_More/Next/Press_the_Button_Using_SketchBook_with_Wacoms_Intuos_Pro_ExpressKeys
+
 # Press the Button: Using SketchBook with Wacom's Intuos Pro ExpressKeys
 
 Autodesk SketchBook shows how to use Wacom's Intuos Pro ExpressKeys with its performance creative illustration tools. Your Wacom Intuos has buttons that can be customized. They are called ExpressKeys. You can also customize the buttons on the pen. You can choose any combination of keyboard shortcuts. Here are our suggestions for your buttons in SketchBook. 

@@ -1,3 +1,7 @@
+layout: page
+title: "What are the factors that affect Inkling’s accuracy?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Stylus/Other_Stylus/What_are_the_factors_that_affect_Inklings_accuracy
+
 # What are the factors that affect Inkling’s accuracy?
 
 Inkling uses both ultrasonic and infrared technologies that require proper conditions to operate well. The primary factors that can affect its accuracy are:

@@ -1,3 +1,7 @@
+layout: page
+title: "What is the supported optional accessories can be use on Wacom MovinkPad 11?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MovinkPad_11/What_is_the_supported_optional_accessories_can_be_use_on_Wacom_MovinkPad_11
+
 # What is the supported optional accessories can be use on Wacom MovinkPad 11?
 
 as of Jul-2025, supported accessories are below. For other pens, please see here.

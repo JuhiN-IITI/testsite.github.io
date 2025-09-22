@@ -1,3 +1,7 @@
+layout: page
+title: "What are the system requirements for the Wacom Cintiq Pro?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/Previous/What_are_the_system_requirements_for_the_Wacom_Cintiq_Pro
+
 # What are the system requirements for the Wacom Cintiq Pro?
 
 For PC: Windows® 7 SP1 or later 

@@ -1,3 +1,7 @@
+layout: page
+title: "Payment Methods"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/New_OrdersRead_More/Payment_Methods
+
 # Payment Methods
 
 The Wacom eStore provides a variety of payment options for your convenience. 

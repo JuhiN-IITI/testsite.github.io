@@ -1,3 +1,7 @@
+layout: page
+title: "How can I manually switch the Wacom Intuos into Android mode?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Tablet/Wacom_Intuos_2018/How_can_I_manually_switch_the_Wacom_Intuos_into_Android_mode
+
 # How can I manually switch the Wacom Intuos into Android mode?
 
 If the screen cursor movement on your screen is distorted compared to your pen movement, switch the Wacom Intuos mode manually.

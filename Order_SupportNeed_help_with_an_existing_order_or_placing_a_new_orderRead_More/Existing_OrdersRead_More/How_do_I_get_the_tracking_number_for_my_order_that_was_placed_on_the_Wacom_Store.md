@@ -1,3 +1,7 @@
+layout: page
+title: "How do I get the tracking number for my order that was placed on the Wacom Store?"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/Existing_OrdersRead_More/How_do_I_get_the_tracking_number_for_my_order_that_was_placed_on_the_Wacom_Store
+
 # How do I get the tracking number for my order that was placed on the Wacom Store?
 
 Once shipped, a shipment confirmation email will be sent to the email used to place the order. The tracking number can also be found in your account. Please follow the steps below to get the tracking number from your account.

@@ -1,3 +1,7 @@
+layout: page
+title: "Is it necessary to download a driver for the Wacom On 12 (DTC121)?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_2023/Wacom_One_12_2023/Is_it_necessary_to_download_a_driver_for_the_Wacom_On_12_DTC121
+
 # Is it necessary to download a driver for the Wacom On 12 (DTC121)?
 
 Yes, driver download is necessary for every Wacom device in order to get the complete pen function. Please make sure you download the latest driver to your PC before starting using.

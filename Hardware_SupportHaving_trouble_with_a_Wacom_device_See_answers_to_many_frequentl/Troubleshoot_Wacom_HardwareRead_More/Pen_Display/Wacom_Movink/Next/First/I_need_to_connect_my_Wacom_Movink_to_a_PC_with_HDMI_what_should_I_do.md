@@ -1,3 +1,7 @@
+layout: page
+title: "I need to connect my Wacom Movink to a PC with HDMI, what should I do?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/Next/First/I_need_to_connect_my_Wacom_Movink_to_a_PC_with_HDMI_what_should_I_do
+
 # I need to connect my Wacom Movink to a PC with HDMI, what should I do?
 
 While the Wacom Movink primarily relies on a USB-C connection for both power and display, there's an upcoming solution for those who prefer HDMI connectivity.

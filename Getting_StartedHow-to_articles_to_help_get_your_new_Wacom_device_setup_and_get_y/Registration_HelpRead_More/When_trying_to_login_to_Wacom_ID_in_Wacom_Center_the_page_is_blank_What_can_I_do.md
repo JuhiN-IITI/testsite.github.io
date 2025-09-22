@@ -1,3 +1,7 @@
+layout: page
+title: "When trying to login to Wacom ID in Wacom Center, the page is blank? What can I do?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/When_trying_to_login_to_Wacom_ID_in_Wacom_Center_the_page_is_blank_What_can_I_do
+
 # When trying to login to Wacom ID in Wacom Center, the page is blank? What can I do?
 
 If you are trying to login or create a Wacom ID account and you see a blank page like the one below, please try the following troubleshooting steps. 

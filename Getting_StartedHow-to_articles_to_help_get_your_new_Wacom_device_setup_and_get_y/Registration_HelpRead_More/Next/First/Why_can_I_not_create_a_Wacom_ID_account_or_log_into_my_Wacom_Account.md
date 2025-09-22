@@ -1,3 +1,7 @@
+layout: page
+title: "Why can I not create a Wacom ID account or log into my Wacom Account?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/Next/First/Why_can_I_not_create_a_Wacom_ID_account_or_log_into_my_Wacom_Account
+
 # Why can I not create a Wacom ID account or log into my Wacom Account?
 
 The Wacom Account site, https://account.wacom.com, uses cookies to manage account login. Depending on the browser you are using, if cookies are blocked or not enabled, the site can show some abnormal behavior, including the page not loading, a reload cycle, or simply returning to the login area after you enter your credentials, even if they are correct.

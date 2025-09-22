@@ -1,3 +1,7 @@
+layout: page
+title: "How do I reinstall Windows 10 after a system crash?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MobilStudio_Pro/How_do_I_reinstall_Windows_10_after_a_system_crash
+
 # How do I reinstall Windows 10 after a system crash?
 
 In the rare event that the MobileStudio Pro crashes, you can reinstall Windows 10 by following the steps below:

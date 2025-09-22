@@ -1,3 +1,7 @@
+layout: page
+title: "How do I change the Bamboo Ink nib?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Stylus/Bamboo_Ink/How_do_I_change_the_Bamboo_Ink_nib
+
 # How do I change the Bamboo Ink nib?
 
 A removal tool comes included and this one is located on the top side of the nib kit, there you will see a small hole. To pull the nib out of your pen to replace it, you must insert the tip of the nib that you want to remove through the hole, once there tilt the pen at an angle no more than 45° to provide sufficient and safe grip between the tool and the nib. Then you can pull the pen away from the tool and the nib should stay with the tool. Once the nib is out, you can insert the replacement nib in the pen and gently press the nib with your finger towards the pen until this one is resting properly.

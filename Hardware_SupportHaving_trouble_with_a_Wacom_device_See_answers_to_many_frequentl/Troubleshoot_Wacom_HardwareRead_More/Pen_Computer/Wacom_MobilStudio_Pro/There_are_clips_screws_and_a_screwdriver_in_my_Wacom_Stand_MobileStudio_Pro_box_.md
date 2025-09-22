@@ -1,3 +1,7 @@
+layout: page
+title: "There are clips, screws and a screwdriver in my Wacom Stand MobileStudio Pro box. What are they used for?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MobilStudio_Pro/There_are_clips_screws_and_a_screwdriver_in_my_Wacom_Stand_MobileStudio_Pro_box_
+
 # There are clips, screws and a screwdriver in my Wacom Stand MobileStudio Pro box. What are they used for?
 
 For some MobileStudio Pro units, it may be difficult to attach the stand to the unit. In those cases, it may be important to change the clips on your MobileStudio Pro. You many need to replace your clips on your MobileStudio Pro. Please use the clip kit provided in your packaging, under the Quick Start Guide, which includes:

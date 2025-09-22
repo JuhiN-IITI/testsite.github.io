@@ -1,3 +1,7 @@
+layout: page
+title: "How do I pair the included ExpressKey Remote with the Cintiq 27QHD?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Other_Cintiq_Models/How_do_I_pair_the_included_ExpressKey_Remote_with_the_Cintiq_27QHD
+
 # How do I pair the included ExpressKey Remote with the Cintiq 27QHD?
 
 The ExpressKey Remote comes pre-paired from the factory with an RF receiver. You can find it inside the left hand side compartment on the back. There is normally no need to remove the receiver although it can be used on any USB port.

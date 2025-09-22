@@ -1,3 +1,7 @@
+layout: page
+title: "What does Yuifinder mean?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Yuify/What_does_Yuifinder_mean
+
 # What does Yuifinder mean?
 
 Yuifinder is a tool built within the Yuify app but also availble to other applications/platforms to inspect the secured record of the artwork. Just drag and drop an artwork in yuifinder to find if it has a Yuify record and if so, from whom.

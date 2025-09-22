@@ -1,3 +1,7 @@
+layout: page
+title: "What is included in the Wacom One Pen Tablets box?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_One_2023/What_is_included_in_the_Wacom_One_Pen_Tablets_box
+
 # What is included in the Wacom One Pen Tablets box?
 
 Global Model:

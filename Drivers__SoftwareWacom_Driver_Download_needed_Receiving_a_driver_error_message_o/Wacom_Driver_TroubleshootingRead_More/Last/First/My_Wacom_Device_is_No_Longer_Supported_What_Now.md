@@ -1,3 +1,7 @@
+layout: page
+title: "My Wacom Device is No Longer Supported… What Now?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/First/My_Wacom_Device_is_No_Longer_Supported_What_Now
+
 # My Wacom Device is No Longer Supported… What Now?
 
 Support for your Wacom device has officially ended, and it is not included in this latest driver version.

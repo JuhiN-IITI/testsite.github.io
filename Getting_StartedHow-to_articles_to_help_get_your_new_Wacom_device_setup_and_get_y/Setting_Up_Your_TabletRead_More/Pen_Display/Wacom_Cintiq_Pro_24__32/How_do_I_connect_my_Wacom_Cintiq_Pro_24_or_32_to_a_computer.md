@@ -1,3 +1,7 @@
+layout: page
+title: "How do I connect my Wacom Cintiq Pro 24 or 32 to a computer?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_Pro_24__32/How_do_I_connect_my_Wacom_Cintiq_Pro_24_or_32_to_a_computer
+
 # How do I connect my Wacom Cintiq Pro 24 or 32 to a computer?
 
 Complete the following steps to setup your Wacom Cintiq Pro:

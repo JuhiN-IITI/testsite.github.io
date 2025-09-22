@@ -1,3 +1,7 @@
+layout: page
+title: "What are the compatible accessories for the Wacom  Cintiq 16 / 24 (2025)?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_2025/What_are_the_compatible_accessories_for_the_Wacom__Cintiq_16__24_2025
+
 # What are the compatible accessories for the Wacom  Cintiq 16 / 24 (2025)?
 
 The following Wacom accessories are compatible with the Wacom Cintiq 16/24 (2025) displays.

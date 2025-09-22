@@ -1,3 +1,7 @@
+layout: page
+title: "What accessories are available for the Wacom Cintiq Pro 17, 22, 27?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_Pro_17_22__27/What_accessories_are_available_for_the_Wacom_Cintiq_Pro_17_22_27
+
 # What accessories are available for the Wacom Cintiq Pro 17, 22, 27?
 
 Accessories for the Wacom Cintiq Pro include:

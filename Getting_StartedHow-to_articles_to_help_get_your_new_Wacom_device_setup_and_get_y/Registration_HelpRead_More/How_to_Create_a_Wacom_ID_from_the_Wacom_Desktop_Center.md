@@ -1,3 +1,7 @@
+layout: page
+title: "How to Create a Wacom ID from the Wacom Desktop Center"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/How_to_Create_a_Wacom_ID_from_the_Wacom_Desktop_Center
+
 # How to Create a Wacom ID from the Wacom Desktop Center
 
 How to Create a Wacom ID

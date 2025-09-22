@@ -1,3 +1,7 @@
+layout: page
+title: "Tumble or Pan/Zoom do not work in my 3D application. What should I do?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/3rd_Party_SoftwareRead_More/Next/Tumble_or_PanZoom_do_not_work_in_my_3D_application_What_should_I_do
+
 # Tumble or Pan/Zoom do not work in my 3D application. What should I do?
 
 First make sure you have the latest available driver. Open the Wacom Desktop Center and select the Update tab, then follow the instructions to install all available updates.

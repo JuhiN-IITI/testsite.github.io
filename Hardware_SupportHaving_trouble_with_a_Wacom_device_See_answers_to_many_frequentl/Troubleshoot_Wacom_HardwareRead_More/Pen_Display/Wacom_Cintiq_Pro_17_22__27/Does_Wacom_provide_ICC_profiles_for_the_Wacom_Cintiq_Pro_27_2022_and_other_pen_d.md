@@ -1,3 +1,7 @@
+layout: page
+title: "Does Wacom provide ICC profiles for the Wacom Cintiq Pro 27 (2022) and other pen displays?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_Pro_17_22__27/Does_Wacom_provide_ICC_profiles_for_the_Wacom_Cintiq_Pro_27_2022_and_other_pen_d
+
 # Does Wacom provide ICC profiles for the Wacom Cintiq Pro 27 (2022) and other pen displays?
 
 Wacom does not provide ICC profiles directly to our customers. For customers who require ICC profiles, there are a couple of options. Our first suggestion is to purchase a Wacom Color Manager or a device compatible with the Wacom Color Manager software. Customers can easily create ICC profiles using the Wacom Color Manager.

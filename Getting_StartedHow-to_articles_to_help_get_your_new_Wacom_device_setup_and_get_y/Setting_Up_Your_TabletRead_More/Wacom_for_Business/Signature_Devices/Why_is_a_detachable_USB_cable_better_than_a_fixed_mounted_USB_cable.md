@@ -1,3 +1,7 @@
+layout: page
+title: "Why is a detachable USB cable better than a fixed mounted USB cable?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Wacom_for_Business/Signature_Devices/Why_is_a_detachable_USB_cable_better_than_a_fixed_mounted_USB_cable
+
 # Why is a detachable USB cable better than a fixed mounted USB cable?
 
 A detachable USB cable has several advantages:

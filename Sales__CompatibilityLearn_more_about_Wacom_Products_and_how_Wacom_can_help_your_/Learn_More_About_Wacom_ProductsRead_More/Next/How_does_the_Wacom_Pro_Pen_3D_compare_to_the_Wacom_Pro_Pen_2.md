@@ -1,3 +1,7 @@
+layout: page
+title: "How does the Wacom Pro Pen 3D compare to the Wacom Pro Pen 2"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Next/How_does_the_Wacom_Pro_Pen_3D_compare_to_the_Wacom_Pro_Pen_2
+
 # How does the Wacom Pro Pen 3D compare to the Wacom Pro Pen 2
 
 The Wacom Pro Pen 2 has two pen buttons and an eraser. The Wacom Pro Pen 3D has three pen buttons and no eraser.

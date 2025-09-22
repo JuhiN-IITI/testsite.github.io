@@ -1,3 +1,7 @@
+layout: page
+title: "eClinicalWorks integration (eCW) support resources"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/3rd-party_Wacom_for_Business_Integrations/eClinicalWorks_integration_eCW_support_resources
+
 # eClinicalWorks integration (eCW) support resources
 
 eCW has written and tested an interface to specifically selected Wacom signature devices.

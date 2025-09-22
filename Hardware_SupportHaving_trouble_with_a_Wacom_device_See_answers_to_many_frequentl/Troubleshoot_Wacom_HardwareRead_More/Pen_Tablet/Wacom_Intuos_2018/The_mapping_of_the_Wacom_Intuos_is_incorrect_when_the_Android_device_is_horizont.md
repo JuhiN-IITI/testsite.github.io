@@ -1,3 +1,7 @@
+layout: page
+title: "The mapping of the Wacom Intuos is incorrect when the Android device is horizontal."
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_Intuos_2018/The_mapping_of_the_Wacom_Intuos_is_incorrect_when_the_Android_device_is_horizont
+
 # The mapping of the Wacom Intuos is incorrect when the Android device is horizontal.
 
 Android 14 & later supports distortion free pen input for all Android device orientations.

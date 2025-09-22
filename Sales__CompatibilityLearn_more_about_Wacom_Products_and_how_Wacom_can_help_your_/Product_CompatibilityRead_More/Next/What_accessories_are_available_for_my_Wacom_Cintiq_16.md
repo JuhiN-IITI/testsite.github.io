@@ -1,3 +1,7 @@
+layout: page
+title: "What accessories are available for my Wacom Cintiq 16?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Next/What_accessories_are_available_for_my_Wacom_Cintiq_16
+
 # What accessories are available for my Wacom Cintiq 16?
 
 DTK-1660 3-in-1 cable (ACK43912ZX).

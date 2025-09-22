@@ -1,3 +1,7 @@
+layout: page
+title: "What resolutions and speeds are supported by the USB-C ports on the Wacom Cintiq Pro 16?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_Pro_16/What_resolutions_and_speeds_are_supported_by_the_USB-C_ports_on_the_Wacom_Cintiq
+
 # What resolutions and speeds are supported by the USB-C ports on the Wacom Cintiq Pro 16?
 
 Your Wacom Cintiq Pro 16 features three USB-C ports. When your Pen Display is oriented with the Wacom logo at the bottom in the middle, we refer to these as follows:

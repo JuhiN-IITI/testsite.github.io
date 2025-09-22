@@ -1,3 +1,7 @@
+layout: page
+title: "Does Wacom recommend updating computers to Windows 10 version 1903?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Does_Wacom_recommend_updating_computers_to_Windows_10_version_1903
+
 # Does Wacom recommend updating computers to Windows 10 version 1903?
 
 Wacom recommends to consider the following issues that are affecting some customers using Windows 10 version 1903 with Wacom devices.

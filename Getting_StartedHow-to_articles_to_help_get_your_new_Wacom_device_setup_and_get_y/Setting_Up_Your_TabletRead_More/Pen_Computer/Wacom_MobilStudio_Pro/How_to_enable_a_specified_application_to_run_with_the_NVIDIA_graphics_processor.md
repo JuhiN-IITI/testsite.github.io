@@ -1,3 +1,7 @@
+layout: page
+title: "How to enable a specified application to run with the NVIDIA graphics processor"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Computer/Wacom_MobilStudio_Pro/How_to_enable_a_specified_application_to_run_with_the_NVIDIA_graphics_processor
+
 # How to enable a specified application to run with the NVIDIA graphics processor
 
 Some Applications may show lower than expected graphics performance than expected when running Optimus graphics. Optimus graphics is a hybrid video solution that combines integrated Intel graphics and discrete NVIDIA graphics.  When running an application, the driver can determine which video processor to use but may not be able to do so in all instances.  If you want a particular application to run with the NVIDIA processor, it may be necessary to change settings or create a video profile for that application.  NOTE:  Please update the Iris Pro or Intel HD Graphics Drivers BEFORE proceeding with the steps below. 

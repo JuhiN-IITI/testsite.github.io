@@ -1,3 +1,7 @@
+layout: page
+title: "Is there a driver for Mac OS 10.15 Catalina?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Is_there_a_driver_for_Mac_OS_1015_Catalina
+
 # Is there a driver for Mac OS 10.15 Catalina?
 
 Yes, however the current Wacom driver no longer supports Mac OS 10.15.x Catalina. The last driver to support this legacy operating system was Driver 6.4.3-2. You can download the older driver by going to the Wacom driver page, and selecting "Older versions."

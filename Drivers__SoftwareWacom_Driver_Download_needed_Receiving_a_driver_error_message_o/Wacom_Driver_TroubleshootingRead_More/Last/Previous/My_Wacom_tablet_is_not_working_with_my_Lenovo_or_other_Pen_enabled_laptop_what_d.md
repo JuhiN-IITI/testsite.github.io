@@ -1,3 +1,7 @@
+layout: page
+title: "My Wacom tablet is not working with my Lenovo or other Pen enabled laptop, what do I do?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/My_Wacom_tablet_is_not_working_with_my_Lenovo_or_other_Pen_enabled_laptop_what_d
+
 # My Wacom tablet is not working with my Lenovo or other Pen enabled laptop, what do I do?
 
 Some users have reported compatibility problems with their Wacom driver and a Lenovo or other pen-enabled laptop. This issue can cause the pen not to have pressure, Wintab app issues and the Wacom driver to not run correctly. 

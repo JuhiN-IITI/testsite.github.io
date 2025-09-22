@@ -1,3 +1,7 @@
+layout: page
+title: "How do I improve the performance of my remote system?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Bridge/How_do_I_improve_the_performance_of_my_remote_system
+
 # How do I improve the performance of my remote system?
 
 The drawing speed when working remotely depends on many factors, most importantly on a high-speed connection to the remote computer. Other factors to consider for improving the system speed:

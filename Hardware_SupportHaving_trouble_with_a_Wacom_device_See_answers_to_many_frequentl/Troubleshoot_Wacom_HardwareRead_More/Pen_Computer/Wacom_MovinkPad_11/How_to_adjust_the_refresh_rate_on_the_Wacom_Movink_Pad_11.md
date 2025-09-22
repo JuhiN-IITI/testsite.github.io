@@ -1,3 +1,7 @@
+layout: page
+title: "How to adjust the refresh rate on the Wacom Movink Pad 11."
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MovinkPad_11/How_to_adjust_the_refresh_rate_on_the_Wacom_Movink_Pad_11
+
 # How to adjust the refresh rate on the Wacom Movink Pad 11.
 
 By adjusting the refresh rate, you can maximize the performance of drawing apps or save battery life.

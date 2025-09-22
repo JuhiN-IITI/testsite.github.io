@@ -1,3 +1,7 @@
+layout: page
+title: "Does the Wacom Cintiq Pro Engine support Wake-on-LAN (WoL)?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_Pro_Engine/Does_the_Wacom_Cintiq_Pro_Engine_support_Wake-on-LAN_WoL
+
 # Does the Wacom Cintiq Pro Engine support Wake-on-LAN (WoL)?
 
 Yes, the Wacom Cintiq Pro Studio supports Wake-on-LAN (WoL) on the wired Ethernet network port.

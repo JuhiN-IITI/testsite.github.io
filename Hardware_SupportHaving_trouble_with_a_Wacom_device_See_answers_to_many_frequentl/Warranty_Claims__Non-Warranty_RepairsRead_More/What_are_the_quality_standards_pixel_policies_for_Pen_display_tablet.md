@@ -1,3 +1,7 @@
+layout: page
+title: "What are the quality standards (pixel policies) for Pen display tablet?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Warranty_Claims__Non-Warranty_RepairsRead_More/What_are_the_quality_standards_pixel_policies_for_Pen_display_tablet
+
 # What are the quality standards (pixel policies) for Pen display tablet?
 
 Each interactive pen display LCD panel is produced under very stringent quality standards. However, production techniques cannot guarantee a perfect display, and some panels may exhibit a certain number of sub-pixels that show an incorrect color.

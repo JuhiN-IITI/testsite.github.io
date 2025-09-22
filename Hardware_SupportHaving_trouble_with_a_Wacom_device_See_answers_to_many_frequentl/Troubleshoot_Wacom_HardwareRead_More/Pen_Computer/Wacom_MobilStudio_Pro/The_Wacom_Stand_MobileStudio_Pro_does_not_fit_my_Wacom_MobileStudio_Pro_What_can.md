@@ -1,3 +1,7 @@
+layout: page
+title: "The Wacom Stand MobileStudio Pro does not fit my Wacom MobileStudio Pro. What can I do?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MobilStudio_Pro/The_Wacom_Stand_MobileStudio_Pro_does_not_fit_my_Wacom_MobileStudio_Pro_What_can
+
 # The Wacom Stand MobileStudio Pro does not fit my Wacom MobileStudio Pro. What can I do?
 
 You many need to replace your clips on your MobileStudio Pro. Please use the clip kit provided in your packaging, under the Quick Start Guide, which includes:

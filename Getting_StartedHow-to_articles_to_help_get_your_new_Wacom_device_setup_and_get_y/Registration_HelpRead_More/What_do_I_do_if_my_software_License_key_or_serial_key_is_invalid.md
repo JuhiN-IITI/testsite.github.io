@@ -1,3 +1,7 @@
+layout: page
+title: "What do I do if my software License key or serial key is invalid?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/What_do_I_do_if_my_software_License_key_or_serial_key_is_invalid
+
 # What do I do if my software License key or serial key is invalid?
 
 Once registered if your tablet comes with a software bundle you are able to download and install the software from the My Library section of your Wacom account.

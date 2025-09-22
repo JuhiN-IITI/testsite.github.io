@@ -1,3 +1,7 @@
+layout: page
+title: "What does the error message “A Wacom device was found that is not supported by this driver” mean and how do I fix it?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Next/What_does_the_error_message_A_Wacom_device_was_found_that_is_not_supported_by_th
+
 # What does the error message “A Wacom device was found that is not supported by this driver” mean and how do I fix it?
 
 The error message “A Wacom device was found that is not supported by this driver” is shown when the Wacom Tablet Properties are opened and a Wacom Device is found that is not supported by the current driver.

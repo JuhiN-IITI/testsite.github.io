@@ -1,3 +1,7 @@
+layout: page
+title: "How can I diagnose a Touch issue with my Wacom device?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/How_can_I_diagnose_a_Touch_issue_with_my_Wacom_device
+
 # How can I diagnose a Touch issue with my Wacom device?
 
 Before you begin check the following: 

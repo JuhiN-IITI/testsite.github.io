@@ -1,3 +1,7 @@
+layout: page
+title: "What is “Touch disabled except for On-Screen Controls”? What is it good for?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_is_Touch_disabled_except_for_On-Screen_Controls_What_is_it_good_for
+
 # What is “Touch disabled except for On-Screen Controls”? What is it good for?
 
 This option limits touch input to the On-Screen Controls. When it is active, you can move both hands on the Cintiq Pro without having to worry about triggering unintended gestures. After opening an On-Screen Control, you can use your fingers (or pen) to select any of the functions assigned to those buttons. See FAQ for On-Screen Controls for more details. Note that ExpressKeys or touch buttons set to Touch Toggle will toggle between All Touch Enabled and this option when it is selected.

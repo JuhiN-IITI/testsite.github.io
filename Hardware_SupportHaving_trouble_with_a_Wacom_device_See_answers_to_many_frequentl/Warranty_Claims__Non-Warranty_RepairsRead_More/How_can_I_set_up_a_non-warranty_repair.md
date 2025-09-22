@@ -1,3 +1,7 @@
+layout: page
+title: "How can I set up a non-warranty repair?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Warranty_Claims__Non-Warranty_RepairsRead_More/How_can_I_set_up_a_non-warranty_repair
+
 # How can I set up a non-warranty repair?
 
 If a Wacom product requires a repair due to physical damage or other non-manufacturer defect, or the warranty period has expired, it may still be able to be serviced by Wacom as a non-warranty RMA for the repair fee. 

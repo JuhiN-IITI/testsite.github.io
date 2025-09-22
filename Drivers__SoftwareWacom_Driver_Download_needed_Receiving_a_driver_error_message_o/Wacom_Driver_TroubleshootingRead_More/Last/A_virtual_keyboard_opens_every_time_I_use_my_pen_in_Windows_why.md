@@ -1,3 +1,7 @@
+layout: page
+title: "A virtual keyboard opens every time I use my pen in Windows, why?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/A_virtual_keyboard_opens_every_time_I_use_my_pen_in_Windows_why
+
 # A virtual keyboard opens every time I use my pen in Windows, why?
 
 The 2018 Fall Creators update for Windows changed how Windows Ink treats a pen in Windows. This issue affects all pen devices and is not limited to Wacom devices.

@@ -1,3 +1,7 @@
+layout: page
+title: "Bamboo Sketch Compatibility"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/First/Bamboo_Sketch_Compatibility
+
 # Bamboo Sketch Compatibility
 
 Made for Apple iOS devices

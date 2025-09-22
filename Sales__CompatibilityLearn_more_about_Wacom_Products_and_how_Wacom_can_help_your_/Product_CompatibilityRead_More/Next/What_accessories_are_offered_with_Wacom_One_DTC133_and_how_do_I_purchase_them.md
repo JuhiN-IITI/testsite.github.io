@@ -1,3 +1,7 @@
+layout: page
+title: "What accessories are offered with Wacom One (DTC133) and how do I purchase them?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Next/What_accessories_are_offered_with_Wacom_One_DTC133_and_how_do_I_purchase_them
+
 # What accessories are offered with Wacom One (DTC133) and how do I purchase them?
 
 The in-box accessories include:

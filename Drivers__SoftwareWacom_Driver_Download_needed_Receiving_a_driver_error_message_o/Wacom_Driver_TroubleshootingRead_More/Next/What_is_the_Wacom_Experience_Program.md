@@ -1,3 +1,7 @@
+layout: page
+title: "What is the Wacom Experience Program?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Next/What_is_the_Wacom_Experience_Program
+
 # What is the Wacom Experience Program?
 
 The Wacom Experience Program is an ongoing program with the goal of using customer insights to improve our products. One part of the Wacom Experience Program is the Wacom Experience Program for Tablet Driver, which is entirely optional, and collects minimal anonymous, aggregated information on Wacom Tablet Driver use.

@@ -1,3 +1,7 @@
+layout: page
+title: "How do I use the Wacom Intuos Pro (2025) USB/Bluetooth Selector?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_Intuos_Pro_2025/How_do_I_use_the_Wacom_Intuos_Pro_2025_USBBluetooth_Selector
+
 # How do I use the Wacom Intuos Pro (2025) USB/Bluetooth Selector?
 
 The USB/Bluetooth selector switch allows you to connect and switch between up to three computers:

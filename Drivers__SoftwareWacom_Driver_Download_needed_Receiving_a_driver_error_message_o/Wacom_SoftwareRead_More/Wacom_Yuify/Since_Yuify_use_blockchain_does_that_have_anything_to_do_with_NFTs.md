@@ -1,3 +1,7 @@
+layout: page
+title: "Since Yuify use blockchain, does that have anything to do with NFTs?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Yuify/Since_Yuify_use_blockchain_does_that_have_anything_to_do_with_NFTs
+
 # Since Yuify use blockchain, does that have anything to do with NFTs?
 
 No, Yuify has nothing to do with NFTs.

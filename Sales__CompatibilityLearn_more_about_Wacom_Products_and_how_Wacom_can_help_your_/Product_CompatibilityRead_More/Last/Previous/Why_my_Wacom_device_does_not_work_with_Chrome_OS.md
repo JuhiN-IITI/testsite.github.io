@@ -1,3 +1,7 @@
+layout: page
+title: "Why my Wacom device does not work with Chrome OS?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/Previous/Why_my_Wacom_device_does_not_work_with_Chrome_OS
+
 # Why my Wacom device does not work with Chrome OS?
 
 Please check the below conditions, or contact our service team for further support. 

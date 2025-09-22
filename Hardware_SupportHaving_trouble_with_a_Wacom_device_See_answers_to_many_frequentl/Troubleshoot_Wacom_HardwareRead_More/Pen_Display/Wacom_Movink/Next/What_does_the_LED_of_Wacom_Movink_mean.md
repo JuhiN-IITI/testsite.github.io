@@ -1,3 +1,7 @@
+layout: page
+title: "What does the LED of Wacom Movink mean?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/Next/What_does_the_LED_of_Wacom_Movink_mean
+
 # What does the LED of Wacom Movink mean?
 
 Dimmed white LED: The device is on.

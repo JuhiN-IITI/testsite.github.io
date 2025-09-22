@@ -1,3 +1,7 @@
+layout: page
+title: "How should I clean the Movink sleeve?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/How_should_I_clean_the_Movink_sleeve
+
 # How should I clean the Movink sleeve?
 
 We recommend wiping with clean water on a damp cloth. Cleaning with chemicals is not recommended as it may damage the sleeve. Do not wash or submerge in water.

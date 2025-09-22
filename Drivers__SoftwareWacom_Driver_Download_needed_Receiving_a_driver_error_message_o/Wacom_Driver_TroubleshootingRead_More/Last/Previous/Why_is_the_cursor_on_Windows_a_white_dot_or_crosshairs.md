@@ -1,3 +1,7 @@
+layout: page
+title: "Why is the cursor on Windows a white dot or crosshairs?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Why_is_the_cursor_on_Windows_a_white_dot_or_crosshairs
+
 # Why is the cursor on Windows a white dot or crosshairs?
 
 On May 10th, 2019 Microsoft started releasing Windows 10 Update 1903. This new update changes how the cursor is displayed for Pen Input devices. After the update, when Pen is used, the cursor is changed to a small white dot as shown below.

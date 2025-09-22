@@ -1,3 +1,7 @@
+layout: page
+title: "Which devices can be used with Bamboo Spark?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/Previous/Which_devices_can_be_used_with_Bamboo_Spark
+
 # Which devices can be used with Bamboo Spark?
 
 For a complete list of tested devices go to wacom.com/comp.

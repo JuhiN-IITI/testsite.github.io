@@ -1,3 +1,7 @@
+layout: page
+title: "What are Yuify Licenses?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Yuify/What_are_Yuify_Licenses
+
 # What are Yuify Licenses?
 
 Yuify enables a robust licensing mechanism that requires both parties to sign the agreement in order for it to be valid.

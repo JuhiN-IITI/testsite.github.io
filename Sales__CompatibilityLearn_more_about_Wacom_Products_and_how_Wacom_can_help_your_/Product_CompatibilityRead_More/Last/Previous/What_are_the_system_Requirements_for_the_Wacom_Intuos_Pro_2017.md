@@ -1,3 +1,7 @@
+layout: page
+title: "What are the system Requirements for the Wacom Intuos Pro (2017)?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/Previous/What_are_the_system_Requirements_for_the_Wacom_Intuos_Pro_2017
+
 # What are the system Requirements for the Wacom Intuos Pro (2017)?
 
 Wacom Intuos Pro S: Standard USB port, Windows® 7 or later; Mac OS X 10.12 or later; Bluetooth for wireless connection to PC or Mac; internet access to download driver. Download and installation of driver is required to make product work.

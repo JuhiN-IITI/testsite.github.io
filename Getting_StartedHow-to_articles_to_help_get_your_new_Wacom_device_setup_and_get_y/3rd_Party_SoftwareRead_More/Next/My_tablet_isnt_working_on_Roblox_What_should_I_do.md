@@ -1,3 +1,7 @@
+layout: page
+title: "My tablet isn't working on Roblox. What should I do?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/3rd_Party_SoftwareRead_More/Next/My_tablet_isnt_working_on_Roblox_What_should_I_do
+
 # My tablet isn't working on Roblox. What should I do?
 
 When using Windows 10 and Roblox, there are two possible issues that my cause the tablet to not work correctly within Roblox.

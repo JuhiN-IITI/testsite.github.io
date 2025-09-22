@@ -1,3 +1,7 @@
+layout: page
+title: "How do I set up a repair or RMA?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Warranty_Claims__Non-Warranty_RepairsRead_More/How_do_I_set_up_a_repair_or_RMA
+
 # How do I set up a repair or RMA?
 
 If your tablet is not working correctly there are many things that may be causing this issue. Most of the time the issue can be as easy as a loose connection or corrupt driver. However sometimes there may be a larger issue with the tablet that would require a Repair Merchandise Authorization or RMA.

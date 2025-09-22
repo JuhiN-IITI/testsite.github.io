@@ -1,3 +1,7 @@
+layout: page
+title: "How do I register my Wacom device?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/How_do_I_register_my_Wacom_device
+
 # How do I register my Wacom device?
 
 Wacom devices run an automatic registration process using the Wacom Center and Wacom ID. This article explains how the registration works. If you are experiencing issues  going through the registration , please check check our troubleshooting article: I'm having trouble registering my tablet, what do I do? 

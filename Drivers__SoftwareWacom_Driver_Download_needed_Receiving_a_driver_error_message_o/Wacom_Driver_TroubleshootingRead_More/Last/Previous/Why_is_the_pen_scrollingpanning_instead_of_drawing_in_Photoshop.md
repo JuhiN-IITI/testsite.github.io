@@ -1,3 +1,7 @@
+layout: page
+title: "Why is the pen scrolling/panning instead of drawing in Photoshop?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Why_is_the_pen_scrollingpanning_instead_of_drawing_in_Photoshop
+
 # Why is the pen scrolling/panning instead of drawing in Photoshop?
 
 Recent Microsoft Windows updates have made large changes in the settings for Windows Ink. These changes affect all Pen and Touch devices, not just Wacom Tablets. Users have reported issues with these updates causing their pen not to act as expected in the application they are using. Some examples include scrolling instead of drawing in Photoshop and not releasing a selection with the pen in Outlook or a web browser like Firefox and Chrome.

@@ -1,3 +1,7 @@
+layout: page
+title: "How to charge the Wacom MovinkPad 11?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MovinkPad_11/How_to_charge_the_Wacom_MovinkPad_11
+
 # How to charge the Wacom MovinkPad 11?
 
 Connect the USB Type-C cable and the power adapter to the MovinkPad 11.

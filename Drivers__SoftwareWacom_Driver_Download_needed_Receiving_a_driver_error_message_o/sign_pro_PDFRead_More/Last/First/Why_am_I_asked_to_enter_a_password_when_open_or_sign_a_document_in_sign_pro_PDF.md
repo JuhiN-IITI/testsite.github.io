@@ -1,3 +1,7 @@
+layout: page
+title: "Why am I asked to enter a password when open or sign a document in "sign pro PDF""
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/sign_pro_PDFRead_More/Last/First/Why_am_I_asked_to_enter_a_password_when_open_or_sign_a_document_in_sign_pro_PDF
+
 # Why am I asked to enter a password when open or sign a document in "sign pro PDF"
 
 There might be two different reasons why "sign pro PDF" ask you to enter a password.

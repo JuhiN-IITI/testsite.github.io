@@ -1,3 +1,7 @@
+layout: page
+title: "I want to report a driver bug. How do I collect Wacom driver logs?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/First/I_want_to_report_a_driver_bug_How_do_I_collect_Wacom_driver_logs
+
 # I want to report a driver bug. How do I collect Wacom driver logs?
 
 Collecting driver logs can help Wacom Support identify issues with the tablet driver or your operating system. For more info on what information is collected, click here. 

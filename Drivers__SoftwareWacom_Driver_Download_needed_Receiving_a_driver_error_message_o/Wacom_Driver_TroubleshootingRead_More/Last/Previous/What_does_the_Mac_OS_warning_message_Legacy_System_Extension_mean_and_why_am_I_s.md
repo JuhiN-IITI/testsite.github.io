@@ -1,3 +1,7 @@
+layout: page
+title: "What does the Mac OS warning message “Legacy System Extension” mean and why am I seeing it?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_does_the_Mac_OS_warning_message_Legacy_System_Extension_mean_and_why_am_I_s
+
 # What does the Mac OS warning message “Legacy System Extension” mean and why am I seeing it?
 
 The latest version of Mac OS, 10.15.4, has added a new error message that warns users the software they are installing may not work on a future version of Mac OS due to an older part of the software. The Wacom Driver’s “Wacom Display Settings” software currently uses Kernel Extensions that may no longer function in newer versions of Mac OS and would prevent the use of Wacom Display Settings for Cintiq tablets under some conditions.   Our driver team is aware of the coming changes and are working to proactively replace these components before they are obsolete.

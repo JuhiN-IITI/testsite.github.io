@@ -1,3 +1,7 @@
+layout: page
+title: "I am getting an error when installing the Wacom driver. How do I find the install log?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/I_am_getting_an_error_when_installing_the_Wacom_driver_How_do_I_find_the_install
+
 # I am getting an error when installing the Wacom driver. How do I find the install log?
 
 If an error occurs when trying to install the Wacom Driver, first make sure you do not have any older Wacom driver's installed (or parts of the driver) by following the manual driver removal steps found here for macOS or here for Windows OS.

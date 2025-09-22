@@ -1,3 +1,7 @@
+layout: page
+title: "Yuify registration & Secure export or Micromarking issues"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Yuify/Yuify_registration__Secure_export_or_Micromarking_issues
+
 # Yuify registration & Secure export or Micromarking issues
 
 There could be several reasons why it can fail with one of these topics

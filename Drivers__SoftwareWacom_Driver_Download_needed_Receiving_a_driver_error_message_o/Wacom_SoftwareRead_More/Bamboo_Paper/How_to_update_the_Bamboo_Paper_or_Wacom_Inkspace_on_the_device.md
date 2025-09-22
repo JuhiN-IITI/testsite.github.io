@@ -1,3 +1,7 @@
+layout: page
+title: "How to update the Bamboo Paper or Wacom Inkspace on the device?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Bamboo_Paper/How_to_update_the_Bamboo_Paper_or_Wacom_Inkspace_on_the_device
+
 # How to update the Bamboo Paper or Wacom Inkspace on the device?
 
 Go to the App Store and search for “Bamboo Paper” or “Inkspace”

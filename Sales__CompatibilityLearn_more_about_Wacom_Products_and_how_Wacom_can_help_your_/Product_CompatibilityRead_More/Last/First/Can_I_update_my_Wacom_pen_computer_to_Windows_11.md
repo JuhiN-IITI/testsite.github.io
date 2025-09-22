@@ -1,3 +1,7 @@
+layout: page
+title: "Can I update my Wacom pen computer to Windows 11?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/First/Can_I_update_my_Wacom_pen_computer_to_Windows_11
+
 # Can I update my Wacom pen computer to Windows 11?
 
 Compatible Devices

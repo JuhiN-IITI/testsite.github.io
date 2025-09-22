@@ -1,3 +1,7 @@
+layout: page
+title: "Why is my Wacom Intuos (CTL-4100WLx, CTL-6100WLx) no longer working over Bluetooth or not showing up under Bluetooth settings when in pairing mode?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_Intuos_2018/Why_is_my_Wacom_Intuos_CTL-4100WLx_CTL-6100WLx_no_longer_working_over_Bluetooth_
+
 # Why is my Wacom Intuos (CTL-4100WLx, CTL-6100WLx) no longer working over Bluetooth or not showing up under Bluetooth settings when in pairing mode?
 
 The Bluetooth settings may have been become corrupt. To fix this issue, re-pair the Wacom Intuos to a computer with Bluetooth by following the steps below.

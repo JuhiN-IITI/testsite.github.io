@@ -1,3 +1,7 @@
+layout: page
+title: "How can I verify if a document signature is valid?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/sign_pro_PDFRead_More/Next/How_can_I_verify_if_a_document_signature_is_valid
+
 # How can I verify if a document signature is valid?
 
 When viewing signed documents in sign | pro PDF, the validity of individual signatures is indicated by the following color-coded icons:

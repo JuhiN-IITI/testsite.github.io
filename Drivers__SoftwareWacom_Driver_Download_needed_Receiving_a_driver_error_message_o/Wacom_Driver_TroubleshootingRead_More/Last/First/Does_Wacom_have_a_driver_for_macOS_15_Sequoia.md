@@ -1,3 +1,7 @@
+layout: page
+title: "Does Wacom have a driver for macOS 15 (Sequoia)?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/First/Does_Wacom_have_a_driver_for_macOS_15_Sequoia
+
 # Does Wacom have a driver for macOS 15 (Sequoia)?
 
 The current driver supports macOS 15 (Sequoia). 

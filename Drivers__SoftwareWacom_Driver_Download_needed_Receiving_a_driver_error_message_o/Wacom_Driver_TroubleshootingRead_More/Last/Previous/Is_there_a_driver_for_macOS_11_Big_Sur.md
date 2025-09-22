@@ -1,3 +1,7 @@
+layout: page
+title: "Is there a driver for macOS 11, Big Sur?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Is_there_a_driver_for_macOS_11_Big_Sur
+
 # Is there a driver for macOS 11, Big Sur?
 
 Yes, the current driver supports macOS 11 Big Sur.

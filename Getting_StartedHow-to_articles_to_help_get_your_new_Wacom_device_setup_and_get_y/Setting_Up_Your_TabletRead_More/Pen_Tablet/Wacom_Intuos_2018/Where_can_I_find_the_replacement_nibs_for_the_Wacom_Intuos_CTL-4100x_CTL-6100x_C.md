@@ -1,3 +1,7 @@
+layout: page
+title: "Where can I find the replacement nibs for the Wacom Intuos (CTL-4100x, CTL-6100x, CTL-4100WLx, CTL-6100WLx) tablet?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Tablet/Wacom_Intuos_2018/Where_can_I_find_the_replacement_nibs_for_the_Wacom_Intuos_CTL-4100x_CTL-6100x_C
+
 # Where can I find the replacement nibs for the Wacom Intuos (CTL-4100x, CTL-6100x, CTL-4100WLx, CTL-6100WLx) tablet?
 
 The Wacom Intuos pen comes with three spare nibs stored inside the rear compartment of the pen. To access them:

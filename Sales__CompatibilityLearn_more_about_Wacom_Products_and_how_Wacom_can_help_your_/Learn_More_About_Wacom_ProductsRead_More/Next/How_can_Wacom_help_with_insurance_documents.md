@@ -1,3 +1,7 @@
+layout: page
+title: "How can Wacom help with insurance documents?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Next/How_can_Wacom_help_with_insurance_documents
+
 # How can Wacom help with insurance documents?
 
 Forms and policy documents can be created, completed and signed electronically, saving on processing time and costs. Paper and archiving costs are also eliminated.

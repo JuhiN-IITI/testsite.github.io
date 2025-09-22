@@ -1,3 +1,7 @@
+layout: page
+title: "How can a tablet increase efficiency?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/How_can_a_tablet_increase_efficiency
+
 # How can a tablet increase efficiency?
 
 In order to increase your efficiency, the Cintiq and Intuos feature the ExpressKeys and Touch Strips or Touch Rings which allows you to reduce keyboard usage and to concentrate on the Cintiq and Intuos as you main working tool.

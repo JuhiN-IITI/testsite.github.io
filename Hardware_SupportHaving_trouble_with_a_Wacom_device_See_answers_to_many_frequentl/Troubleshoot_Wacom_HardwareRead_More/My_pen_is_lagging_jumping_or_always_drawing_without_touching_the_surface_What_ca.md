@@ -1,3 +1,7 @@
+layout: page
+title: "My pen is lagging, jumping or always drawing without touching the surface. What can I do?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/My_pen_is_lagging_jumping_or_always_drawing_without_touching_the_surface_What_ca
+
 # My pen is lagging, jumping or always drawing without touching the surface. What can I do?
 
 If your pen seems to be working different from what you expect, please check the symptoms below.  

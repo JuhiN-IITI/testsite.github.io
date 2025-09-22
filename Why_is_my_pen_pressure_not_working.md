@@ -1,3 +1,7 @@
+layout: page
+title: "Why is my pen pressure not working?"
+permalink: /Why_is_my_pen_pressure_not_working
+
 # Why is my pen pressure not working?
 
 Many applications have built-in support for pressure sensitivity that require you to turn on pressure capabilities within the application before the pen will respond as a pressure-sensitive tool. 

@@ -1,3 +1,7 @@
+layout: page
+title: "How to Annotate Documents Digitally with Wacom."
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/eLearningRead_More/How_to_Annotate_Documents_Digitally_with_Wacom
+
 # How to Annotate Documents Digitally with Wacom.
 
 In Microsoft Word or Microsoft PowerPoint, head over to the Draw tab and simply pick your pen. Then start marking up the doc. Both programs also allow you to use Windows Ink to create math equations using a pen instead of a mouse or keyboard and in Word, you can embed a drawing canvas right into your Word doc. Save your doc, and you ink is saved too.

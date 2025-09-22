@@ -1,3 +1,7 @@
+layout: page
+title: "Wacom Bridge: How far away from the remote computer can I be?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Bridge/Wacom_Bridge_How_far_away_from_the_remote_computer_can_I_be
+
 # Wacom Bridge: How far away from the remote computer can I be?
 
 This is all a matter of the speed and quality of the connection between your local and remote computer. The higher the ping time, the more time it takes the tablet data to reach the remote computer and the longer it takes for the remote content to be displayed on the local computer. Shorter distances with lower ping times are always going to be better. Ping times under 10 ms are generally considered very good, while using connections with a ping time higher than 100 ms is not recommended. Please note that other factors will also affect the overall system speed – see “How can I improve the performance of Wacom Bridge?”

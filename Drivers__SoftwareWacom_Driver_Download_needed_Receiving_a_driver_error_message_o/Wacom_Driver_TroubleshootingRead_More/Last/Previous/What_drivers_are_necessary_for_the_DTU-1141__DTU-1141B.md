@@ -1,3 +1,7 @@
+layout: page
+title: "What drivers are necessary for the DTU-1141 / DTU-1141B?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_drivers_are_necessary_for_the_DTU-1141__DTU-1141B
+
 # What drivers are necessary for the DTU-1141 / DTU-1141B?
 
 For the Wacom DTU-1141 / DTU-1141B device two separate drivers are required - a pen input driver and a display driver.

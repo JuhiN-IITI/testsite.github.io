@@ -1,3 +1,7 @@
+layout: page
+title: "Setting up Mac OS security settings on 10.13 & 10.12"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Setting_up_Mac_OS_security_settings_on_1013__1012
+
 # Setting up Mac OS security settings on 10.13 & 10.12
 
 Please see Why is my tablet not working on Mac OS? for all macOS version articles.

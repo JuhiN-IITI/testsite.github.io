@@ -1,3 +1,7 @@
+layout: page
+title: "What does the error message “The tablet driver is not running” mean and how do I fix it?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_does_the_error_message_The_tablet_driver_is_not_running_mean_and_how_do_I_f
+
 # What does the error message “The tablet driver is not running” mean and how do I fix it?
 
 This error message is given when the Wacom Professional Service is not running due to a service crash.

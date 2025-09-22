@@ -1,3 +1,7 @@
+layout: page
+title: "Removing and Restoring Wacom Application Specific Settings"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Removing_and_Restoring_Wacom_Application_Specific_Settings
+
 # Removing and Restoring Wacom Application Specific Settings
 
 Wacom offers many custom application specific settings for users. These settings have been selected by Wacom experts for the best experience in many applications. These settings are loaded into the “Settings” section of the tablet driver when a supported application is opened. Some user’s may wish to use their own settings, or the basic tablet settings instead. Below are the steps for both removing and restoring the Wacom’s custom settings.

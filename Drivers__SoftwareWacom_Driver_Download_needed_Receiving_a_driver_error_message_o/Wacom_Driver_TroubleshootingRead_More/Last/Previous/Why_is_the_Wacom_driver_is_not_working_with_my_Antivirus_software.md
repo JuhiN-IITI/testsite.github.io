@@ -1,3 +1,7 @@
+layout: page
+title: "Why is the Wacom driver is not working with my Antivirus software?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Why_is_the_Wacom_driver_is_not_working_with_my_Antivirus_software
+
 # Why is the Wacom driver is not working with my Antivirus software?
 
 In some rare cases, an Antivirus can cause software interference with the Wacom Driver. The software can prevent one or more of the driver processes from starting.  Depending on the severity of the interference and the tablet being used, this can result in following error messages

@@ -1,3 +1,7 @@
+layout: page
+title: "Where can I find the hardware drivers for the MobileStudio Pro 2019?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Where_can_I_find_the_hardware_drivers_for_the_MobileStudio_Pro_2019
+
 # Where can I find the hardware drivers for the MobileStudio Pro 2019?
 
 The hardware drivers for the MobileStudio Pro can be found in the Other Resources section of your product in https://www.wacom.com/support/product-support/drivers

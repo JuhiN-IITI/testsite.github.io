@@ -1,3 +1,7 @@
+layout: page
+title: "Is a SalesForce integration available with Wacom for Business hardware?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/3rd-party_Wacom_for_Business_Integrations/Is_a_SalesForce_integration_available_with_Wacom_for_Business_hardware
+
 # Is a SalesForce integration available with Wacom for Business hardware?
 
 Edatalia has an integration with the SalesForce application and our DTU1141B interactive pen display available.

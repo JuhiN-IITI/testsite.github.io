@@ -1,3 +1,7 @@
+layout: page
+title: "What is the best way to use the On-Screen Control keys?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_is_the_best_way_to_use_the_On-Screen_Control_keys
+
 # What is the best way to use the On-Screen Control keys?
 
 On-Screen Controls behave just like physical keyboard keys. They support modifier keys, chording (combining) of multiple keys, and chording (combining) On-Screen Controls and Pen input.

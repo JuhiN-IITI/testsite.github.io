@@ -1,3 +1,7 @@
+layout: page
+title: "What is Tax Exempt Status and how to I apply for it on the Wacom Store?"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/New_OrdersRead_More/What_is_Tax_Exempt_Status_and_how_to_I_apply_for_it_on_the_Wacom_Store
+
 # What is Tax Exempt Status and how to I apply for it on the Wacom Store?
 
 Depending on the state where you do business and the types of products you buy, your business may qualify for tax exemption. You must apply locally to your state for a sales tax certificate. Once you have an approved sales tax certificate, you may apply for tax exemption on the Wacom Store through your Wacom Account by following the steps below.

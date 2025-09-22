@@ -1,3 +1,7 @@
+layout: page
+title: "How do I access the Adobe Creative Cloud Photography plan from the current promotion?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/How_do_I_access_theAdobe_Creative_Cloud_Photography_plan_from_the_current_promot
+
 # How do I access the Adobe Creative Cloud Photography plan from the current promotion?
 
 To access your Adobe Creative Cloud Photography plan for 2 months for free, please follow the steps below: 

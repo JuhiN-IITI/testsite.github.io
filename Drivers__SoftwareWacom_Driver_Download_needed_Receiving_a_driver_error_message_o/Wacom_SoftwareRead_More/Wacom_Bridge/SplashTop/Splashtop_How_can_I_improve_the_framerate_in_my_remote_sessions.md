@@ -1,3 +1,7 @@
+layout: page
+title: "Splashtop: How can I improve the framerate in my remote sessions?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Bridge/SplashTop/Splashtop_How_can_I_improve_the_framerate_in_my_remote_sessions
+
 # Splashtop: How can I improve the framerate in my remote sessions?
 
 a. Selecting FPS: Ultra High from the Splashtop View Options menu will provide the fastest framerate available for your connection.

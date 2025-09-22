@@ -1,3 +1,7 @@
+layout: page
+title: "When using a Pen display and Microsoft Edge my computer crashed, what can I do?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Next/When_using_a_Pen_display_and_Microsoft_Edge_my_computer_crashed_what_can_I_do
+
 # When using a Pen display and Microsoft Edge my computer crashed, what can I do?
 
 Wacom has received reports from customers and others that when using a pen display on Microsoft Edge, the host computer will crash and show the "blue screen of death."

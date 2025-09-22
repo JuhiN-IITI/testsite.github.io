@@ -1,3 +1,7 @@
+layout: page
+title: "I'm getting an error message from the Wacom Driver - what can I do?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Next/Im_getting_an_error_message_from_the_Wacom_Driver_-_what_can_I_do
+
 # I'm getting an error message from the Wacom Driver - what can I do?
 
 Do you encounter any of the following error messages or behaviour? 

@@ -1,3 +1,7 @@
+layout: page
+title: "What are the benefits of my Wacom ID?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/What_are_the_benefits_of_my_Wacom_ID
+
 # What are the benefits of my Wacom ID?
 
 When you have created a Wacom ID you can:

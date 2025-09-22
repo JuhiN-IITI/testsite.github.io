@@ -1,3 +1,7 @@
+layout: page
+title: "What are the Wacom Intuos Pro (2025) System Requirements?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_Intuos_Pro_2025/What_are_the_Wacom_Intuos_Pro_2025_System_Requirements
+
 # What are the Wacom Intuos Pro (2025) System Requirements?
 
 Compatible Operating Systems: Windows 10 or later, macOS 13 or later.

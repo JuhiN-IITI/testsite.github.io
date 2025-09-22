@@ -1,3 +1,7 @@
+layout: page
+title: "Where can I find the model number & serial number of my Wacom device?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Where_can_I_find_the_model_number__serial_number_of_my_Wacom_device
+
 # Where can I find the model number & serial number of my Wacom device?
 
 Serial Numbers and Model Numbers are found in different locations depending on which device you have. Below is a guide to find the location for your product.

@@ -1,3 +1,7 @@
+layout: page
+title: "How to obtain Wacom Signature Scope software"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/3rd-party_Wacom_for_Business_Integrations/How_to_obtain_Wacom_Signature_Scope_software
+
 # How to obtain Wacom Signature Scope software
 
 Our MiniScope program can be used to import existing signatures and display a limited graphical representation of their biometrics.

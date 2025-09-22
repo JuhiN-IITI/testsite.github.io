@@ -1,3 +1,7 @@
+layout: page
+title: "How do you whiteboard digitally with Wacom?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/eLearningRead_More/How_do_you_whiteboard_digitally_with_Wacom
+
 # How do you whiteboard digitally with Wacom?
 
 Microsoft Teams

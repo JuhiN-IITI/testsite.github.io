@@ -1,3 +1,7 @@
+layout: page
+title: "What Pens are compatible with the Wacom Cintiq 16 / 24 (2025)?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_2025/What_Pens_are_compatible_with_the_Wacom_Cintiq_16__24_2025
+
 # What Pens are compatible with the Wacom Cintiq 16 / 24 (2025)?
 
 The following Wacom Pens are compatible with the Wacom Cintiq (2025) 16 & 24 models. 

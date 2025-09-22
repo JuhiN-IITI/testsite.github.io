@@ -1,3 +1,7 @@
+layout: page
+title: "What color calibration tools do you recommend? Does Cintiq 27QHD support DDC/CI?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_color_calibration_tools_do_you_recommend_Does_Cintiq_27QHD_support_DDCCI
+
 # What color calibration tools do you recommend? Does Cintiq 27QHD support DDC/CI?
 
 The benefits of using the Wacom Color Manager are as follows:

@@ -1,3 +1,7 @@
+layout: page
+title: "I have changed the SSD and / or the RAM of my MobileStudio Pro. How does the repair work?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MobilStudio_Pro/I_have_changed_the_SSD_and__or_the_RAM_of_my_MobileStudio_Pro_How_does_the_repai
+
 # I have changed the SSD and / or the RAM of my MobileStudio Pro. How does the repair work?
 
 In case you upgrade or replace the SSD and / or the RAM and the device needs to be repaired, there are 2 possible scenarios:

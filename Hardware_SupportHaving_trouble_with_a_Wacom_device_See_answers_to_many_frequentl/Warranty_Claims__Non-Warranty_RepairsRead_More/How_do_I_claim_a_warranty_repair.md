@@ -1,3 +1,7 @@
+layout: page
+title: "How do I claim a warranty repair?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Warranty_Claims__Non-Warranty_RepairsRead_More/How_do_I_claim_a_warranty_repair
+
 # How do I claim a warranty repair?
 
 Wacom warrants the product, to the original consumer purchaser, to be free from defects in materials and workmanship during the warranty period. Complete warranty information is available by selecting your product on the the Product Resources page and locating the warranty pdf. Please note, for repairs determined to be out of warranty, the customer is responsible for all costs related such as diagnostic fees, labor, parts and freight charges to and from Wacom.

@@ -1,3 +1,7 @@
+layout: page
+title: "Wacom Cintiq Pro 17, 22, 27: Built-in Display Settings messages and their meanings."
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_Pro_17_22__27/Wacom_Cintiq_Pro_17_22_27_Built-in_Display_Settings_messages_and_their_meanings
+
 # Wacom Cintiq Pro 17, 22, 27: Built-in Display Settings messages and their meanings.
 
 Message: Power Lost

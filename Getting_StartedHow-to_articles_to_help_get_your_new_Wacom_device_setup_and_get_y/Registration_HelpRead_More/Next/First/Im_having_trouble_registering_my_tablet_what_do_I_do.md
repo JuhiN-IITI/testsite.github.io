@@ -1,3 +1,7 @@
+layout: page
+title: "I'm having trouble registering my tablet, what do I do?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/Next/First/Im_having_trouble_registering_my_tablet_what_do_I_do
+
 # I'm having trouble registering my tablet, what do I do?
 
 If you are having trouble registering your tablet or have questions about registering, please see our registration guides below.

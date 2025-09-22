@@ -1,3 +1,7 @@
+layout: page
+title: "Can I register a used or second-hand product?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/Can_I_register_a_used_or_second-hand_product
+
 # Can I register a used or second-hand product?
 
 Due to licensing restrictions imposed on the Software that is provided as part of product registration, Wacom is unable to issue a second software license. Registration is limited to the original first time new purchaser of a Wacom device from Wacom directly or a valid Wacom reseller. In addition, the Wacom Limited warranty does not apply for second-hand devices. 

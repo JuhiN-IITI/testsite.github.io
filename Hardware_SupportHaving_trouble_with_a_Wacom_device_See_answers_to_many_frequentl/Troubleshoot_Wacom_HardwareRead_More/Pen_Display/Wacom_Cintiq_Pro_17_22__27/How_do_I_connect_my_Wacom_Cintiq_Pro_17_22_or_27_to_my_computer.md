@@ -1,3 +1,7 @@
+layout: page
+title: "How do I connect my Wacom Cintiq Pro 17, 22 or 27 to my computer?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_Pro_17_22__27/How_do_I_connect_my_Wacom_Cintiq_Pro_17_22_or_27_to_my_computer
+
 # How do I connect my Wacom Cintiq Pro 17, 22 or 27 to my computer?
 
 or computers with USB-C port:  

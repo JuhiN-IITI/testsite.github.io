@@ -1,3 +1,7 @@
+layout: page
+title: "What is the Bamboo Ink?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_is_the_Bamboo_Ink
+
 # What is the Bamboo Ink?
 
 Bamboo Ink is a smart stylus optimized for Windows Ink workspace within the anniversary update to Windows 10 for natural writing and sketching with pen and paper on your compatible devices.

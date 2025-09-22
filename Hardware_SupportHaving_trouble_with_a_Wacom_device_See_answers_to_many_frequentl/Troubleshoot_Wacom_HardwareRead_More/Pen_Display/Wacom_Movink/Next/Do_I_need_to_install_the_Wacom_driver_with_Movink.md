@@ -1,3 +1,7 @@
+layout: page
+title: "Do I need to install the Wacom driver with Movink?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/Next/Do_I_need_to_install_the_Wacom_driver_with_Movink
+
 # Do I need to install the Wacom driver with Movink?
 
 macOS - The Wacom driver installation is required to use Wacom Movink with macOS.

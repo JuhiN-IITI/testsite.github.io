@@ -1,3 +1,7 @@
+layout: page
+title: "How do I configure VMWare Horizon to support my STU-430 or STU-540 signature pads?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Wacom_for_Business/Signature_Devices/How_do_I_configure_VMWare_Horizon_to_support_my_STU-430_or_STU-540_signature_pad
+
 # How do I configure VMWare Horizon to support my STU-430 or STU-540 signature pads?
 
 For VMWare Horizon you will need to:

@@ -1,3 +1,7 @@
+layout: page
+title: "No pressure in Adobe Photoshop, what do I do?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/3rd_Party_SoftwareRead_More/Next/No_pressure_in_Adobe_Photoshop_what_do_I_do
+
 # No pressure in Adobe Photoshop, what do I do?
 
 If pen pressure is not working in Adobe Photoshop, this can be caused by a few incorrect settings in Photoshop, a driver issue, or a windows ink issue. Follow the instructions below:

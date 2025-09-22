@@ -1,3 +1,7 @@
+layout: page
+title: "I’ve already paired my Bamboo Slate or Bamboo Folio with my device and it transferred my first note, but now it’s not transferring anything. What happened?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Inkspace/Ive_already_paired_my_Bamboo_Slate_or_Bamboo_Folio_with_my_device_and_it_transfe
+
 # I’ve already paired my Bamboo Slate or Bamboo Folio with my device and it transferred my first note, but now it’s not transferring anything. What happened?
 
 Please try re-pairing your Bamboo Spark to your device.

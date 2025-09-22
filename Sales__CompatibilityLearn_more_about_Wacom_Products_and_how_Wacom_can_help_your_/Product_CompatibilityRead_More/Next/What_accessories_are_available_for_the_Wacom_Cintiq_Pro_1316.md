@@ -1,3 +1,7 @@
+layout: page
+title: "What accessories are available for the Wacom Cintiq Pro 13/16?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Next/What_accessories_are_available_for_the_Wacom_Cintiq_Pro_1316
+
 # What accessories are available for the Wacom Cintiq Pro 13/16?
 
 Accessories for the Wacom Cintiq Pro 13 and Wacom Cintiq Pro 16 include:

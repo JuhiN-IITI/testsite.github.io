@@ -1,3 +1,7 @@
+layout: page
+title: "How do I cancel an order that was placed on the Wacom Store?"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/Existing_OrdersRead_More/How_do_I_cancel_an_order_that_was_placed_on_the_Wacom_Store
+
 # How do I cancel an order that was placed on the Wacom Store?
 
 Depending on what stage an order is at, it may be possible to cancel prior to shipping. To attempt this:

@@ -1,3 +1,7 @@
+layout: page
+title: "I used to have Ink-to-Text with my Bamboo Spark, now it's gone?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Smart_Pad/Bamboo_Spark/I_used_to_have_Ink-to-Text_with_my_Bamboo_Spark_now_its_gone
+
 # I used to have Ink-to-Text with my Bamboo Spark, now it's gone?
 
 Please sign out of the Inkspace App and sign back in using your Wacom ID.

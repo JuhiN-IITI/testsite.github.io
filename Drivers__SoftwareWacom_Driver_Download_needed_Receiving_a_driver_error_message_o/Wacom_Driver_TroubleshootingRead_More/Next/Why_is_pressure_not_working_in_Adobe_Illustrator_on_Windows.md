@@ -1,3 +1,7 @@
+layout: page
+title: "Why is pressure not working in Adobe Illustrator on Windows?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Next/Why_is_pressure_not_working_in_Adobe_Illustrator_on_Windows
+
 # Why is pressure not working in Adobe Illustrator on Windows?
 
 If you are using macOS visit the guide here.

@@ -1,3 +1,7 @@
+layout: page
+title: "How do I use the Battery Charge Manager on my MobileStudio Pro 2019"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/How_do_I_use_the_Battery_Charge_Manager_on_my_MobileStudio_Pro_2019
+
 # How do I use the Battery Charge Manager on my MobileStudio Pro 2019
 
 Wacom has recently added battery management control that allows you to make the most of your MobileStudio Pro’s battery health. If you’re a Mobile user, the default setting is already in place and will give you maximum battery capacity. For those of you that are mainly working at a desk and have the device attached to the power outlet, we recommend you switch to the desktop mode and maximize the life of your battery. Please see the requirements and follow the directions to find the battery mode control.

@@ -1,3 +1,7 @@
+layout: page
+title: "How can I reinstall Windows 8.1?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Computer/Cintiq_Companion_2/How_can_I_reinstall_Windows_81
+
 # How can I reinstall Windows 8.1?
 
 There are two ways to restore a Windows 8.1 device to the factory default settings.

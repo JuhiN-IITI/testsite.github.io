@@ -1,3 +1,7 @@
+layout: page
+title: "How do I attach my Wacom Cintiq Pro Engine to my Wacom Cintiq Pro 24 or 32?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_Pro_24__32/How_do_I_attach_my_Wacom_Cintiq_Pro_Engine_to_my_Wacom_Cintiq_Pro_24_or_32
+
 # How do I attach my Wacom Cintiq Pro Engine to my Wacom Cintiq Pro 24 or 32?
 
 We recommend referring to the included Quick Start Guide, Wacom tutorial videos, or the online User Manual for more detail, however, here the steps for setting up the Wacom Cintiq Pro 24* or 32 with the Wacom Cintiq Pro Engine

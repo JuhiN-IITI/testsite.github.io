@@ -1,3 +1,7 @@
+layout: page
+title: "Which Wacom devices will work with VMWare Horizon?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Wacom_for_Business/Signature_Devices/Which_Wacom_devices_will_work_with_VMWare_Horizon
+
 # Which Wacom devices will work with VMWare Horizon?
 
 The following Wacom devices are currently certified with VMWare Horizon.

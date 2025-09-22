@@ -1,3 +1,7 @@
+layout: page
+title: "What is the difference between Pan/Scroll and Pan/Scroll (Legacy)?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_is_the_difference_between_PanScroll_and_PanScroll_Legacy
+
 # What is the difference between Pan/Scroll and Pan/Scroll (Legacy)?
 
 The standard Pan/Scroll function freezes the cursor in place while scrolling. This is done to avoid the cursor to move out of the active window area, causing inconsistencies when the action is being performed. This change was introduced in a previous driver version.

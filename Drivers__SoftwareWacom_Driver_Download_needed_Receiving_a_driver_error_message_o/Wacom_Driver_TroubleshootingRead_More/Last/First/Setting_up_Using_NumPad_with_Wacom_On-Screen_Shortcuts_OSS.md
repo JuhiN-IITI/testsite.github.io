@@ -1,3 +1,7 @@
+layout: page
+title: "Setting up Using NumPad with Wacom On-Screen Shortcuts (OSS)"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/First/Setting_up_Using_NumPad_with_Wacom_On-Screen_Shortcuts_OSS
+
 # Setting up Using NumPad with Wacom On-Screen Shortcuts (OSS)
 
 As of the Wacom driver 6.4.9, a change for the default settings of Numbers keys in the Keypad OSS as been made. In previous driver versions, the numbers keys defaulted to standard keyboard numbers.

@@ -1,3 +1,7 @@
+layout: page
+title: "Are any other Wacom pens compatible with Wacom One 14 (DTC141)?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_14_2025/Are_any_other_Wacom_pens_compatible_with_Wacom_One_14_DTC141
+
 # Are any other Wacom pens compatible with Wacom One 14 (DTC141)?
 
 The Wacom One 14 can use the following pens and pen accessories.

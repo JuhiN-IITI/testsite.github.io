@@ -1,3 +1,7 @@
+layout: page
+title: "How do I load images onto the STU-540 to be stored locally?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Wacom_for_Business/Signature_Devices/Next/How_do_I_load_images_onto_the_STU-540_to_be_stored_locally
+
 # How do I load images onto the STU-540 to be stored locally?
 
 Images can be uploaded to the STU-540 ROM using the C++ API. 

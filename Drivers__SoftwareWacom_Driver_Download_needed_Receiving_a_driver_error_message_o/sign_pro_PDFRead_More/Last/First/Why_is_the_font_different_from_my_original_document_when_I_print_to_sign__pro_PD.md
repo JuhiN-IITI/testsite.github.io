@@ -1,3 +1,7 @@
+layout: page
+title: "Why is the font different from my original document when I print to sign Ι pro PDF?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/sign_pro_PDFRead_More/Last/First/Why_is_the_font_different_from_my_original_document_when_I_print_to_sign__pro_PD
+
 # Why is the font different from my original document when I print to sign Ι pro PDF?
 
 This isn’t a sign Ι pro PDF issue: By default, most PDF creators replace any “unusual” fonts with standard fonts to ensure that a PDF isn’t too large, and that it can be read on any computer. To use a specific, non-standard font, while also ensuring that it can be read on all computers, you’ll need to embed the font into the PDF, so that the PDF view is not dependent on the specific fonts that are installed on the computer. The default for sign Ι pro PDF does not embed whole fonts into the PDF, as this may lead to certain fonts not being shown.

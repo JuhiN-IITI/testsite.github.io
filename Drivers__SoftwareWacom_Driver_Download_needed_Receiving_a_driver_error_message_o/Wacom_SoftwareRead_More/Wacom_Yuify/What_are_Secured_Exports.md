@@ -1,3 +1,7 @@
+layout: page
+title: "What are Secured Exports?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Yuify/What_are_Secured_Exports
+
 # What are Secured Exports?
 
 In Yuify, your exports are your record of creations that contain a visual identifier, you can assign exports to form a project and add licenses.

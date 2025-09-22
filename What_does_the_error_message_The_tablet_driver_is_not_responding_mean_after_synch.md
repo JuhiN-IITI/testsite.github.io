@@ -1,3 +1,7 @@
+layout: page
+title: "What does the error message “The tablet driver is not responding” mean after synchronization fails and how do I fix it?"
+permalink: /What_does_the_error_message_The_tablet_driver_is_not_responding_mean_after_synch
+
 # What does the error message “The tablet driver is not responding” mean after synchronization fails and how do I fix it?
 
 Windows

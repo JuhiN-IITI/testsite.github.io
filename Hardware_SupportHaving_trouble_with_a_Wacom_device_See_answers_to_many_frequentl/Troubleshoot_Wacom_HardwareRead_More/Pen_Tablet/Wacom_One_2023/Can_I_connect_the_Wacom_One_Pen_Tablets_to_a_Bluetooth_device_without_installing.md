@@ -1,3 +1,7 @@
+layout: page
+title: "Can I connect the Wacom One Pen Tablets to a Bluetooth device without installing the Wacom driver?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_One_2023/Can_I_connect_the_Wacom_One_Pen_Tablets_to_a_Bluetooth_device_without_installing
+
 # Can I connect the Wacom One Pen Tablets to a Bluetooth device without installing the Wacom driver?
 
 Yes, when pairing look for ""Wacom One S"" and ""Wacom One M"" in the Bluetooth settings of your operating system and select the device.

@@ -1,3 +1,7 @@
+layout: page
+title: "How long is the warranty for Wacom Cintiq Pro 27 (2022)?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Warranty_Claims__Non-Warranty_RepairsRead_More/How_long_is_the_warranty_for_Wacom_Cintiq_Pro_27_2022
+
 # How long is the warranty for Wacom Cintiq Pro 27 (2022)?
 
 Please see the warranty documentation included with your product for specifics of the Limited Warranty provided by Wacom.

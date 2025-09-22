@@ -1,3 +1,7 @@
+layout: page
+title: "How to enable battery saving mode on Wacom MovinkPad 11?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MovinkPad_11/How_to_enable_battery_saving_mode_on_Wacom_MovinkPad_11
+
 # How to enable battery saving mode on Wacom MovinkPad 11?
 
 To help make the most of your device’s battery health we have a 90% (Battery Saving) and 80% maximum charge mode are available.

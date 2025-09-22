@@ -1,3 +1,7 @@
+layout: page
+title: "What Pens are compatible with the Wacom MovinkPad 11?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MovinkPad_11/What_Pens_are_compatible_with_the_Wacom_MovinkPad_11
+
 # What Pens are compatible with the Wacom MovinkPad 11?
 
 MovinkPad 11 supports pens other than the included Pro Pen 3. When enabled, you can use other pens as well.

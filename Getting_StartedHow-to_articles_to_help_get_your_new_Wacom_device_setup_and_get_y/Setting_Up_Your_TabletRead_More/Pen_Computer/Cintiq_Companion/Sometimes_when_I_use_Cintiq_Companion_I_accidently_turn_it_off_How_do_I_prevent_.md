@@ -1,3 +1,7 @@
+layout: page
+title: "Sometimes when I use Cintiq Companion I accidently turn it off. How do I prevent this?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Computer/Cintiq_Companion/Sometimes_when_I_use_Cintiq_Companion_I_accidently_turn_it_off_How_do_I_prevent_
+
 # Sometimes when I use Cintiq Companion I accidently turn it off. How do I prevent this?
 
 To prevent yourself from accidentally turning off the Cintiq Companion, adjust the settings for the power button:

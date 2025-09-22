@@ -1,3 +1,7 @@
+layout: page
+title: "What software is recommended to use for my compatible Chromebook device on the Wacom One?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/Previous/What_software_is_recommended_to_use_for_my_compatible_Chromebook_device_on_the_W
+
 # What software is recommended to use for my compatible Chromebook device on the Wacom One?
 
 "Wacom tested the following software and found them to be compatible with One by Wacom when connected to Chromebook devices.

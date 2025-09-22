@@ -1,3 +1,7 @@
+layout: page
+title: "Can I sign any existing PDF document within the application?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/sign_pro_PDFRead_More/Next/Can_I_sign_any_existing_PDF_document_within_the_application
+
 # Can I sign any existing PDF document within the application?
 
 Yes;

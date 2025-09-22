@@ -1,3 +1,7 @@
+layout: page
+title: "My Wacom Pen Display has no image on the screen. What do I do?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/My_Wacom_Pen_Display_has_no_image_on_the_screen_What_do_I_do
+
 # My Wacom Pen Display has no image on the screen. What do I do?
 
 Having no image in your Pen Display can be caused by a few different reasons.

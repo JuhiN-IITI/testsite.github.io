@@ -1,3 +1,7 @@
+layout: page
+title: "What is included with Wacom One Touch 13(DTH134)?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_2023/Wacom_One_13_Touch_2023/What_is_included_with_Wacom_One_Touch_13DTH134
+
 # What is included with Wacom One Touch 13(DTH134)?
 
 Global Versions: 

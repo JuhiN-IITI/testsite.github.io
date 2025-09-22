@@ -1,3 +1,7 @@
+layout: page
+title: "Can I use the Wacom Intuos Pro (2025) without installing the tablet driver?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_Intuos_Pro_2025/Can_I_use_the_Wacom_Intuos_Pro_2025_without_installing_the_tablet_driver
+
 # Can I use the Wacom Intuos Pro (2025) without installing the tablet driver?
 
 Windows 10 or later

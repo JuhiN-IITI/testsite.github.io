@@ -1,3 +1,7 @@
+layout: page
+title: "Does Wacom have a driver for macOS 26 (Tahoe)?"
+permalink: /Does_Wacom_have_a_driver_for_macOS_26_Tahoe
+
 # Does Wacom have a driver for macOS 26 (Tahoe)?
 
 The current driver supports macOS 26 (Tahoe). 

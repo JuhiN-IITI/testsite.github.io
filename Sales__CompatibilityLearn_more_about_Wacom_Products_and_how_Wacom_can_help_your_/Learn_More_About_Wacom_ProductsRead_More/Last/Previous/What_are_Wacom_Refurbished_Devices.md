@@ -1,3 +1,7 @@
+layout: page
+title: "What are Wacom Refurbished Devices?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_are_Wacom_Refurbished_Devices
+
 # What are Wacom Refurbished Devices?
 
 Wacom Refurbished Devices are pre-owned Wacom products that have been subjected to Wacom’s standard refurbishment process prior to being offered for sale or used as a warranty replacement.

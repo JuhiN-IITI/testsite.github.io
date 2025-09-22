@@ -1,3 +1,7 @@
+layout: page
+title: "What are the default button functions for the Wacom Pro Pen 3D?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Pen_nibs_and_Accessories/What_are_the_default_button_functions_for_the_Wacom_Pro_Pen_3D
+
 # What are the default button functions for the Wacom Pro Pen 3D?
 
 The upper button is set to Right Click.

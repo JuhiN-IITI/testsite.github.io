@@ -1,3 +1,7 @@
+layout: page
+title: "What is Light Leakage or Light Bleed on a LCD screen and what to do with your Wacom Display?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Warranty_Claims__Non-Warranty_RepairsRead_More/What_is_Light_Leakage_or_Light_Bleed_on_a_LCD_screen_and_what_to_do_with_your_Wa
+
 # What is Light Leakage or Light Bleed on a LCD screen and what to do with your Wacom Display?
 
 Light leakage or light bleed refers to light leak from the backlight to the edges or corners of LCD screens.

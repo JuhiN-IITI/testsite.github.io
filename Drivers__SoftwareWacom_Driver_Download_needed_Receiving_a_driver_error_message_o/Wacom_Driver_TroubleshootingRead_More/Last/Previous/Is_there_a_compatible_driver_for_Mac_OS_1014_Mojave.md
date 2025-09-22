@@ -1,3 +1,7 @@
+layout: page
+title: "Is there a compatible driver for Mac OS 10.14 Mojave?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Is_there_a_compatible_driver_for_Mac_OS_1014_Mojave
+
 # Is there a compatible driver for Mac OS 10.14 Mojave?
 
 Yes, however the current Wacom driver no longer supports Mac OS 10.14.x . The last driver to support this legacy operating system was Driver 6.3.46-2. You can download the older driver by going to the Wacom driver page, and selecting "Older versions."

@@ -1,3 +1,7 @@
+layout: page
+title: "Setting up the Wacom driver with macOS"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Setting_up_the_Wacom_driver_with_macOS
+
 # Setting up the Wacom driver with macOS
 
 Setting up the Wacom driver with macOS can be challenging due to OS security settings. MacOS offers many security features to keep the computer safe from applications not downloaded directly from the App Store. If an app is downloaded from the internet or directly from a developer, i.e., the Wacom Driver, the OS continues to protect the Mac. These added protections require additional security settings to be adjusted. Until these settings are accepted, tablet functions such as the Pen and touch input will not work correctly.  

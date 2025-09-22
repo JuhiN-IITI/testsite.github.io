@@ -1,3 +1,7 @@
+layout: page
+title: "Bamboo Stylus feel Compatibility"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/First/Bamboo_Stylus_feel_Compatibility
+
 # Bamboo Stylus feel Compatibility
 
 Bamboo Stylus Feel is designed for select devices with Wacom feel technology:

@@ -1,3 +1,7 @@
+layout: page
+title: "How do I configure VMWare Horizon to support my DTU-1141B, DTU-1031AX or DTH-1152 pen display?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Wacom_for_Business/Annotation_and_Markup/How_do_I_configure_VMWare_Horizon_to_support_my_DTU-1141B_DTU-1031AX_or_DTH-1152
+
 # How do I configure VMWare Horizon to support my DTU-1141B, DTU-1031AX or DTH-1152 pen display?
 
 For VMWare Horizon you will need to:

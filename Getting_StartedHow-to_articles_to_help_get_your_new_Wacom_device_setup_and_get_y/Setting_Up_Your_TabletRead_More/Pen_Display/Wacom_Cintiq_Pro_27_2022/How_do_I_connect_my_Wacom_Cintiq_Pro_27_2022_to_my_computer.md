@@ -1,3 +1,7 @@
+layout: page
+title: "How do I connect my Wacom Cintiq Pro 27 (2022) to my computer?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_Pro_27_2022/How_do_I_connect_my_Wacom_Cintiq_Pro_27_2022_to_my_computer
+
 # How do I connect my Wacom Cintiq Pro 27 (2022) to my computer?
 
 Before you begin the steps below, open the two cable cases on the back of your Cintiq Pro by pulling each case cover up (1) and out (2) to expose the ports on your Cintiq Pro.

@@ -1,3 +1,7 @@
+layout: page
+title: "What are the 3rd-party digital pens that I can use with Wacom Movink?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/Next/First/What_are_the_3rd-party_digital_pens_that_I_can_use_with_Wacom_Movink
+
 # What are the 3rd-party digital pens that I can use with Wacom Movink?
 
 Wacom One Standard Pen (CP92303B2Z)

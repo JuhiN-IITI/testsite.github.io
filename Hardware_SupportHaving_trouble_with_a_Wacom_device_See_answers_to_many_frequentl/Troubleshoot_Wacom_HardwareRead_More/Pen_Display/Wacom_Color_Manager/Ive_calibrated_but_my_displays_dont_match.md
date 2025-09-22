@@ -1,3 +1,7 @@
+layout: page
+title: "I've calibrated but my displays don't match!"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Color_Manager/Ive_calibrated_but_my_displays_dont_match
+
 # I've calibrated but my displays don't match!
 
 This is an extremely common condition, usually caused by comparing two displays of different manufacturers, often of radically different quality levels.

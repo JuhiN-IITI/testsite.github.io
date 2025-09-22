@@ -1,3 +1,7 @@
+layout: page
+title: "How do I connect my Cintiq 22 (DTK-2260) to my computer?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_22/How_do_I_connect_my_Cintiq_22_DTK-2260_to_my_computer
+
 # How do I connect my Cintiq 22 (DTK-2260) to my computer?
 
 Here are quick steps for setting up your Wacom Cintiq 22 with your computer.

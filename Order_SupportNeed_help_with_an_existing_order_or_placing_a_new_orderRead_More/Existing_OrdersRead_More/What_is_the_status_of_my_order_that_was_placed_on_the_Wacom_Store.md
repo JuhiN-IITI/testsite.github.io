@@ -1,3 +1,7 @@
+layout: page
+title: "What is the status of my order that was placed on the Wacom Store?"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/Existing_OrdersRead_More/What_is_the_status_of_my_order_that_was_placed_on_the_Wacom_Store
+
 # What is the status of my order that was placed on the Wacom Store?
 
 To check the status of your Wacom Store order, you can follow these steps:

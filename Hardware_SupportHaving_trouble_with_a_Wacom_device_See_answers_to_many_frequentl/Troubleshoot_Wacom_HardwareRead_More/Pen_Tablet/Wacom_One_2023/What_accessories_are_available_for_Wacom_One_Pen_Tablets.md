@@ -1,3 +1,7 @@
+layout: page
+title: "What accessories are available for Wacom One Pen Tablets?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_One_2023/What_accessories_are_available_for_Wacom_One_Pen_Tablets
+
 # What accessories are available for Wacom One Pen Tablets?
 
 Wacom One Standard Pen (CP92303B2Z)

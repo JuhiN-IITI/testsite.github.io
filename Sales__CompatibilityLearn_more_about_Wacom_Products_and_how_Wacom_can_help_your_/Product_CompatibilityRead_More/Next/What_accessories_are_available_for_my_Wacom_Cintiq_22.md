@@ -1,3 +1,7 @@
+layout: page
+title: "What accessories are available for my Wacom Cintiq 22?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Next/What_accessories_are_available_for_my_Wacom_Cintiq_22
+
 # What accessories are available for my Wacom Cintiq 22?
 
 Wacom Cintiq 22 Replacement Stand (ACK639KZ).

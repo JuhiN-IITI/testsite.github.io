@@ -1,3 +1,7 @@
+layout: page
+title: "How to set up a Wacom Tablet for Passpartout 2"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_2023/Wacom_One_13_Touch_2023/How_to_set_up_a_Wacom_Tablet_for_Passpartout_2
+
 # How to set up a Wacom Tablet for Passpartout 2
 
 Passpartout 2 Tablet Setup Guide

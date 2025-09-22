@@ -1,3 +1,7 @@
+layout: page
+title: "How do I connect my Wacom Movink to my Windows PC or Mac Computer?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/Next/How_do_I_connect_my_Wacom_Movink_to_my_Windows_PC_or_Mac_Computer
+
 # How do I connect my Wacom Movink to my Windows PC or Mac Computer?
 
 Connect to Windows PC or Mac computer

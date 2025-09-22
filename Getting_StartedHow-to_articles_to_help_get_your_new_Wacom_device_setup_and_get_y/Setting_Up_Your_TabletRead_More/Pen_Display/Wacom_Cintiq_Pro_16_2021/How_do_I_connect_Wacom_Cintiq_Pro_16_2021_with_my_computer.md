@@ -1,3 +1,7 @@
+layout: page
+title: "How do I connect Wacom Cintiq Pro 16 (2021) with my computer?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_Pro_16_2021/How_do_I_connect_Wacom_Cintiq_Pro_16_2021_with_my_computer
+
 # How do I connect Wacom Cintiq Pro 16 (2021) with my computer?
 
 The Cintiq Pro 16 is connected to your computer in one of the following ways. In each option, the power supply will also need to be connected to a power source.

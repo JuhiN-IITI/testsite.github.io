@@ -1,3 +1,7 @@
+layout: page
+title: "Why aren't my files in the Inkspace Desktop App syncing with the Inkspace Cloud (Mac and Windows)?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Inkspace/Why_arent_my_files_in_the_Inkspace_Desktop_App_syncing_with_the_Inkspace_Cloud_M
+
 # Why aren't my files in the Inkspace Desktop App syncing with the Inkspace Cloud (Mac and Windows)?
 
 With recent updates, we have set the App to maintenance mode indefinitely. This means that the files transferred to your Inkspace Desktop App and / or the files created with Live mode, will not sync with the cloud service and will not be available through the cloud service. 

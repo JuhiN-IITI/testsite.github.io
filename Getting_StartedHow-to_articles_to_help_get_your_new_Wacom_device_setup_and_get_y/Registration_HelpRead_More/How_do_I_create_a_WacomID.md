@@ -1,3 +1,7 @@
+layout: page
+title: "How do I create a WacomID?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/How_do_I_create_a_WacomID
+
 # How do I create a WacomID?
 
 This article guides you step-by-step to create a WacomID. If you are having trouble with the site not working correctly, please review this article.

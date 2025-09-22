@@ -1,3 +1,7 @@
+layout: page
+title: "Can I change the fan speed on my Cintiq Pro 24 (DTK-2420/DTH-2420)?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_Pro_24___32/Can_I_change_the_fan_speed_on_my_Cintiq_Pro_24_DTK-2420DTH-2420
+
 # Can I change the fan speed on my Cintiq Pro 24 (DTK-2420/DTH-2420)?
 
 Yes, with the current (Ver 1.0.5 and later) video firmware, you can set your tablet’s fans to Auto (Default) or Low* fan speeds. 

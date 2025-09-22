@@ -1,3 +1,7 @@
+layout: page
+title: "What is the difference between the models of the Bamboo Slate and Bamboo Folio?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_is_the_difference_between_the_models_of_the_Bamboo_Slate_and_Bamboo_Folio
+
 # What is the difference between the models of the Bamboo Slate and Bamboo Folio?
 
 There are 3 different models of the Bamboo Slate and Bamboo Folio:

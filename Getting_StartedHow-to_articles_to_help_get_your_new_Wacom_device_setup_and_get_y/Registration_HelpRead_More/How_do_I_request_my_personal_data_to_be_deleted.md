@@ -1,3 +1,7 @@
+layout: page
+title: "How do I request my personal data to be deleted?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/How_do_I_request_my_personal_data_to_be_deleted
+
 # How do I request my personal data to be deleted?
 
 If you would like to know what personal information we have collected under our data privacy agreement, you have the right to request this information. Additionally, if you want your personal information that we have collected or maintained to be deleted, you also have the right to make this request.

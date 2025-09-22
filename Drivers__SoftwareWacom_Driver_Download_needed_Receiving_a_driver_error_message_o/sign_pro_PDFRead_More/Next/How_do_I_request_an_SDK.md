@@ -1,3 +1,7 @@
+layout: page
+title: "How do I request an SDK?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/sign_pro_PDFRead_More/Next/How_do_I_request_an_SDK
+
 # How do I request an SDK?
 
 Wacom Developer support can be found here: https://developer-support.wacom.com/

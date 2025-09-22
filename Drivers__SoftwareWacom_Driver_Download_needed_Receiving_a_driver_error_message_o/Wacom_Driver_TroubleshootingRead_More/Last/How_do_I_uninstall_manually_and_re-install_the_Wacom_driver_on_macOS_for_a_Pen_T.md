@@ -1,3 +1,7 @@
+layout: page
+title: "How do I uninstall (manually) and re-install the Wacom driver on macOS for a Pen Tablet, Pen Display, or Pen Computer?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/How_do_I_uninstall_manually_and_re-install_the_Wacom_driver_on_macOS_for_a_Pen_T
+
 # How do I uninstall (manually) and re-install the Wacom driver on macOS for a Pen Tablet, Pen Display, or Pen Computer?
 
 NOTE:

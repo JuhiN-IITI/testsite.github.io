@@ -1,3 +1,7 @@
+layout: page
+title: "What are Application-Specific Settings?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_are_Application-Specific_Settings
+
 # What are Application-Specific Settings?
 
 Application-Specific Settings are Tools and tablet settings of professional Wacom products that have been customized for individual applications. The control panel enables you to program a tool to behave uniquely in different applications.

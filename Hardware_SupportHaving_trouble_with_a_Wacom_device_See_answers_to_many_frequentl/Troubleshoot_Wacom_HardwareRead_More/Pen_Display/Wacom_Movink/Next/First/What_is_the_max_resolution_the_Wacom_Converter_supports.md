@@ -1,3 +1,7 @@
+layout: page
+title: "What is the max resolution the Wacom Converter supports?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/Next/First/What_is_the_max_resolution_the_Wacom_Converter_supports
+
 # What is the max resolution the Wacom Converter supports?
 
 The Wacom Converter supports resolutions up to 3840x2160 at 60Hz. However, the actual resolution you can set will depend on the maximum resolution supported by your connected pen display, computer and cables.

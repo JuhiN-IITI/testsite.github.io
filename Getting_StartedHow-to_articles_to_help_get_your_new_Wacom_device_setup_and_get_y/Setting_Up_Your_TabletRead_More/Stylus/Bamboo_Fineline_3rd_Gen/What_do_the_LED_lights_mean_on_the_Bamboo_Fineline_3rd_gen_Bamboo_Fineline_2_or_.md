@@ -1,3 +1,7 @@
+layout: page
+title: "What do the LED lights mean on the Bamboo Fineline (3rd gen), Bamboo Fineline 2, or the original Bamboo Stylus Fineline?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Stylus/Bamboo_Fineline_3rd_Gen/What_do_the_LED_lights_mean_on_the_Bamboo_Fineline_3rd_gen_Bamboo_Fineline_2_or_
+
 # What do the LED lights mean on the Bamboo Fineline (3rd gen), Bamboo Fineline 2, or the original Bamboo Stylus Fineline?
 
 The LED lights indicate the status of the Bamboo Fineline, informing about pairing, connecting or a low battery. There are two colors—blue and red--and the lights can either be solid or blinking.

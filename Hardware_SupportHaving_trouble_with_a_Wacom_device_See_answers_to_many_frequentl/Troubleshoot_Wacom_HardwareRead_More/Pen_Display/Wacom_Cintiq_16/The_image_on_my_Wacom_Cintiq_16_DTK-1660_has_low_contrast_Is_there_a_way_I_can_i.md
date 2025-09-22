@@ -1,3 +1,7 @@
+layout: page
+title: "The image on my Wacom Cintiq 16 DTK-1660 has low contrast. Is there a way I can improve it?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_16/The_image_on_my_Wacom_Cintiq_16_DTK-1660_has_low_contrast_Is_there_a_way_I_can_i
+
 # The image on my Wacom Cintiq 16 DTK-1660 has low contrast. Is there a way I can improve it?
 
 If the Cintiq’s image is faded or does not have enough contrast, the quantization range setting of your PC’s video card (GPU) might not be set properly.

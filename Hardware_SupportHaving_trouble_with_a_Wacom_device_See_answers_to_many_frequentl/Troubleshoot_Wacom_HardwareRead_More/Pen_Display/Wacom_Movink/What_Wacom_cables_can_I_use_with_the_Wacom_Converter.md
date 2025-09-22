@@ -1,3 +1,7 @@
+layout: page
+title: "What Wacom cables can I use with the Wacom Converter?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/What_Wacom_cables_can_I_use_with_the_Wacom_Converter
+
 # What Wacom cables can I use with the Wacom Converter?
 
 The Wacom Converter does not include any cables by design. We recommend using the cables that came with your pen display, or if needed we can provide compatible cables available from the Wacom eStore. Please refer to the following list for compatible cables and their specifications.

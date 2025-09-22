@@ -1,3 +1,7 @@
+layout: page
+title: "Is it necessary to download a driver for the Wacom One (DTC133)?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Is_it_necessary_to_download_a_driver_for_the_Wacom_One_DTC133
+
 # Is it necessary to download a driver for the Wacom One (DTC133)?
 
 Yes, the driver download is necessary for every Wacom device in order to get the complete pen function. Please make sure you download the latest driver to your PC before starting using.

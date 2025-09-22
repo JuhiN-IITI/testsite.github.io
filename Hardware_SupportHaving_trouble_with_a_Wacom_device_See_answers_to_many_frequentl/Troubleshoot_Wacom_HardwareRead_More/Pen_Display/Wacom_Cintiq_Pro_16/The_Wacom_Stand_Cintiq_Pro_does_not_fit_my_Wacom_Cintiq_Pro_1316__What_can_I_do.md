@@ -1,3 +1,7 @@
+layout: page
+title: "The Wacom Stand Cintiq Pro does not fit my Wacom Cintiq Pro 13/16 . What can I do?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_Pro_16/The_Wacom_Stand_Cintiq_Pro_does_not_fit_my_Wacom_Cintiq_Pro_1316__What_can_I_do
+
 # The Wacom Stand Cintiq Pro does not fit my Wacom Cintiq Pro 13/16 . What can I do?
 
 You may need to replace the clips on your Cintiq Pro 13/16. Please use the clip kit provided in the box, under the Quick Start Guide, which includes:

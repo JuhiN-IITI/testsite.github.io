@@ -1,3 +1,7 @@
+layout: page
+title: "What settings can I assign to Pen or tablet?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_settings_can_I_assign_to_Pen_or_tablet
+
 # What settings can I assign to Pen or tablet?
 
 You can change the settings assigned to ExpressKeys, Touch Rings, On-Screen Controls, pen buttons, and other customizable components of your device in Wacom Tablet Properties. Then, when you engage that component, such as pressing an ExpressKey or pen button, the function that you assigned to it is performed. 

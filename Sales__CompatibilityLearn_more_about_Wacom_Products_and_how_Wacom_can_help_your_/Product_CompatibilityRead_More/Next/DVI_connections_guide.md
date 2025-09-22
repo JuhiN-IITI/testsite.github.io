@@ -1,3 +1,7 @@
+layout: page
+title: "DVI connections guide"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Next/DVI_connections_guide
+
 # DVI connections guide
 
 DVI Connector Guide

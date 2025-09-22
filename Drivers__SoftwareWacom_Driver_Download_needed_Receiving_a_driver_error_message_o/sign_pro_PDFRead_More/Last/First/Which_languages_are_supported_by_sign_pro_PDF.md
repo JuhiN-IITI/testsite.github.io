@@ -1,3 +1,7 @@
+layout: page
+title: "Which languages are supported by sign pro PDF?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/sign_pro_PDFRead_More/Last/First/Which_languages_are_supported_by_sign_pro_PDF
+
 # Which languages are supported by sign pro PDF?
 
 The following languages are supported: English, German, Spanish, French, Italian, Japanese, Korean, Dutch, Polish, Portuguese, Russian and Chinese (Simplified and Traditional).

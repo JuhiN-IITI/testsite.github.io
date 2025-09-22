@@ -1,3 +1,7 @@
+layout: page
+title: "Why is the LED light on my Inkling Pen continually blinking?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Stylus/Other_Stylus/Why_is_the_LED_light_on_my_Inkling_Pen_continually_blinking
+
 # Why is the LED light on my Inkling Pen continually blinking?
 
 Please try the steps below to stop you Inkling Pen from blinking:

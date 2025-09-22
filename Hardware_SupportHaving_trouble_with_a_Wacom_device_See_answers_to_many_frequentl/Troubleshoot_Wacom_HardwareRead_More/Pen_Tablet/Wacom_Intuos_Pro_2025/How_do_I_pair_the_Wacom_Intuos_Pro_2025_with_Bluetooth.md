@@ -1,3 +1,7 @@
+layout: page
+title: "How do I pair the Wacom Intuos Pro (2025) with Bluetooth?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_Intuos_Pro_2025/How_do_I_pair_the_Wacom_Intuos_Pro_2025_with_Bluetooth
+
 # How do I pair the Wacom Intuos Pro (2025) with Bluetooth?
 
 Follow these steps to connect your Wacom Intuos Pro via Bluetooth:

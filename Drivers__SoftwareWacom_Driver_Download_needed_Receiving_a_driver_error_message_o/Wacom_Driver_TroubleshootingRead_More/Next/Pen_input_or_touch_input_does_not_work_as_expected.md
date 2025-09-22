@@ -1,3 +1,7 @@
+layout: page
+title: "Pen input or touch input does not work as expected"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Next/Pen_input_or_touch_input_does_not_work_as_expected
+
 # Pen input or touch input does not work as expected
 
 Step 1: Do you get an error message from the Wacom Driver? 

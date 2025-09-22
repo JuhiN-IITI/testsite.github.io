@@ -1,3 +1,7 @@
+layout: page
+title: "How do you start drawing right from sleep mode with the Wacom MovinkPad 11?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MovinkPad_11/How_do_you_start_drawing_right_from_sleep_mode_with_the_Wacom_MovinkPad_11
+
 # How do you start drawing right from sleep mode with the Wacom MovinkPad 11?
 
 Simply press the Pro Pen 3 to the screen while in sleep mode. MovinkPad 11 will respond to the pen and launch Wacom Canvas.

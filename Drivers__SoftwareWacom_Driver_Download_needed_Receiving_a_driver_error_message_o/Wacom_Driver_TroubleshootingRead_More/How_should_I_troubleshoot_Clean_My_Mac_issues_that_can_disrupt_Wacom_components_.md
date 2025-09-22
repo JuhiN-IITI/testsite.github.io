@@ -1,3 +1,7 @@
+layout: page
+title: "How should I troubleshoot "Clean My Mac" issues that can disrupt Wacom components and services?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/How_should_I_troubleshoot_Clean_My_Mac_issues_that_can_disrupt_Wacom_components_
+
 # How should I troubleshoot "Clean My Mac" issues that can disrupt Wacom components and services?
 
 On a computer that has Clean My Mac installed, the Wacom Tablet app sometimes may fail to work when trying to open the Wacom Center or any other Wacom Driver Application such as the Wacom Display Settings or Wacom Tablet Utility. The application will hang, giving a rainbow "beach ball", causing the user to need to force quit the app. Another side effect may be in the apple System Preferences the Wacom Tablet Section will not load properly or will show a "pref pane" error.

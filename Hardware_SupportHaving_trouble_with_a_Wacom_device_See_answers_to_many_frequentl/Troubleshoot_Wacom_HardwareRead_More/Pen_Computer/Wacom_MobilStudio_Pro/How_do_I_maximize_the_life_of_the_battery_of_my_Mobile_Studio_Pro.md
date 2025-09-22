@@ -1,3 +1,7 @@
+layout: page
+title: "How do I maximize the life of the battery of my Mobile Studio Pro?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MobilStudio_Pro/How_do_I_maximize_the_life_of_the_battery_of_my_Mobile_Studio_Pro
+
 # How do I maximize the life of the battery of my Mobile Studio Pro?
 
 Many factors influence how much use time you get out of a battery charge. Here are some of variables you can change:

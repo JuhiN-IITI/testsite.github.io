@@ -1,3 +1,7 @@
+layout: page
+title: "Using Touch Gestures on the Wacom MovinkPad 11."
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MovinkPad_11/Using_Touch_Gestures_on_the_Wacom_MovinkPad_11
+
 # Using Touch Gestures on the Wacom MovinkPad 11.
 
 By using touch gestures on the canvas, you can perform various functions without needing to press any buttons.

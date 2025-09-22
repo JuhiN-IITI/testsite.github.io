@@ -1,3 +1,7 @@
+layout: page
+title: "What is a USB OTG (On-The-Go), and which OTG adapters are compatible with the Wacom Intuos?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/Previous/What_is_a_USB_OTG_On-The-Go_and_which_OTG_adapters_are_compatible_with_the_Wacom
+
 # What is a USB OTG (On-The-Go), and which OTG adapters are compatible with the Wacom Intuos?
 
 USB OTG is one of the specifications of USB. It allows USB devices such as tablets or smartphones to act as a host.  An OTG can be used to connect other USB devices, such as USB flash drives, digital cameras, mice or keyboards, to a smartphone. (https://en.wikipedia.org/wiki/USB_On-The-Go). 

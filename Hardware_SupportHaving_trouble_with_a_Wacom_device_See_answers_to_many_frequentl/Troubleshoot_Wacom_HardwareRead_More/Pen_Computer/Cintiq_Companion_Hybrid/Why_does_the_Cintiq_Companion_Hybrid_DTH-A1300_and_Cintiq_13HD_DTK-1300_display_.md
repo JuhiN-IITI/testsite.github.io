@@ -1,3 +1,7 @@
+layout: page
+title: "Why does the Cintiq Companion Hybrid (DTH-A1300) and Cintiq 13HD (DTK-1300) display a reduced picture size when connected to a PC or Mac?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Cintiq_Companion_Hybrid/Why_does_the_Cintiq_Companion_Hybrid_DTH-A1300_and_Cintiq_13HD_DTK-1300_display_
+
 # Why does the Cintiq Companion Hybrid (DTH-A1300) and Cintiq 13HD (DTK-1300) display a reduced picture size when connected to a PC or Mac?
 
 A function called "Underscan," usually a setting of the graphics driver, causes the small picture display. You can fix this by following the relevant operating system instructions below:

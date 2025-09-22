@@ -1,3 +1,7 @@
+layout: page
+title: "My cables are getting pinched by my monitor arm, when using the Wacom VESA Mount is there a better way to route the cables?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Pen_nibs_and_Accessories/My_cables_are_getting_pinched_by_my_monitor_arm_when_using_the_Wacom_VESA_Mount_
+
 # My cables are getting pinched by my monitor arm, when using the Wacom VESA Mount is there a better way to route the cables?
 
 To avoid the potential of pinched cables, follow the cable routing instructions below:

@@ -1,3 +1,7 @@
+layout: page
+title: "What is Display Saving mode in the Wacom Movink menu?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/Next/What_is_Display_Saving_mode_in_the_Wacom_Movink_menu
+
 # What is Display Saving mode in the Wacom Movink menu?
 
 Burn-in could occur with OLED displays if you are continuously displaying the same image. Burn-in is occurred depending on the display brightness.

@@ -1,3 +1,7 @@
+layout: page
+title: "How do I set up the Wacom Cintiq Pro with the Wacom Ergo Stand?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Pen_nibs_and_Accessories/How_do_I_set_up_the_Wacom_Cintiq_Pro_with_the_Wacom_Ergo_Stand
+
 # How do I set up the Wacom Cintiq Pro with the Wacom Ergo Stand?
 
 We recommend that our users watch this Tutorial Video with the following quick steps for setting up the Ergo Stand with your Cintiq Pro 24/32: 

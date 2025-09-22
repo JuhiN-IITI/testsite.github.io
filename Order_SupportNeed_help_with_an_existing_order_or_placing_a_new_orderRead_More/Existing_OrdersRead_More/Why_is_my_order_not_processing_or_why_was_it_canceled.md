@@ -1,3 +1,7 @@
+layout: page
+title: "Why is my order not processing or why was it canceled?"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/Existing_OrdersRead_More/Why_is_my_order_not_processing_or_why_was_it_canceled
+
 # Why is my order not processing or why was it canceled?
 
 An order may not process correctly due to an error at checkout. During the checkout process make sure you reach the “successful placed order” page before navigating away from Wacom.com.

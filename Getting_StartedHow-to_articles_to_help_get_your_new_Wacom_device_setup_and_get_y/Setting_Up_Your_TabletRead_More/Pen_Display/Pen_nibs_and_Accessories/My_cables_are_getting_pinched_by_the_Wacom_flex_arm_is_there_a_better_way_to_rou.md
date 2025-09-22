@@ -1,3 +1,7 @@
+layout: page
+title: "My cables are getting pinched by the Wacom flex arm, is there a better way to route them?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Pen_nibs_and_Accessories/My_cables_are_getting_pinched_by_the_Wacom_flex_arm_is_there_a_better_way_to_rou
+
 # My cables are getting pinched by the Wacom flex arm, is there a better way to route them?
 
 To avoid the potential of pinched cables, follow the cable routing instructions below:

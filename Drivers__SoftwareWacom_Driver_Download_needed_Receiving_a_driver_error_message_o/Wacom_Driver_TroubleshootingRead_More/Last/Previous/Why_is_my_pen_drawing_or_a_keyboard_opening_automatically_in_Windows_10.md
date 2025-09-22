@@ -1,3 +1,7 @@
+layout: page
+title: "Why is my pen drawing or a keyboard opening automatically in Windows 10?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Why_is_my_pen_drawing_or_a_keyboard_opening_automatically_in_Windows_10
+
 # Why is my pen drawing or a keyboard opening automatically in Windows 10?
 
 The 2018 Fall Creators update for Windows changed how Windows Ink treats a pen in Windows. This issue affects all pen devices and is not limited to Wacom devices.

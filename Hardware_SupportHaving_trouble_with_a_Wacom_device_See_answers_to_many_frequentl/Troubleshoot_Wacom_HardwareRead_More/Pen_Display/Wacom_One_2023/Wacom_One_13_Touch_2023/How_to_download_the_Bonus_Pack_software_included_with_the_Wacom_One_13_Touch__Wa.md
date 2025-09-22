@@ -1,3 +1,7 @@
+layout: page
+title: "How to download the Bonus Pack software included with the Wacom One 13 Touch / Wacom One 12?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_2023/Wacom_One_13_Touch_2023/How_to_download_the_Bonus_Pack_software_included_with_the_Wacom_One_13_Touch__Wa
+
 # How to download the Bonus Pack software included with the Wacom One 13 Touch / Wacom One 12?
 
 You will need to register your device, please follow the steps below:

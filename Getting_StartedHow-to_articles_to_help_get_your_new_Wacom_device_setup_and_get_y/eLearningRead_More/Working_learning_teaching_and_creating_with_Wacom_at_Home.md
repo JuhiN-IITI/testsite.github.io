@@ -1,3 +1,7 @@
+layout: page
+title: "Working, learning, teaching and creating with Wacom at Home"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/eLearningRead_More/Working_learning_teaching_and_creating_with_Wacom_at_Home
+
 # Working, learning, teaching and creating with Wacom at Home
 
 Covid-19 has put many of us in a new and unusual situation. We are challenged to adjust to changing rules and develop new habits to prevent us and others from harm. These measures are affecting our daily lives and raise many questions around work and school. Many companies encourage employees to work from home. Schools are closed, challenging teachers and students to find new ways to teach or learn from home. And creative studios are ramping up remote working to secure their production pipelines under tight deadlines.

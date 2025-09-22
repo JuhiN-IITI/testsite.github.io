@@ -1,3 +1,7 @@
+layout: page
+title: "When will I receive my credit / refund for my returned Wacom's eStore order?"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/Existing_OrdersRead_More/When_will_I_receive_my_credit__refund_for_my_returned_Wacoms_eStore_order
+
 # When will I receive my credit / refund for my returned Wacom's eStore order?
 
 You can expect the credit / refund back, for your returned Wacom eStore order, within 10 business days of the date Wacom receives the return. 

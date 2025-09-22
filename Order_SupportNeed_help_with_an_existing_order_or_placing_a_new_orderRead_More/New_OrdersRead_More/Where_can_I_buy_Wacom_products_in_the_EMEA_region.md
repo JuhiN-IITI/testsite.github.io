@@ -1,3 +1,7 @@
+layout: page
+title: "Where can I buy Wacom products in the EMEA region?"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/New_OrdersRead_More/Where_can_I_buy_Wacom_products_in_the_EMEA_region
+
 # Where can I buy Wacom products in the EMEA region?
 
 Wacom eStore

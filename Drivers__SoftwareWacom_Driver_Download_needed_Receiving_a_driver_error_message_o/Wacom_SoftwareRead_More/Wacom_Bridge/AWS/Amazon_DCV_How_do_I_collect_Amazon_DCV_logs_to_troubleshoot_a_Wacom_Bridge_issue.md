@@ -1,3 +1,7 @@
+layout: page
+title: "Amazon DCV: How do I collect Amazon DCV logs to troubleshoot a Wacom Bridge issue?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Bridge/AWS/Amazon_DCV_How_do_I_collect_Amazon_DCV_logs_to_troubleshoot_a_Wacom_Bridge_issue
+
 # Amazon DCV: How do I collect Amazon DCV logs to troubleshoot a Wacom Bridge issue?
 
 In cases where issues cannot be solved easily, the Wacom and AWS teams may need to diagnose the issue and determine possible troubleshooting steps for the issue. To provide them with up-to-date information, AWS debug logs collected by following the AWS guidelines (https://docs.aws.amazon.com/dcv/latest/adminguide/troubleshooting-logs.html).

@@ -1,3 +1,7 @@
+layout: page
+title: "Why isn’t the connection between my Inkling and the receiver working?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Stylus/Other_Stylus/Why_isnt_the_connection_between_my_Inkling_and_the_receiver_working
+
 # Why isn’t the connection between my Inkling and the receiver working?
 
 When the receiver LED light is green, it should record data from the pen as soon as the pen tip touches the paper; the pen LED should also display green to indicate that it’s communicating with the receiver.

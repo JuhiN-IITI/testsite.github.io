@@ -1,3 +1,7 @@
+layout: page
+title: "Can I record my sketches on the Wacom Intuos Pro (2017) Paper Edition as a video?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Tablet/Wacom_Intuos_Pro_2017/Next/Can_I_record_my_sketches_on_the_Wacom_Intuos_Pro_2017_Paper_Edition_as_a_video
+
 # Can I record my sketches on the Wacom Intuos Pro (2017) Paper Edition as a video?
 
 You can use third party software to do that. Inkspace does not yet support this feature. This might be added in future software releases.

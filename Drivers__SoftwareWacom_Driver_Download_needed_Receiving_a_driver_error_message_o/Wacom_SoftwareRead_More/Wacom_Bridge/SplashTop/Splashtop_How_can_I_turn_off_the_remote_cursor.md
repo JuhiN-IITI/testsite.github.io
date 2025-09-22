@@ -1,3 +1,7 @@
+layout: page
+title: "Splashtop: How can I turn off the remote cursor?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Bridge/SplashTop/Splashtop_How_can_I_turn_off_the_remote_cursor
+
 # Splashtop: How can I turn off the remote cursor?
 
 The Splashtop software has the ability of showing or hiding the remote cursor from the Splashtop View Options menu (eyeball icon). Which cursor is the best to use depends a lot on the speed of your connection and system, what type of Wacom product you are using, and your personal preference.

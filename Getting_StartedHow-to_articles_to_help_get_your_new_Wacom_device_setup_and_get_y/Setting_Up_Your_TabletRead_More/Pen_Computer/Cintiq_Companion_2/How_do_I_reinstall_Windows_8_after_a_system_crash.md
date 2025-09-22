@@ -1,3 +1,7 @@
+layout: page
+title: "How do I reinstall Windows 8 after a system crash?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Computer/Cintiq_Companion_2/How_do_I_reinstall_Windows_8_after_a_system_crash
+
 # How do I reinstall Windows 8 after a system crash?
 
 In the rare event that the Cintiq Companion crashes, you can reinstall Windows 8:

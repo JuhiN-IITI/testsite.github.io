@@ -1,3 +1,7 @@
+layout: page
+title: "Can I change the shipping method of my order that was placed on the Wacom Store?"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/Existing_OrdersRead_More/Can_I_change_the_shipping_method_of_my_order_that_was_placed_on_the_Wacom_Store
+
 # Can I change the shipping method of my order that was placed on the Wacom Store?
 
 Once an order has been submitted on the Wacom Store, the shipping method cannot be modified. You can attempt to cancel by following the steps below.

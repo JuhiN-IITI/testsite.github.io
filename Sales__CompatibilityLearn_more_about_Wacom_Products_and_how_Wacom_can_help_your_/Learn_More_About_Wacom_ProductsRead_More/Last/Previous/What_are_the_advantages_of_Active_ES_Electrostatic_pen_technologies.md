@@ -1,3 +1,7 @@
+layout: page
+title: "What are the advantages of Active ES (Electrostatic) pen technologies?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_are_the_advantages_of_Active_ES_Electrostatic_pen_technologies
+
 # What are the advantages of Active ES (Electrostatic) pen technologies?
 
 Adopting a simple structure which integrates pen and touch input signal processing into a single controller/sensor system (a sensor board dedicated to the pen is not necessary) , Wacom's Active ES pen achieves superb performance such as high pen pressure sensivity and accuracy expressing intricate details. Wacom's Active ES pen technologies will lead the way to the era of digital stationery.

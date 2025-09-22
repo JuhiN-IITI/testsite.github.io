@@ -1,3 +1,7 @@
+layout: page
+title: "Edatalia STU and DTU integration information - Wacom for Business STU and DTU devices"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/3rd-party_Wacom_for_Business_Integrations/Edatalia_STU_and_DTU_integration_information_-_Wacom_for_Business_STU_and_DTU_de
+
 # Edatalia STU and DTU integration information - Wacom for Business STU and DTU devices
 
 Edatalia’s signature solutions seamlessly integrate with Wacom signature devices, offering an alternative to Wacom's signature SDK. 

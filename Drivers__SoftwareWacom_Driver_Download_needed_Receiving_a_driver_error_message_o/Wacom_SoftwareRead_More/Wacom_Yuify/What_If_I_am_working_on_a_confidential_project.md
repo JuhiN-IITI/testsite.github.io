@@ -1,3 +1,7 @@
+layout: page
+title: "What If I am working on a confidential project?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Yuify/What_If_I_am_working_on_a_confidential_project
+
 # What If I am working on a confidential project?
 
 You can always set your project to "private" in the project options. That will block the image and other confidential information registered with your content when you share the link.

@@ -1,3 +1,7 @@
+layout: page
+title: "How do I replace the Wacom Intuos Pro (2025) overlay sheet?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_Intuos_Pro_2025/How_do_I_replace_the_Wacom_Intuos_Pro_2025_overlay_sheet
+
 # How do I replace the Wacom Intuos Pro (2025) overlay sheet?
 
 The Overlay sheet is designed to be replaceable. To Remove the overlay sheet follow the steps below using the supplied remover tool.

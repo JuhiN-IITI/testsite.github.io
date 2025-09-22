@@ -1,3 +1,7 @@
+layout: page
+title: "What are the System Requirements for my computer to use a Wacom Cintiq Pro 17, 22 & 27?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_Pro_17_22__27/Next/First/What_are_the_System_Requirements_for_my_computer_to_use_a_Wacom_Cintiq_Pro_17_22
+
 # What are the System Requirements for my computer to use a Wacom Cintiq Pro 17, 22 & 27?
 
 For PC: Windows 10 or later

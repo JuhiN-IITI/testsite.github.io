@@ -1,3 +1,7 @@
+layout: page
+title: "The Wacom Converter is not working, what do I do?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/The_Wacom_Converter_is_not_working_what_do_I_do
+
 # The Wacom Converter is not working, what do I do?
 
 Ensure Proper Cable Connections

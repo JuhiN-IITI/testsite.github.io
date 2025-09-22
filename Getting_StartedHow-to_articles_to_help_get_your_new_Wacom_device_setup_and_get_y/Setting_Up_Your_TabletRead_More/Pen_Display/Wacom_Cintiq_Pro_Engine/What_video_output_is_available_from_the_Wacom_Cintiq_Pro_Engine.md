@@ -1,3 +1,7 @@
+layout: page
+title: "What video output is available from the Wacom Cintiq Pro Engine?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_Pro_Engine/What_video_output_is_available_from_the_Wacom_Cintiq_Pro_Engine
+
 # What video output is available from the Wacom Cintiq Pro Engine?
 
 The Wacom Cintiq Pro Engine has the following video ports available to be used to connect the Wacom Cintiq Pro Studio to up to 3 external monitors.

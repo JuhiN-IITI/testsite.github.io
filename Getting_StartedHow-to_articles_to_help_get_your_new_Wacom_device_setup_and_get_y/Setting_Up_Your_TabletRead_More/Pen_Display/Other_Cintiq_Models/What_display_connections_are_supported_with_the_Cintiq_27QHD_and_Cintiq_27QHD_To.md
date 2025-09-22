@@ -1,3 +1,7 @@
+layout: page
+title: "What display connections are supported with the Cintiq 27QHD and Cintiq 27QHD Touch?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Other_Cintiq_Models/What_display_connections_are_supported_with_the_Cintiq_27QHD_and_Cintiq_27QHD_To
+
 # What display connections are supported with the Cintiq 27QHD and Cintiq 27QHD Touch?
 
 Cintiq 27QHD supports the following display connections:

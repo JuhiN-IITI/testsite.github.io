@@ -1,3 +1,7 @@
+layout: page
+title: "How to set up a Keystroke?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Next/How_to_set_up_a_Keystroke
+
 # How to set up a Keystroke?
 
 You can assign keystrokes to customizable components of your device, like ExpressKeys and pen buttons, so you can press a button on your device instead of pressing the keystroke on your keyboard. You can also assign a combination of keystrokes, so you only have to press one button instead of the entire keystroke combination.

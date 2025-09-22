@@ -1,3 +1,7 @@
+layout: page
+title: "What does the error message “A supported tablet is not found on the system” or "No Wacom device connected to your computer" mean and how do I fix it?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_does_the_error_message_A_supported_tablet_is_not_found_on_the_system_or_No_
+
 # What does the error message “A supported tablet is not found on the system” or "No Wacom device connected to your computer" mean and how do I fix it?
 
 This error is given with the driver does not see a supported tablet connected to the computer. First, please make sure the USB cable for the tablet is connected directly to the computer and the tablet is powered on. Avoid using USB hubs, keyboard/monitor ports, or docking station as these can cause intermittent issues.

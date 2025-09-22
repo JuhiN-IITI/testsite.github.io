@@ -1,3 +1,7 @@
+layout: page
+title: "How do I pair Bamboo Ink 2017 with my devices via Bluetooth®?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Stylus/Bamboo_Ink/How_do_I_pair_Bamboo_Ink_2017_with_my_devices_via_Bluetooth
+
 # How do I pair Bamboo Ink 2017 with my devices via Bluetooth®?
 
 To pair your Bamboo Ink 2017 (CS-321):

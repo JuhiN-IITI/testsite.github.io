@@ -1,3 +1,7 @@
+layout: page
+title: ""Something went wrong (code: 0x8009002d") when trying to login after the MobileStudio Pro BIOS update."
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MobilStudio_Pro/Something_went_wrong_code_0x8009002d_when_trying_to_login_after_the_MobileStudio
+
 # "Something went wrong (code: 0x8009002d") when trying to login after the MobileStudio Pro BIOS update.
 
 Due to the recent identified security breach related to Intel chip, which puts our MobileStudio Pro at risk, Wacom has worked with Intel and our manufacturing partner to develop a BIOS update for this issue.

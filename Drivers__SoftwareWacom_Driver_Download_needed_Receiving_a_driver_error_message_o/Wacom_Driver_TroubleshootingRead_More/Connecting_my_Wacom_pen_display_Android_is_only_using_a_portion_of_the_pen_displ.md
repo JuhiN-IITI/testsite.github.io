@@ -1,3 +1,7 @@
+layout: page
+title: "Connecting my Wacom pen display, Android is only using a portion of the pen display area and it just mirrors what’s on my Android display. How can I turn on Desktop mode and use the entire pen display?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Connecting_my_Wacom_pen_display_Android_is_only_using_a_portion_of_the_pen_displ
+
 # Connecting my Wacom pen display, Android is only using a portion of the pen display area and it just mirrors what’s on my Android display. How can I turn on Desktop mode and use the entire pen display?
 
 By default many Android devices will simply mirror their screen to an external display when connected for the first time. To use the entire pen display with your Android system, enable your device’s Desktop mode (called DeX on Samsung devices).

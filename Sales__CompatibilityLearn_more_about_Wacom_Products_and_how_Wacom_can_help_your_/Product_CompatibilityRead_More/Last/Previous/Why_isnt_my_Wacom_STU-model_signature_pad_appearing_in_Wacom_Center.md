@@ -1,3 +1,7 @@
+layout: page
+title: "Why isn't my Wacom STU-model signature pad appearing in Wacom Center?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/Previous/Why_isnt_my_Wacom_STU-model_signature_pad_appearing_in_Wacom_Center
+
 # Why isn't my Wacom STU-model signature pad appearing in Wacom Center?
 
 This is expected behavior - Wacom STU-model (i.e., STU-540, STU-430, etc.) signature PADs are a different class of product (from normal Wacom products that are built around a create/design workflow, i.e., such as Intuos and Cintiq) and always require an application that communicates directly with them derived from our Software Development Kit (SDK) - as such they are not 'plug-and-play'. 

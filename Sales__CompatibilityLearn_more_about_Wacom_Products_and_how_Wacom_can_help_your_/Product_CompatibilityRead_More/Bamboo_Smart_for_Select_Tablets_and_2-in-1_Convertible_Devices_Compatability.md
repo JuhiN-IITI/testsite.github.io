@@ -1,3 +1,7 @@
+layout: page
+title: "Bamboo Smart for Select Tablets and 2-in-1 Convertible Devices Compatability"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Bamboo_Smart_for_Select_Tablets_and_2-in-1_Convertible_Devices_Compatability
+
 # Bamboo Smart for Select Tablets and 2-in-1 Convertible Devices Compatability
 
 The Bamboo Smart is designed for select tablets and 2-in-1 convertible devices:

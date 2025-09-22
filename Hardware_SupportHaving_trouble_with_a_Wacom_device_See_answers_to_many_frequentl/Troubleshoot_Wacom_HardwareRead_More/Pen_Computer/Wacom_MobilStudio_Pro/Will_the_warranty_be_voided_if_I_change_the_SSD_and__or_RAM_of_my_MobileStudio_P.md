@@ -1,3 +1,7 @@
+layout: page
+title: "Will the warranty be voided if I change the SSD and / or RAM of my MobileStudio Pro?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MobilStudio_Pro/Will_the_warranty_be_voided_if_I_change_the_SSD_and__or_RAM_of_my_MobileStudio_P
+
 # Will the warranty be voided if I change the SSD and / or RAM of my MobileStudio Pro?
 
 Once the backdoor is opened, Wacom will not consider any issues on the hardware located under that section under warranty. This includes: SSD, RAM, connectors, slots, wires, circuits, electronic components, plastic covers, screws, holes, cover plates, etc.

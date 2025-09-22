@@ -1,3 +1,7 @@
+layout: page
+title: "Can I modify my order that was placed on the Wacom Store?"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/Existing_OrdersRead_More/Can_I_modify_my_order_that_was_placed_on_the_Wacom_Store
+
 # Can I modify my order that was placed on the Wacom Store?
 
 Once an order has been submitted on the Wacom Store, it cannot be modified. You can attempt to cancel the order by following the steps below:

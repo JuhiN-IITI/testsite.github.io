@@ -1,3 +1,7 @@
+layout: page
+title: "How do I register my Wacom legacy device?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/How_do_I_register_my_Wacom_legacy_device
+
 # How do I register my Wacom legacy device?
 
 Some legacy models of tables use a Software Bundle Download (SBD) Key for registration. 

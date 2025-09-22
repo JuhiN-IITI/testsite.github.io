@@ -1,3 +1,7 @@
+layout: page
+title: "Can I use my existing ExpressKey Remote with the Wacom Cintiq Pro?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_Pro_24__32/Can_I_use_my_existing_ExpressKey_Remote_with_the_Wacom_Cintiq_Pro
+
 # Can I use my existing ExpressKey Remote with the Wacom Cintiq Pro?
 
 Yes — you can use your existing ExpressKey Remote (EKR) with the Wacom Cintiq Pro or any other setup, even if you’re not using a Wacom pen display at all.

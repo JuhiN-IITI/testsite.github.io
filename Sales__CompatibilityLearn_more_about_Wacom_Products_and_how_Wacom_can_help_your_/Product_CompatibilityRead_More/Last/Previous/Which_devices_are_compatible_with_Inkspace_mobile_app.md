@@ -1,3 +1,7 @@
+layout: page
+title: "Which devices are compatible with Inkspace mobile app?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/Previous/Which_devices_are_compatible_with_Inkspace_mobile_app
+
 # Which devices are compatible with Inkspace mobile app?
 
 Inkspace mobile app works with iOS8 and later and supports the following devices:

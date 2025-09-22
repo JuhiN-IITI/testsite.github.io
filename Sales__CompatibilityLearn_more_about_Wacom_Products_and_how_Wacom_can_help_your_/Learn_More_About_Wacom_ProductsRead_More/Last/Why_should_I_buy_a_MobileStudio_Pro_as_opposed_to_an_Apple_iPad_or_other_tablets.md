@@ -1,3 +1,7 @@
+layout: page
+title: "Why should I buy a MobileStudio Pro as opposed to an Apple iPad or other tablets?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Why_should_I_buy_a_MobileStudio_Pro_as_opposed_to_an_Apple_iPad_or_other_tablets
+
 # Why should I buy a MobileStudio Pro as opposed to an Apple iPad or other tablets?
 
 The MobileStudio Pro was designed specifically for artists and other digital content creators. As such, it has some unique features not found on the MS Surface Pro or other tablets:

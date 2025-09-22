@@ -1,3 +1,7 @@
+layout: page
+title: "Bamboo Stylus feel for Samsung Galaxy Note Compatability"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Bamboo_Stylus_feel_for_Samsung_Galaxy_Note_Compatability
+
 # Bamboo Stylus feel for Samsung Galaxy Note Compatability
 
 The Bamboo Stylus feel is designed for select Samsung Galaxy Note devices and Bamboo Pad:

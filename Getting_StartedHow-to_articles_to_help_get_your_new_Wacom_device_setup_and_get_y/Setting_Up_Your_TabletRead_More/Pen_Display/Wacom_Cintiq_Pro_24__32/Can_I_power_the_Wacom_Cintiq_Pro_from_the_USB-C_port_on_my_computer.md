@@ -1,3 +1,7 @@
+layout: page
+title: "Can I power the Wacom Cintiq Pro from the USB-C port on my computer?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_Pro_24__32/Can_I_power_the_Wacom_Cintiq_Pro_from_the_USB-C_port_on_my_computer
+
 # Can I power the Wacom Cintiq Pro from the USB-C port on my computer?
 
 Due to the power requirements of the Wacom Cintiq Pro series, the included Wacom AC Power Adapter is required to operate the device. A standard USB-C port on a computer does not supply sufficient power for these models.

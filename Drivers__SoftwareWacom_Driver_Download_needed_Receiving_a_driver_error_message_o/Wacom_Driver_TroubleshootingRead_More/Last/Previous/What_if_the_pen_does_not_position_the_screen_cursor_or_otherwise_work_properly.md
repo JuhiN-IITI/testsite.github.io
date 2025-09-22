@@ -1,3 +1,7 @@
+layout: page
+title: "What if the pen does not position the screen cursor, or otherwise work properly?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_if_the_pen_does_not_position_the_screen_cursor_or_otherwise_work_properly
+
 # What if the pen does not position the screen cursor, or otherwise work properly?
 
 The tablet driver may not be installed properly. You will only be able to use the pen tip to move the screen cursor and click with the pen tip. For tablet models that combine pen input and touch, basic touch movement will continue to be recognized, but other actions and gestures will not. Install (or reinstall) the driver software for the tablet.

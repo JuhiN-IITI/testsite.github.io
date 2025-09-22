@@ -1,3 +1,7 @@
+layout: page
+title: "What is the differentiation of Wacom One 13 Touch / Wacom One 12 and previous Wacom One 13?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_2023/Wacom_One_13_Touch_2023/What_is_the_differentiation_of_Wacom_One_13_Touch__Wacom_One_12_and_previous_Wac
+
 # What is the differentiation of Wacom One 13 Touch / Wacom One 12 and previous Wacom One 13?
 
 Feature/Model

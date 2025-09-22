@@ -1,3 +1,7 @@
+layout: page
+title: "How do I connect the Wacom One 12 (DTC121) and Wacom One 13 Touch (DTH134) to a computer?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_2023/How_do_I_connect_the_Wacom_One_12_DTC121_and_Wacom_One_13_Touch_DTH134_to_a_comp
+
 # How do I connect the Wacom One 12 (DTC121) and Wacom One 13 Touch (DTH134) to a computer?
 
 After you remove the Wacom One from the box and are ready to begin using it, connect it to your computer using the steps in option A or B, depending on your computer's setup.

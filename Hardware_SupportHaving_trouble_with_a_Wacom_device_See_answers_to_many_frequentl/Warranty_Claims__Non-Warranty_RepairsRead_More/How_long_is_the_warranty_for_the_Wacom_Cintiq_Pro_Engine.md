@@ -1,3 +1,7 @@
+layout: page
+title: "How long is the warranty for the Wacom Cintiq Pro Engine?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Warranty_Claims__Non-Warranty_RepairsRead_More/How_long_is_the_warranty_for_the_Wacom_Cintiq_Pro_Engine
+
 # How long is the warranty for the Wacom Cintiq Pro Engine?
 
 The Wacom Limited warranty varies by region:

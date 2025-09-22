@@ -1,3 +1,7 @@
+layout: page
+title: "How can I limit burn-in on an OLED display, such as Wacom Movink?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/How_can_I_limit_burn-in_on_an_OLED_display_such_as_Wacom_Movink
+
 # How can I limit burn-in on an OLED display, such as Wacom Movink?
 
 If the same image is displayed continuously or repeatedly at high brightness on any OLED display, burn-in may occur. This is a characteristic of the OLED material and is not a malfunction of your Movink.

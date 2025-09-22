@@ -1,3 +1,7 @@
+layout: page
+title: "What does the LED mean on the Wacom Intuos (CTL-4100x, CTL-6100x, CTL-4100WLx and CTL-6100WLx)?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Tablet/Wacom_Intuos_2018/What_does_the_LED_mean_on_the_Wacom_Intuos_CTL-4100x_CTL-6100x_CTL-4100WLx_and_C
+
 # What does the LED mean on the Wacom Intuos (CTL-4100x, CTL-6100x, CTL-4100WLx and CTL-6100WLx)?
 
 The LED on your Wacom Intuos provides helpful information about the tablet’s status. Here’s what the different lights mean:

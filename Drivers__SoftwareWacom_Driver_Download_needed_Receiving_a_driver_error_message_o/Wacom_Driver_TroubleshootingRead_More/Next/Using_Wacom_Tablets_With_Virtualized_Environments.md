@@ -1,3 +1,7 @@
+layout: page
+title: "Using Wacom Tablets With Virtualized Environments"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Next/Using_Wacom_Tablets_With_Virtualized_Environments
+
 # Using Wacom Tablets With Virtualized Environments
 
 Can Wacom tablets be used on virtual machines?

@@ -1,3 +1,7 @@
+layout: page
+title: "How can I move files to and from my Cintiq Companion Hybrid to other devices?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Computer/Cintiq_Companion_Hybrid/How_can_I_move_files_to_and_from_my_Cintiq_Companion_Hybrid_to_other_devices
+
 # How can I move files to and from my Cintiq Companion Hybrid to other devices?
 
 The ASTRO File Manager™ is pre-installed on your Cintiq Companion Hybrid. It easily supports the moving and copying of files, as outlined below:

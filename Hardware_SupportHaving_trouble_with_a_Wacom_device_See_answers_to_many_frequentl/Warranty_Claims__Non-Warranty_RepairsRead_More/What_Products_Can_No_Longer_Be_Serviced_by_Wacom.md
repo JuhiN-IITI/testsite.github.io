@@ -1,3 +1,7 @@
+layout: page
+title: "What Products Can No Longer Be Serviced by Wacom?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Warranty_Claims__Non-Warranty_RepairsRead_More/What_Products_Can_No_Longer_Be_Serviced_by_Wacom
+
 # What Products Can No Longer Be Serviced by Wacom?
 
 End-of-Service Life (EOSL)

@@ -1,3 +1,7 @@
+layout: page
+title: "How can I use On-Screen Controls without having to worry about unintended touch input from my hands?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/How_can_I_use_On-Screen_Controls_without_having_to_worry_about_unintended_touch_
+
 # How can I use On-Screen Controls without having to worry about unintended touch input from my hands?
 
 On-Screen Controls behave just like physical keyboard keys. They support modifier keys, chording (combining) of multiple keys, and chording (combining) On-Screen Controls and Pen input.

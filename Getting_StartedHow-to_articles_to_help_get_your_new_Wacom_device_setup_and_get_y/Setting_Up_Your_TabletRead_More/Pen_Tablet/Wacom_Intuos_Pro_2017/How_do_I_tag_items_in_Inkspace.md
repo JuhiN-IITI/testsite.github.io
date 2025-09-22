@@ -1,3 +1,7 @@
+layout: page
+title: "How do I tag items in Inkspace?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Tablet/Wacom_Intuos_Pro_2017/How_do_I_tag_items_in_Inkspace
+
 # How do I tag items in Inkspace?
 
 Tagging on Inkspace presents a way for organization across the Inkspace platforms.

@@ -1,3 +1,7 @@
+layout: page
+title: "Why does the sound on my PC stop working when I connect the MobileStudio Pro or Cintiq Companion?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MobilStudio_Pro/Why_does_the_sound_on_my_PC_stop_working_when_I_connect_the_MobileStudio_Pro_or_
+
 # Why does the sound on my PC stop working when I connect the MobileStudio Pro or Cintiq Companion?
 
 In some instances, the MobileStudio Pro is identified by Windows as the default audio device. If you lose the sound on your PC after installing the MobileStudio Pro, simply follow these steps to quickly restore sound:

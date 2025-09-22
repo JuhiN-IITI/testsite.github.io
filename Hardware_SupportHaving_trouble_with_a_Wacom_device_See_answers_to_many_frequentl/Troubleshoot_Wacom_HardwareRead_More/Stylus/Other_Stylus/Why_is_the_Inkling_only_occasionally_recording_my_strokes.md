@@ -1,3 +1,7 @@
+layout: page
+title: "Why is the Inkling only occasionally recording my strokes?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Stylus/Other_Stylus/Why_is_the_Inkling_only_occasionally_recording_my_strokes
+
 # Why is the Inkling only occasionally recording my strokes?
 
 The green LED on the receiver should light when a stroke is recorded. If your strokes aren’t recording, we suggest that you first try to create a new sketch. Then, hold the pen vertically at the upper end, and make a circle in the middle of the paper, while keeping an eye on the green LED in the middle of the receiver unit.

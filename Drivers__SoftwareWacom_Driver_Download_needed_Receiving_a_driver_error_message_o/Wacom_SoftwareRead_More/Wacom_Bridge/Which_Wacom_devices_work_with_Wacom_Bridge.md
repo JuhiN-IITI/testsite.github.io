@@ -1,3 +1,7 @@
+layout: page
+title: "Which Wacom devices work with Wacom Bridge?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Bridge/Which_Wacom_devices_work_with_Wacom_Bridge
+
 # Which Wacom devices work with Wacom Bridge?
 
 Supported Wacom devices:

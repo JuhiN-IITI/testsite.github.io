@@ -1,3 +1,7 @@
+layout: page
+title: "But are blockchains not energy intensive?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Yuify/But_are_blockchains_not_energy_intensive
+
 # But are blockchains not energy intensive?
 
 CRI (Creative Rights Initiative) uses a blockchain that this allows Yuify and partners to record transaction as authorities without using high power verification mechanisms. By this we ensure that records are secure and no additional energy is consumed to verify these transactions.

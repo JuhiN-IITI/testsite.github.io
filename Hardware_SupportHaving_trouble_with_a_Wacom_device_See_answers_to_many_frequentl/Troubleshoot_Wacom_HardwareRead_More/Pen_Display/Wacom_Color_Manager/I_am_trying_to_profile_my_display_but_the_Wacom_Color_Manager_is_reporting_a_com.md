@@ -1,3 +1,7 @@
+layout: page
+title: "I am trying to profile my display, but the Wacom Color Manager is reporting a communication error."
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Color_Manager/I_am_trying_to_profile_my_display_but_the_Wacom_Color_Manager_is_reporting_a_com
+
 # I am trying to profile my display, but the Wacom Color Manager is reporting a communication error.
 
 Clicking the Retry button, and being patient, will generally overcome this issue. Sometimes it may take a little longer for WCM to establish the connection to the Cintiq27QHD Look-Up Table (LUT).

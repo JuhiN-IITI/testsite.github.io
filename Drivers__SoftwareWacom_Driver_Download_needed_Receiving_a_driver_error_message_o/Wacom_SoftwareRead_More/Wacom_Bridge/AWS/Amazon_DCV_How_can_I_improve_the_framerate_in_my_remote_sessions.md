@@ -1,3 +1,7 @@
+layout: page
+title: "Amazon DCV: How can I improve the framerate in my remote sessions?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Bridge/AWS/Amazon_DCV_How_can_I_improve_the_framerate_in_my_remote_sessions
+
 # Amazon DCV: How can I improve the framerate in my remote sessions?
 
 The framerate of the Server greatly impacts the creative experience on Wacom Bridge. To adjust the framerate from the default (25 fps), an administrator needs to adjust the registry on the Server.

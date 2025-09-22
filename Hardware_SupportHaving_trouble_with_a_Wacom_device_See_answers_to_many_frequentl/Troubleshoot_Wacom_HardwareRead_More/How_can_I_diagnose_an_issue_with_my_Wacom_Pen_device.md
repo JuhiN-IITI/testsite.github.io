@@ -1,3 +1,7 @@
+layout: page
+title: "How can I diagnose an issue with my Wacom Pen device?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/How_can_I_diagnose_an_issue_with_my_Wacom_Pen_device
+
 # How can I diagnose an issue with my Wacom Pen device?
 
 Before using the Diagnose tool, check the following: 

@@ -1,3 +1,7 @@
+layout: page
+title: "Bamboo Solo, Bamboo Duo Compatibility"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Bamboo_Solo_Bamboo_Duo_Compatibility
+
 # Bamboo Solo, Bamboo Duo Compatibility
 
 The Bamboo Solo and Bamboo Duo are designed for the following devices:

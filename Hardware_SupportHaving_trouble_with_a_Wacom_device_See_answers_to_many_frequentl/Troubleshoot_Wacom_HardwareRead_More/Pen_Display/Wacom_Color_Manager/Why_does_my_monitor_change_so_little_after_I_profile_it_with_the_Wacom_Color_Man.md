@@ -1,3 +1,7 @@
+layout: page
+title: "Why does my monitor change so little after I profile it with the Wacom Color Manager?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Color_Manager/Why_does_my_monitor_change_so_little_after_I_profile_it_with_the_Wacom_Color_Man
+
 # Why does my monitor change so little after I profile it with the Wacom Color Manager?
 
 The amount of visual change you will see after calibrating your monitor will depend to a large degree on the target settings you used to create your monitor calibration, especially the color temperature. For example, if you choose native white point you will not see a large change from your monitor's native state. Also, some monitors, like the Cintiq Pro, are designed for graphic arts applications and will be preset to approximately 6500K and will not show a significant color shift after calibration.

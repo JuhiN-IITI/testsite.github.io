@@ -1,3 +1,7 @@
+layout: page
+title: "What kind of ball pen refills does the Bamboo Duo use?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Product_CompatibilityRead_More/Last/Previous/What_kind_of_ball_pen_refills_does_the_Bamboo_Duo_use
+
 # What kind of ball pen refills does the Bamboo Duo use?
 
 A Bamboo Duo uses a high quality standard ball pen mini cartridge with a 0.7mm ball point size and black ink color. Replacement refills in black and other ink colors are generally available from stores that carry ballpoint refills.

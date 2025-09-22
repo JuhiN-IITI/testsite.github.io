@@ -1,3 +1,7 @@
+layout: page
+title: "How do you  save a sketch in Wacom Canvas?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Computer/Wacom_MovinkPad_11/How_do_you__save_a_sketch_in_Wacom_Canvas
+
 # How do you  save a sketch in Wacom Canvas?
 
 When you create a new canvas or close Wacom Canvas, your sketches are automatically saved. You can review them later as creative ideas from the Wacom Shelf app. Even if you export a sketch from the share menu, you can continue adding to it while keeping the canvas open.

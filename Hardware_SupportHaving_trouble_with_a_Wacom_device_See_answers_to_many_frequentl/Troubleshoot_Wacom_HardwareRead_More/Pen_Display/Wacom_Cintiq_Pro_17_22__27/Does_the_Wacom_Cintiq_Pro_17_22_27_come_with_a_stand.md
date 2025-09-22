@@ -1,3 +1,7 @@
+layout: page
+title: "Does the Wacom Cintiq Pro 17, 22, 27 come with a stand?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Cintiq_Pro_17_22__27/Does_the_Wacom_Cintiq_Pro_17_22_27_come_with_a_stand
+
 # Does the Wacom Cintiq Pro 17, 22, 27 come with a stand?
 
 Wacom Cintiq Pro 22 & 27

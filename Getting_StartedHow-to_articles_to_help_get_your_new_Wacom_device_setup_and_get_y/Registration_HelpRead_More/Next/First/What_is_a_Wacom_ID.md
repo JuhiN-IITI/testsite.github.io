@@ -1,3 +1,7 @@
+layout: page
+title: "What is a Wacom ID?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/Next/First/What_is_a_Wacom_ID
+
 # What is a Wacom ID?
 
 A Wacom ID is your personal account that you use to access Wacom services and platforms (*). It is your unique identifier with Wacom and consists of a login name and a password. 

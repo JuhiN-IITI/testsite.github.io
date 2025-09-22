@@ -1,3 +1,7 @@
+layout: page
+title: "What is OLED, and what are the advantages for this type of display in Wacom Movink?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/Next/First/What_is_OLED_and_what_are_the_advantages_for_this_type_of_display_in_Wacom_Movin
+
 # What is OLED, and what are the advantages for this type of display in Wacom Movink?
 
 Features

@@ -1,3 +1,7 @@
+layout: page
+title: "Installing and setup of the Cintiq 21UX"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Other_Cintiq_Models/Installing_and_setup_of_the_Cintiq_21UX
+
 # Installing and setup of the Cintiq 21UX
 
 Make sure all devices are turned off.

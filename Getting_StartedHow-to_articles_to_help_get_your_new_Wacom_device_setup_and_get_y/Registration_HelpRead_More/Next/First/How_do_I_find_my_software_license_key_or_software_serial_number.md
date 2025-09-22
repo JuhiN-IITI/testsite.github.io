@@ -1,3 +1,7 @@
+layout: page
+title: "How do I find my software license key or software serial number?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/Next/First/How_do_I_find_my_software_license_key_or_software_serial_number
+
 # How do I find my software license key or software serial number?
 
 Once you have registered your tablet, you will receive an email registration confirmation along with any software license keys for your bundle software, if applicable.

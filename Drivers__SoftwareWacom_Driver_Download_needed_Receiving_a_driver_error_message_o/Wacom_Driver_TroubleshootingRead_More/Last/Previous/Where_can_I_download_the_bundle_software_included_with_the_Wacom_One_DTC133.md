@@ -1,3 +1,7 @@
+layout: page
+title: "Where can I download the bundle software included with the Wacom One (DTC133)?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/Where_can_I_download_the_bundle_software_included_with_the_Wacom_One_DTC133
+
 # Where can I download the bundle software included with the Wacom One (DTC133)?
 
 First, download the most recent driver here.

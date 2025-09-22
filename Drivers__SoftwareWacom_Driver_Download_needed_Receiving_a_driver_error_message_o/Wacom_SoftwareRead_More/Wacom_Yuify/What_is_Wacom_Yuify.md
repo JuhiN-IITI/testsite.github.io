@@ -1,3 +1,7 @@
+layout: page
+title: "What is Wacom Yuify?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Yuify/What_is_Wacom_Yuify
+
 # What is Wacom Yuify?
 
 Wacom Yuify [ ̍ʝ uː i . f a i ] is a service that allows artists to protect their artwork, manage usage rights, and establish legally binding license permissions. Yuify enables artists to secure their exports by embedding a unique digital ID with a permanent record of registration, which can be used to trace it back to the artist who registered.

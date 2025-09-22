@@ -1,3 +1,7 @@
+layout: page
+title: "I’m left-handed. How do I change my Cintiq Companion Hybrid so I can use the ExpressKeys on the right side of the display?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Computer/Cintiq_Companion_Hybrid/Im_left-handed_How_do_I_change_my_Cintiq_Companion_Hybrid_so_I_can_use_the_Expre
+
 # I’m left-handed. How do I change my Cintiq Companion Hybrid so I can use the ExpressKeys on the right side of the display?
 
 Simply follow these instructions to enable left-handed and use of the ExpressKeys, based on your operating system:

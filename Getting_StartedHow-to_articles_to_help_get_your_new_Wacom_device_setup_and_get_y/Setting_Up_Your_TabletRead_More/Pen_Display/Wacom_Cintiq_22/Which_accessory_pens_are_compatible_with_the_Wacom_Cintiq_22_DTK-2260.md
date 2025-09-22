@@ -1,3 +1,7 @@
+layout: page
+title: "Which accessory pens are compatible with the Wacom Cintiq 22 (DTK-2260)?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Wacom_Cintiq_22/Which_accessory_pens_are_compatible_with_the_Wacom_Cintiq_22_DTK-2260
+
 # Which accessory pens are compatible with the Wacom Cintiq 22 (DTK-2260)?
 
 Current generation pens: 

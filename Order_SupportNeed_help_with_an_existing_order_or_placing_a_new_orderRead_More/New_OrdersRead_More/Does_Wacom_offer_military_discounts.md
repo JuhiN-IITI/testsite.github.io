@@ -1,3 +1,7 @@
+layout: page
+title: "Does Wacom offer military discounts?"
+permalink: /Order_SupportNeed_help_with_an_existing_order_or_placing_a_new_orderRead_More/New_OrdersRead_More/Does_Wacom_offer_military_discounts
+
 # Does Wacom offer military discounts?
 
 Yes, Wacom proudly offers discounts to active duty service members, veterans, military retirees, reservists and members of the national guards in the United States. To learn more about this program, please visit our military discount page here.

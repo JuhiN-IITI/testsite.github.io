@@ -1,3 +1,7 @@
+layout: page
+title: "Does Wacom support Windows 32-bit Operating Systems?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Does_Wacom_support_Windows_32-bit_Operating_Systems
+
 # Does Wacom support Windows 32-bit Operating Systems?
 
 Wacom has discontinued driver updates for 32-bit versions of Windows. This affects the 32-bit versions of Windows 7, Windows 8.1, and Windows 10.

@@ -1,3 +1,7 @@
+layout: page
+title: "Which accessories are available for Wacom Intuos Pro (2017) products?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Tablet/Wacom_Intuos_Pro_2017/Which_accessories_are_available_for_Wacom_Intuos_Pro_2017_products
+
 # Which accessories are available for Wacom Intuos Pro (2017) products?
 
 With Wacom Intuos Pro, customers have many options to choose from. All accessories have been designed to enhance their creativity and lifestyle. The accessory options include pens and nibs, replaceable surface sheets, and the Intuos Pro Paper accessories.

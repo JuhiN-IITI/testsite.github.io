@@ -1,3 +1,7 @@
+layout: page
+title: "How to send a Wacom product in to be repaired?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Warranty_Claims__Non-Warranty_RepairsRead_More/How_to_send_a_Wacom_product_in_to_be_repaired
+
 # How to send a Wacom product in to be repaired?
 
 Create a ticket to obtain RMA

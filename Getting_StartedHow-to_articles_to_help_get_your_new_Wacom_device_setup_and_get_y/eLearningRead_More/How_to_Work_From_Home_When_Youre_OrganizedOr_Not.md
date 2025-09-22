@@ -1,3 +1,7 @@
+layout: page
+title: "How to Work From Home When You’re Organized…Or Not"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/eLearningRead_More/How_to_Work_From_Home_When_Youre_OrganizedOr_Not
+
 # How to Work From Home When You’re Organized…Or Not
 
 Here at Wacom, we have a band of professional artists who come with us to events and tradeshows and offer their expert ideas and insights in using Wacom products for their art. TheOneWithBear (aka Sarajean) is one of our traveling crew and she’s an expert in many things: Clip Studio Paint, Wacom, gaming, and consuming gigantic burritos at midnight. (It’s this last quality we most admire.)

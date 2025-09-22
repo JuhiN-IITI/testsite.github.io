@@ -1,3 +1,7 @@
+layout: page
+title: "Downloading and Launching Inkspace"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Inkspace/Downloading_and_Launching_Inkspace
+
 # Downloading and Launching Inkspace
 
 Inkspace is an application for mobile devices and desktop computers. Enabling Wacom tablets and devices that record paper drawings like the Bamboo Spark, Folio, Slate, and the new Intuos pro and Intuos pro paper. With the paper accessory kit, Inkspace is available for free from the wacom desktop center.

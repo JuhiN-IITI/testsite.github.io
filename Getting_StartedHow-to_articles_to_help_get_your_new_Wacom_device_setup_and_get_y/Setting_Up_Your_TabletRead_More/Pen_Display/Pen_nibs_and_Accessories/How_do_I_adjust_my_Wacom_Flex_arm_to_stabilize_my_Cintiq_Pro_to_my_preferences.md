@@ -1,3 +1,7 @@
+layout: page
+title: "How do I adjust my Wacom Flex arm to stabilize my Cintiq Pro to my preferences?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Pen_nibs_and_Accessories/How_do_I_adjust_my_Wacom_Flex_arm_to_stabilize_my_Cintiq_Pro_to_my_preferences
+
 # How do I adjust my Wacom Flex arm to stabilize my Cintiq Pro to my preferences?
 
 To Increase/Decrease Arm Lift Strength:

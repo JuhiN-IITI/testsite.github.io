@@ -1,3 +1,7 @@
+layout: page
+title: "How can I use the On-Screen Controls like ExpressKeys?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/How_can_I_use_the_On-Screen_Controls_like_ExpressKeys
+
 # How can I use the On-Screen Controls like ExpressKeys?
 
 On-Screen Controls behave just like physical keyboard keys. They support modifier keys, chording (combining) of multiple keys, and chording (combining) On-Screen Controls and Pen input.

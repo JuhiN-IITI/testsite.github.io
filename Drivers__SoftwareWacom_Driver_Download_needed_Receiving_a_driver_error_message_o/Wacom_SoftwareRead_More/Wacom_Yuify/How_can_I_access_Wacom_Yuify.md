@@ -1,3 +1,7 @@
+layout: page
+title: "How can I access Wacom Yuify?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_SoftwareRead_More/Wacom_Yuify/How_can_I_access_Wacom_Yuify
+
 # How can I access Wacom Yuify?
 
 If you are located in an EU country, in UK, Norway, Switzerland or the USA you can just go to https://yuify.com/learn-more and watch the videos or follow the instructions how to get started.

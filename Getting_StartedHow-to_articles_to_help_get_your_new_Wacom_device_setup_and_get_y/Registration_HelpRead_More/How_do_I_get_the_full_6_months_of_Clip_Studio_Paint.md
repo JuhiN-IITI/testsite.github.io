@@ -1,3 +1,7 @@
+layout: page
+title: "How do I get the full 6 months of Clip Studio Paint?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Registration_HelpRead_More/How_do_I_get_the_full_6_months_of_Clip_Studio_Paint
+
 # How do I get the full 6 months of Clip Studio Paint?
 
 Wacom users who use Clip Studio Paint bundled with their Wacom products can receive an additional three months of free Clip Studio Paint for free with the purchase of a monthly usage plan. To access this offer, please follow the insructions below.

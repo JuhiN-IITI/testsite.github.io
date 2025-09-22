@@ -1,3 +1,7 @@
+layout: page
+title: "What accessories are offered with Wacom One 13 Touch / Wacom One 12?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_One_2023/What_accessories_are_offered_with_Wacom_One_13_Touch__Wacom_One_12
+
 # What accessories are offered with Wacom One 13 Touch / Wacom One 12?
 
 Wacom One Standard Pen White-Gray

@@ -1,3 +1,7 @@
+layout: page
+title: "How do I find out which connections my computer or smart device supports?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/How_do_I_find_out_which_connections_my_computer_or_smart_device_supports
+
 # How do I find out which connections my computer or smart device supports?
 
 The easiest way, is by simply looking at the ports on your computer.

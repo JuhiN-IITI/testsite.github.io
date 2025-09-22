@@ -1,3 +1,7 @@
+layout: page
+title: "What Wacom products is the Wacom Pro Pen 3D compatible with?"
+permalink: /Getting_StartedHow-to_articles_to_help_get_your_new_Wacom_device_setup_and_get_y/Setting_Up_Your_TabletRead_More/Pen_Display/Pen_nibs_and_Accessories/What_Wacom_products_is_the_Wacom_Pro_Pen_3D_compatible_with
+
 # What Wacom products is the Wacom Pro Pen 3D compatible with?
 
 The Wacom Pro Pen 3D works with these Wacom devices:

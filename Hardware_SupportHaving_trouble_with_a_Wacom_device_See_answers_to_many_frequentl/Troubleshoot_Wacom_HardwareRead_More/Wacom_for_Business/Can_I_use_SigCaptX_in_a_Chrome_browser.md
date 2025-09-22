@@ -1,3 +1,7 @@
+layout: page
+title: "Can I use SigCaptX in a Chrome browser?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Wacom_for_Business/Can_I_use_SigCaptX_in_a_Chrome_browser
+
 # Can I use SigCaptX in a Chrome browser?
 
 Yes, you can use SigCaptX with Chrome, Firefox and Edge browsers.

@@ -1,3 +1,7 @@
+layout: page
+title: "I don’t want my Wacom Intuos rotate, how can I keep my detachable/slate type Chromebook in landscape/portrait mode?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Tablet/Wacom_Intuos_2018/I_dont_want_my_Wacom_Intuos_rotate_how_can_I_keep_my_detachableslate_type_Chrome
+
 # I don’t want my Wacom Intuos rotate, how can I keep my detachable/slate type Chromebook in landscape/portrait mode?
 
 "Please follow the steps below to set it to a specific orientation:

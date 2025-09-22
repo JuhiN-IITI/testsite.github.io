@@ -1,3 +1,7 @@
+layout: page
+title: "Is there a driver for macOS 13, Ventura?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/First/Is_there_a_driver_for_macOS_13_Ventura
+
 # Is there a driver for macOS 13, Ventura?
 
 The current driver supports macOS 13 (Ventura). 

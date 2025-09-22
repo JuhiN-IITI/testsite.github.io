@@ -1,3 +1,7 @@
+layout: page
+title: "What is the active area and mapping?"
+permalink: /Sales__CompatibilityLearn_more_about_Wacom_Products_and_how_Wacom_can_help_your_/Learn_More_About_Wacom_ProductsRead_More/Last/Previous/What_is_the_active_area_and_mapping
+
 # What is the active area and mapping?
 
 The active area is the area on the tablet that you interact with by pen and touch, if touch is supported on your tablet. The active area might be indicated by a different color or by a pattern. The edges of the active area might be outlined or indicated with marks in the corners.

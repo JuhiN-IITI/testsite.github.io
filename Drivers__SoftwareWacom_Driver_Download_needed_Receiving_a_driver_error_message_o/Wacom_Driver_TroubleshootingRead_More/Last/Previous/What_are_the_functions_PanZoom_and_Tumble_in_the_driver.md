@@ -1,3 +1,7 @@
+layout: page
+title: "What are the functions “Pan/Zoom” and “Tumble” in the driver?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/Wacom_Driver_TroubleshootingRead_More/Last/Previous/What_are_the_functions_PanZoom_and_Tumble_in_the_driver
+
 # What are the functions “Pan/Zoom” and “Tumble” in the driver?
 
 Pan/Zoom” and “Tumble” are two new functions that were introduced in driver version 6.3.25 in order to make working with a pen in 3D applications easier.

@@ -1,3 +1,7 @@
+layout: page
+title: "Do I need to install the latest Java updates for sign Ι pro PDF?"
+permalink: /Drivers__SoftwareWacom_Driver_Download_needed_Receiving_a_driver_error_message_o/sign_pro_PDFRead_More/Next/Do_I_need_to_install_the_latest_Java_updates_for_sign__pro_PDF
+
 # Do I need to install the latest Java updates for sign Ι pro PDF?
 
 Your sign Ι pro PDF is equipped with a private Java installation, built for exclusive use with the application. For other Java applications, you can install the Java Runtime Environment (JRE) alongside sign Ι pro PDF, and update it at any time.

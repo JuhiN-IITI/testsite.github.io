@@ -1,3 +1,7 @@
+layout: page
+title: "What accessories can be purchased for Wacom Movink at the Wacom store?"
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Movink/Next/First/What_accessories_can_be_purchased_for_Wacom_Movink_at_the_Wacom_store
+
 # What accessories can be purchased for Wacom Movink at the Wacom store?
 
 USB-C to C cable 1.0m - ACK45206Z
