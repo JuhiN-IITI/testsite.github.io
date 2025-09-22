@@ -1,0 +1,11 @@
+layout: page
+title: "If I calibrate my Wacom Cintiq Pro 27 with the Wacom Color Manager, will other people see the same color as I do?""
+permalink: /Hardware_SupportHaving_trouble_with_a_Wacom_device_See_answers_to_many_frequentl/Troubleshoot_Wacom_HardwareRead_More/Pen_Display/Wacom_Color_Manager/If_I_calibrate_my_Wacom_Cintiq_Pro_27_with_the_Wacom_Color_Manager_will_other_pe
+
+# If I calibrate my Wacom Cintiq Pro 27 with the Wacom Color Manager, will other people see the same color as I do?"
+
+"One common belief is if someone creates a file on their color profiled monitor that others can see the same correct color. Not necessarily true. You cannot assume your clients, friends, relatives, or the general public will see authentic colors when they view your pictures or image files, unless they follow a similar workflow to what you will be doing. If you provide an image file (TIFF, JPEG, RAW, EPS, PDF) to a someone else for their evaluation, that person will need to use a colorimeter (such as Wacom Color Manager, the i1Display or i1Display PRO) or a spectrophotometer (such as the i1PRO2, i1Studio) to profile their monitor to the correct color temperature and luminance, as well as open that file in a color managed application, such as Photoshop or Lightroom. The settings that you use to view color accurate files on your computer will not have any impact on what someone else will see, unless you instruct them on correct procedures. You are only able to control what you see on your monitor. One ""gentle"" way to find out if the recipient of your file will be able to see correct color would be to ask them ""What color settings do you use when you profile your monitor?"" or ""Which color space is your monitor set to?"" If that question is followed by a long pause or a text message that says ""?"" you should not expect them to be able to see an accurate view of any color in your file. There monitor will likely do the best it can to display colors that may simply be out of its reach.
+"
+
+---
+Source: [https://support.wacom.com/hc/en-us/articles/9224035954327-If-I-calibrate-my-Wacom-Cintiq-Pro-27-with-the-Wacom-Color-Manager-will-other-people-see-the-same-color-as-I-do](https://support.wacom.com/hc/en-us/articles/9224035954327-If-I-calibrate-my-Wacom-Cintiq-Pro-27-with-the-Wacom-Color-Manager-will-other-people-see-the-same-color-as-I-do)
